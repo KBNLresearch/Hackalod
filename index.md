@@ -1,9 +1,9 @@
 ## Mockup screenshots
 
 
-![Image](https://github.com/KBNLresearch/Hackalod/blob/main/screenshots/screenshot1.JPG)
+![screenshot1.JPG](https://github.com/KBNLresearch/Hackalod/blob/main/screenshots/screenshot1.JPG?raw=true)
 
-![Image](https://github.com/KBNLresearch/Hackalod/blob/main/screenshots/screenshot2.JPG)
+![screenshot2.JPG](https://github.com/KBNLresearch/Hackalod/blob/main/screenshots/screenshot2.JPG?raw=true)
 
-![Image](https://github.com/KBNLresearch/Hackalod/blob/main/screenshots/screenshot3.JPG)
+![screenshot3.JPG](https://github.com/KBNLresearch/Hackalod/blob/main/screenshots/screenshot3.JPG?raw=true)
 
