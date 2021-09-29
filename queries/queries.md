@@ -61,8 +61,8 @@
 	PAGES = DATA['query']['pages']
 	print(json.dumps(PAGES, indent=2))
 ```
+* [Image gallery from SPARQL query in Wikidata](https://w.wiki/49Ba)
 
-* P180 - depicts
 
 
 
