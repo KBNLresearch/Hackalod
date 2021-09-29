@@ -8,8 +8,16 @@
 ### Somewhat more elaborate 
 * [Occupation, year of birth/death, Commons cats](https://query.wikidata.org/#%23Contributors%20to%20the%20Album%20amicorum%20of%20Jacob%20Heyblocq%0ASELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3Fgender%20%3FgenderLabel%20%3Fimage%20%3Fdateofbirth%20%3Fdateofdeath%20%0A%28GROUP_CONCAT%28DISTINCT%20%3FoccupationLabel%20%3B%20separator%20%3D%20%22%20--%20%22%29%20as%20%3FOccupations%29%0A%3FCommonsCategory%0AWHERE%20%0A%7B%0A%20%20%3Fitem%20p%3AP31%2Fps%3AP31%20wd%3AQ5.%0A%20%20wd%3AQ72752496%20p%3AP767%2Fps%3AP767%20%3Fitem.%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP18%2Fps%3AP18%20%3Fimage.%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP21%2Fps%3AP21%20%3Fgender.%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP569%2Fps%3AP569%20%3Fdateofbirth.%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP570%2Fps%3AP570%20%3Fdateofdeath.%7D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP106%2Fps%3AP106%20%3Foccupation.%7D%0A%20%20OPTIONAL%7B%20%3Fitem%20p%3AP373%2Fps%3AP373%20%3Fcommonscat.%0A%20%20BIND%28URI%28CONCAT%28%22https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FCategory%3A%22%2C%20REPLACE%28%3Fcommonscat%2C%20%22%20%22%2C%20%22_%22%2C%20%22i%22%29%29%29%20as%20%3FCommonsCategory%29.%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Foccupation%20rdfs%3Alabel%20%3FoccupationLabel.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Fitem%20rdfs%3Alabel%20%3FitemLabel.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Fgender%20rdfs%3Alabel%20%3FgenderLabel.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%20%0A%7D%20GROUP%20BY%20%3Fitem%20%3FitemLabel%20%3Fgender%20%3FgenderLabel%20%3Fimage%20%3Fdateofbirth%20%3Fdateofdeath%20%3FCommonsCategory%0A%20%20ORDER%20BY%20ASC%28%3FCommonsCategory%29)
 
+### Wikidata properties related to AAJH contributors
+* [Wikidata properties used for contributors of AAJH](https://query.wikidata.org/#%23Getting%20all%20properties%20for%20contributors%20of%20AA%20JH%0A%23https%3A%2F%2Fstackoverflow.com%2Fquestions%2F42076194%2Fget-properties-from-a-group-of-items-in-with-sparql%0ASELECT%20DISTINCT%20%3Fproperty%20%3FpropLabel%20WHERE%20%7B%0A%20%20BIND%28wd%3AQ72752496%20as%20%3Falbum%29%0A%20%20%3Falbum%20wdt%3AP767%20%3Fcontributor.%0A%20%20%3Fcontributor%20%3Fproperty%20%3Fvalue.%0A%20%20hint%3AQuery%20hint%3Aoptimizer%20%22None%22%20.%0A%20%20%3Fprop%20wikibase%3AdirectClaim%20%3Fproperty%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20%7D%0A%7D%0AORDER%20BY%20%3Fproperty)
 
-## 
+### Useful external IDs 
+* [ISNI (P213) 	VIAF ID (P214) 	Nationale Thesaurus voor Auteurs ID (P1006) 	Digitale Bibliotheek voor de Nederlandse Letteren author ID (P723) 	Biografisch Portaal van Nederland ID (P651) 	CERL Thesaurus ID (P1871) 	RKDartists ID (P650) 	EMLO person ID (P1802) 	GND ID (P227) 	Europeana entity (P7704) 	Library of Congress authority ID (P244) 	Union List of Artist Names ID (P245)]()
+
+
+
+
+
 
 # Other alba
 
