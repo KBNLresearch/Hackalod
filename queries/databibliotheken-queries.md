@@ -6,7 +6,7 @@ Taken from https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_Nati
 * SPARQL endpoint: http://data.bibliotheken.nl/sparql
 
 ## 1) Querying alba (+contributions) through data.bibliotheken.nl SPARQL endpoint
-### Alba only
+### a) Alba only (without GROUP_CONCAT)
 ```
  SELECT DISTINCT ?album ?inventoryNumber ?albumtitle ?image WHERE {
  ?inscription foaf:isPrimaryTopicOf/void:inDataset <http://data.bibliotheken.nl/id/dataset/rise-alba> .
@@ -18,9 +18,9 @@ Taken from https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_Nati
  ?a schema:contentUrl ?image .
  } ORDER BY ?album
 ```
-[Direct query URL](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=SELECT+DISTINCT+%3Falbum+%3FinventoryNumber+%3Falbumtitle+%3Fimage+WHERE+%7B%0D%0A+++%3Finscription+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Frise-alba%3E+.%0D%0A+++%3Finscription+schema%3AisPartOf+%3Falbum+.%0D%0A+++%3Falbum+schema%3Aname+%3Falbumtitle+.%0D%0A+++%3Falbum+schema%3Aidentifier+%3FinventoryNumber.+%0D%0A+++%3Falbum+schema%3AdateCreated+%3FdateCreated+.%0D%0A+++%3Falbum+schema%3Aimage+%3Fa+.%0D%0A+++%3Fa+schema%3AcontentUrl+%3Fimage+.%0D%0A+++%7D+ORDER+BY+%3Falbum+%0D%0A&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+) and [as JSON]()
+[Try this query](http://data.bibliotheken.nl/sparql?qtxt=SELECT+DISTINCT+%3Falbum+%3FinventoryNumber+%3Falbumtitle+%3Fimage+WHERE+{%0D%0A+%3Finscription+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Frise-alba%3E+.%0D%0A+%3Finscription+schema%3AisPartOf+%3Falbum+.%0D%0A+%3Falbum+schema%3Aname+%3Falbumtitle+.%0D%0A+%3Falbum+schema%3Aidentifier+%3FinventoryNumber.+%0D%0A+%3Falbum+schema%3AdateCreated+%3FdateCreated+.%0D%0A+%3Falbum+schema%3Aimage+%3Fa+.%0D%0A+%3Fa+schema%3AcontentUrl+%3Fimage+.%0D%0A+}+ORDER+BY+%3Falbum&format=application%2Fsparql-results%2Bjson&timeout=0&debug=on&run=+Run+Query+) -- [See query result](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=SELECT+DISTINCT+%3Falbum+%3FinventoryNumber+%3Falbumtitle+%3Fimage+WHERE+%7B%0D%0A+++%3Finscription+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Frise-alba%3E+.%0D%0A+++%3Finscription+schema%3AisPartOf+%3Falbum+.%0D%0A+++%3Falbum+schema%3Aname+%3Falbumtitle+.%0D%0A+++%3Falbum+schema%3Aidentifier+%3FinventoryNumber.+%0D%0A+++%3Falbum+schema%3AdateCreated+%3FdateCreated+.%0D%0A+++%3Falbum+schema%3Aimage+%3Fa+.%0D%0A+++%3Fa+schema%3AcontentUrl+%3Fimage+.%0D%0A+++%7D+ORDER+BY+%3Falbum+%0D%0A&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+) -- [Result as JSON](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=+SELECT+DISTINCT+%3Falbum+%3FinventoryNumber+%3Falbumtitle+%3Fimage+WHERE+%7B%0D%0A+%3Finscription+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Frise-alba%3E+.%0D%0A+%3Finscription+schema%3AisPartOf+%3Falbum+.%0D%0A+%3Falbum+schema%3Aname+%3Falbumtitle+.%0D%0A+%3Falbum+schema%3Aidentifier+%3FinventoryNumber.+%0D%0A+%3Falbum+schema%3AdateCreated+%3FdateCreated+.%0D%0A+%3Falbum+schema%3Aimage+%3Fa+.%0D%0A+%3Fa+schema%3AcontentUrl+%3Fimage+.%0D%0A+%7D+ORDER+BY+%3Falbum&format=application%2Fsparql-results%2Bjson&timeout=0&debug=on&run=+Run+Query+)
 
-### Alba with GROUP_CONCAT
+### b) Alba with GROUP_CONCAT
 _Retrieves 57 alba_
 ```
  SELECT DISTINCT 
@@ -55,9 +55,9 @@ _Retrieves 57 alba_
  } #GROUP BY ?album  ?albumwidth ?albumheight #?albumpages
  ORDER BY ?album
 ```
-[Direct query URL]() and [as JSON]()
+[Try this query]() -- [See query result]() -- [Result as JSON]()
 
-### Alba and their contributions
+### c) Alba and their contributions
 _Retrieves 2096 results_
 ```
  SELECT DISTINCT ?album ?albumtitle ?contrib ?contribtitle WHERE { #
@@ -67,10 +67,10 @@ _Retrieves 2096 results_
  ?album schema:name ?albumtitle .
  } ORDER BY ?album
 ```
-[Direct query URL]() and [as JSON]()
+[Try this query]() -- [See query result]() -- [Result as JSON]()
 
 ## 2) Querying alba amicorum (+ contributions) through Wikidata query service
-### All alba amicorum in data.bibliotheken.nl ===
+### a) All alba amicorum in data.bibliotheken.nl ===
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX schema: <http://schema.org/>
@@ -91,9 +91,9 @@ SELECT DISTINCT ?album ?albumtitle WHERE {
 ORDER BY ?album
 limit 1000
 ```
-[Direct query URL]() and [as JSON]()
+[Try this query]() -- [See query result]() -- [Result as JSON]()
 
-### Contributions to an album with the name 'Kerwal' 
+### b) Contributions to an album with the name 'Kerwal' 
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX schema: <http://schema.org/>
@@ -119,9 +119,9 @@ GROUP BY ?album ?bijdrage ?afbeelding ?auteur ?maakdatum ?maaklocatie ?album_nam
 ORDER BY xsd:integer(?bijdrage_nummer)
 limit 1000
 ```
-[Direct query URL]() and [as JSON]()
+[Try this query]() -- [See query result]() -- [Result as JSON]()
 
-### All contributions to alba amicorum in data.bibliotheken.nl (3721 rows)
+### c) All contributions to alba amicorum in data.bibliotheken.nl (3721 rows)
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX schema: <http://schema.org/>
@@ -145,4 +145,4 @@ SELECT DISTINCT ?album  ?album_name ?bijdrage ?bijdrage_name ?auteur (GROUP_CONC
   GROUP BY ?album ?bijdrage ?afbeelding ?auteur ?maakdatum ?maaklocatie ?album_name ?bijdrage_name ?bijdrage_nummer
   ORDER BY ?album_name xsd:integer(?bijdrage_nummer)
 ```
-[Direct query URL]() and [as JSON]()
+[Try this query]() -- [See query result]() -- [Result as JSON]()
