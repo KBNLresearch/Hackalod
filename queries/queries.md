@@ -6,7 +6,7 @@
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/Overviews
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/DataCompleteness
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/Reuse
-* https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html
+* _[50 cool new things you can now do with KB’s collection highlights - Part 5, Reuse](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html)_
 
 ### Basic data of contributors
 * [In Wikidata query interface](https://w.wiki/497z) 
@@ -30,11 +30,14 @@
 * [Table of lifespans of contributors](https://w.wiki/FBe)
 * [Occupations of contributors, bubble chart](https://w.wiki/F5N)
 
-### bvvbv
-* https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html item 48
+### Finding AAJH contributors in other databases (Europeana, RKD, Biografisch Portaal and DBNL), their works in Europeana
+* _[50 cool new things you can now do with KB’s collection highlights - Part 5, Reuse](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html)_ --> item 48
+* [Query](https://w.wiki/3Ln7) to get Europeana, RDK, BiografischePortaal and DBNL identifiers and JSON URIs for the contributors of the AAJH
+* [Python script](https://kbnlwikimedia.github.io/Alba-Amicorum/alba/AA-Jacob-Heyblocq/reuse/scripts/bijdragersAAJH-WerkenInEuropeana.py) to retrieve works in Europeana 
+* Result: [this Excel](https://github.com/KBNLwikimedia/Alba-Amicorum/blob/main/alba/AA-Jacob-Heyblocq/reuse/excels/AAJH-contributors-works-Europeana.xlsx?raw=true)
 
-### bvvbv
-* https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html item 49
+### Combining SPARQL query in Wikidata with simultaneous queries in other databases
+* _[50 cool new things you can now do with KB’s collection highlights - Part 5, Reuse](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html)_ --> item 49
 
 ## Images of the AAJH
 * Commons category: https://commons.wikimedia.org/wiki/Category:Album_amicorum_van_Jacobus_Heyblocq (+ subcats) 
@@ -61,8 +64,8 @@
 	PAGES = DATA['query']['pages']
 	print(json.dumps(PAGES, indent=2))
 ```
-* [Image gallery from SPARQL query in Wikidata](https://w.wiki/49Ba)
-
+* [Image gallery](https://w.wiki/49Ba) from SPARQL query in Wikidata - and [as JSON](https://query.wikidata.org/sparql?query=%23defaultView%3AImageGrid%0ASELECT%20DISTINCT%20%3Fcontribution%20%3FcontributionLabel%20%3Fimage%20WHERE%20{%0A%20%20wd%3AQ72752496%20wdt%3AP527%20%3Fcontribution.%0A%20%20OPTIONAL%20{%20%3Fcontribution%20wdt%3AP18%20%3Fimage.%20}%0A%20%20SERVICE%20wikibase%3Alabel%20{%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cnl%22.%20}%0A}%0AORDER%20BY%20(%3Fimage)&format=json)
+* Finding things depicted in (images of) AAJH: _[50 cool new things you can now do with KB’s collection highlights - Part 5, Reuse](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html)_ --> item 47
 
 
 
