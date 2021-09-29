@@ -1,6 +1,13 @@
 # Album Jacob Heyblocq
 
 ## Contributors
+
+### Usefull pages
+* https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/Overviews
+* https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/DataCompleteness
+* https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/Reuse
+* https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html
+
 ### Basic data of contributors
 * [In Wikidata query interface](https://w.wiki/497z) 
 * [As JSON](https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fperson%20%3FpersonLabel%20%3FpersonDescription%20%3Fgender%20%3Fimage%20WHERE%20{%20%0A%20%20%3Fperson%20wdt%3AP31%20wd%3AQ5%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP21%20%3Fgender%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP3919%20wd%3AQ72752496.%20%23%20contributed%20to%20creative%20work%20(P3919)%20Album%20amicorum%20of%20Jacob%20Heyblocq%20(Q72752496)%0A%20%20OPTIONAL{%3Fperson%20wdt%3AP18%20%3Fimage.}%0A%20%20SERVICE%20wikibase%3Alabel%20{%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cnl%22.%20}%0A%20%20%20%0A}%20%0AORDER%20BY%20%3Fperson&format=json)
@@ -23,5 +30,15 @@
 * [Table of lifespans of contributors](https://w.wiki/FBe)
 * [Occupations of contributors, bubble chart](https://w.wiki/F5N)
 
-## Other alba
+### bvvbv
+* https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html item 48
+
+### bvvbv
+* https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html item 49
+
+## Images of the AAJH
+* Commons
+* P180 - depicts
+
+# Other alba
 
