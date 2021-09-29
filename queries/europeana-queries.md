@@ -81,6 +81,3 @@ There are two sets of KB alba available on Europeana
  }}
  #OFFSET 20000 LIMIT 10000
 ```
-
-## Explore Europeana data structure in SPARQL API
-*https://query.wikidata.org/#SELECT%20DISTINCT%20%3Fa%20%3Fb%20WHERE%20%7B%0A%0A%20%20SERVICE%20%3Chttp%3A%2F%2Fsparql.europeana.eu%2F%3E%20%7B%0A%20%20%20%20%20%20%20%0A%20%20%20%09%23%3Chttp%3A%2F%2Fdata.europeana.eu%2Faggregation%2Fprovider%2F92065%2FBibliographicResource_1000056096144%3E%20%3Fa%20%3Fb.%0A%20%20%20%20%23%3Chttp%3A%2F%2Fdata.europeana.eu%2Faggregation%2Feuropeana%2F92065%2FBibliographicResource_1000056096203%3E%20%3Fa%20%3Fb.%0A%20%20%20%20%23%3Chttp%3A%2F%2Fdata.europeana.eu%2Fproxy%2Fprovider%2F92065%2FBibliographicResource_1000056096203%3E%20%3Fa%20%3Fb.%0A%20%20%20%20%3Chttp%3A%2F%2Fdata.europeana.eu%2Fproxy%2Feuropeana%2F92065%2FBibliographicResource_1000056096203%3E%20%3Fa%20%3Fb.%0A%20%20%20%20%23%3Chttp%3A%2F%2Fdata.europeana.eu%2Fitem%2F92065%2FBibliographicResource_1000056096144%3E%20%3Fa%20%3Fb.%0A%20%20%20%20%23%3Chttp%3A%2F%2Fwww.europeana.eu%2Fportal%2Frecordhttp%3A%2F%2Fdata.theeuropeanlibrary.org%2FBibliographicResource%2F1000056096203%3E%20%20%3Fa%20%3Fb.%0A%20%20%0A%20%20%7D%0A%20%20%0A%20%20%20%20%7D%20LIMIT%201000%0A
