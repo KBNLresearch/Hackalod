@@ -1,10 +1,4 @@
-#+ description: Contributors to the album of Jacob Heyblocq, reguested in Wikidata
-#+ endpoint_in_url: False
-#+ endpoint: https://query.wikidata.org/sparql
-#+ method: GET
-#+ tags:
-#+  - Wikidata
-#+  - Album Heyblocq
+
 
 SELECT DISTINCT ?person ?personLabel ?personDescription ?gender ?image WHERE { 
   ?person wdt:P31 wd:Q5;
