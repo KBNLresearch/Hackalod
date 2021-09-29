@@ -39,7 +39,7 @@
 * [Python script](https://kbnlwikimedia.github.io/Alba-Amicorum/alba/AA-Jacob-Heyblocq/reuse/scripts/bijdragersAAJH-WerkenInEuropeana.py) to retrieve works in Europeana 
 * Result: [this Excel](https://github.com/KBNLwikimedia/Alba-Amicorum/blob/main/alba/AA-Jacob-Heyblocq/reuse/excels/AAJH-contributors-works-Europeana.xlsx?raw=true)
 
-### Combining SPARQL query in Wikidata with simultaneous queries in other databases
+### Combining SPARQL query in Wikidata with simultaneous query in data.bibliotheken.nl
 * _[50 cool new things you can now do with KB’s collection highlights - Part 5, Reuse](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html)_ --> item 49
 * [Federated query](https://w.wiki/3L$L) to find Dutch literary works written by the contributors of the Album amicorum Jacob Heyblocq in www.dbnl.org and retrieve (the URLs of) the first pages of those works
 
