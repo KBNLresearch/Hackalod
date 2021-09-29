@@ -1,4 +1,4 @@
-# Album Jacob Heyblocq in Wikidata
+# Query album Jacob Heyblocq in Wikidata
 
 ## Contributors
 
