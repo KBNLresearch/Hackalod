@@ -5,7 +5,7 @@ Taken from https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_Nati
 ## Alba sets in Europeana
 There are two sets of KB alba available on Europeana
 * **EuropeanaTravel set**: https://www.europeana.eu/en/search?query=europeana_collectionName%3A%2892065_Ag_EU_TEL_a0445_ETravel%29 
-* **Rise of Literacy (RoL) set**:  https://www.europeana.eu/en/search?query=europeana_collectionName%3A%2816_RoL_KB_AlbaAmicorum%29 (same alba as on http://data.bibliotheken.nl/doc/dataset/rise-alba)
+* **Rise of Literacy (RoL) set**:  https://www.europeana.eu/en/search?query=europeana_collectionName%3A%2816_RoL_KB_AlbaAmicorum%29 (same alba as on [data.bibliotheken.nl](http://data.bibliotheken.nl/doc/dataset/rise-alba)
 
 ## Obtaining album contributions from EuropeanaTravel set via Europeana SPARQL service
 
