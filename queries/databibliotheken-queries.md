@@ -69,15 +69,16 @@ _Retrieves 2096 results_
 ```
 [Try this query](http://data.bibliotheken.nl/sparql?qtxt=+SELECT+DISTINCT+%3Falbum+%3Falbumtitle+%3Fcontrib+%3Fcontribtitle+WHERE+%7B+%23%0D%0A+%3Fcontrib+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Frise-alba%3E+.%0D%0A+%3Fcontrib+schema%3Aname+%3Fcontribtitle+.%0D%0A+%3Fcontrib+schema%3AisPartOf+%3Falbum+.%0D%0A+%3Falbum+schema%3Aname+%3Falbumtitle+.%0D%0A+%7D+ORDER+BY+%3Falbum&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+) -- [See query result](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=+SELECT+DISTINCT+%3Falbum+%3Falbumtitle+%3Fcontrib+%3Fcontribtitle+WHERE+%7B+%23%0D%0A+%3Fcontrib+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Frise-alba%3E+.%0D%0A+%3Fcontrib+schema%3Aname+%3Fcontribtitle+.%0D%0A+%3Fcontrib+schema%3AisPartOf+%3Falbum+.%0D%0A+%3Falbum+schema%3Aname+%3Falbumtitle+.%0D%0A+%7D+ORDER+BY+%3Falbum&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+) -- [Result as JSON](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=+SELECT+DISTINCT+%3Falbum+%3Falbumtitle+%3Fcontrib+%3Fcontribtitle+WHERE+%7B+%23%0D%0A+%3Fcontrib+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Frise-alba%3E+.%0D%0A+%3Fcontrib+schema%3Aname+%3Fcontribtitle+.%0D%0A+%3Fcontrib+schema%3AisPartOf+%3Falbum+.%0D%0A+%3Falbum+schema%3Aname+%3Falbumtitle+.%0D%0A+%7D+ORDER+BY+%3Falbum&format=application%2Fsparql-results%2Bjson&timeout=0&debug=on&run=+Run+Query+)
 
-## 2) Querying alba amicorum (+ contributions) through Wikidata query service
-### a) All alba amicorum in data.bibliotheken.nl ===
+## 2) Querying alba (+ contributions) through Wikidata query service
+Copy-paste queries into [query.wikidata.org](https://query.wikidata.org/)
+### a) All alba amicorum in data.bibliotheken.nl 
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX schema: <http://schema.org/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-SELECT DISTINCT ?album ?albumtitle WHERE {
+SELECT DISTINCT ?album ?albumtitle ?inventoryNumber ?dateCreated ?image WHERE {
   
   SERVICE <http://data.bibliotheken.nl/sparql>{
    ?inscription schema:isPartOf ?album .
@@ -91,7 +92,7 @@ SELECT DISTINCT ?album ?albumtitle WHERE {
 ORDER BY ?album
 limit 1000
 ```
-[Try this query]() -- [See query result]() -- [Result as JSON]()
+[Try this query](https://w.wiki/49Ej) -- [See query result](https://w.wiki/49Ek) -- [Result as JSON](https://query.wikidata.org/sparql?query=PREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0APREFIX%20schema%3A%20%3Chttp%3A%2F%2Fschema.org%2F%3E%0APREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0A%0ASELECT%20DISTINCT%20%3Falbum%20%3Falbumtitle%20%3FinventoryNumber%20%3FdateCreated%20%3Fimage%20WHERE%20%7B%0A%20%20%0A%20%20SERVICE%20%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fsparql%3E%7B%0A%20%20%20%3Finscription%20schema%3AisPartOf%20%3Falbum%20.%0A%20%20%20%3Falbum%20schema%3Aname%20%3Falbumtitle%20.%0A%20%20%20%3Falbum%20schema%3Aidentifier%20%3FinventoryNumber.%20%0A%20%20%20%3Falbum%20schema%3AdateCreated%20%3FdateCreated%20.%0A%20%20%20%3Falbum%20schema%3Aimage%20%3Fa%20.%0A%20%20%20%3Fa%20schema%3AcontentUrl%20%3Fimage%20.%0A%7D%0A%7D%0AORDER%20BY%20%3Falbum%0Alimit%201000&format=json)
 
 ### b) Contributions to an album with the name 'Kerwal' 
 ```
@@ -117,11 +118,12 @@ SELECT ?album  ?album_name ?bijdrage ?bijdrage_name ?auteur (GROUP_CONCAT(?desc;
 }
 GROUP BY ?album ?bijdrage ?afbeelding ?auteur ?maakdatum ?maaklocatie ?album_name ?bijdrage_name ?bijdrage_nummer
 ORDER BY xsd:integer(?bijdrage_nummer)
-limit 1000
+LIMIT 1000
 ```
-[Try this query]() -- [See query result]() -- [Result as JSON]()
+[Try this query](https://w.wiki/49Ep) -- [See query result](https://w.wiki/49Eq) -- [Result as JSON](https://query.wikidata.org/sparql?query=PREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0APREFIX%20schema%3A%20%3Chttp%3A%2F%2Fschema.org%2F%3E%0APREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0A%0ASELECT%20%3Falbum%20%20%3Falbum_name%20%3Fbijdrage%20%3Fbijdrage_name%20%3Fauteur%20%28GROUP_CONCAT%28%3Fdesc%3BSEPARATOR%20%3D%20%22%20%22%29%20as%20%3Fbijdrage_beschrijving%29%20%3Fmaakdatum%20%3Fmaaklocatie%20%3Fafbeelding%20%3Fbijdrage_nummer%20WHERE%20%7B%0A%20%20%0A%20%20SERVICE%20%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fsparql%3E%7B%0A%20%20%20%20%20%20%3Falbum%20schema%3Aname%20%3Falbum_name%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3AisPartOf%20%3Falbum%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Adescription%20%3Fdesc%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Aname%20%3Fbijdrage_name%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Aauthor%20%3Fauteur.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3AdateCreated%20%3Fmaakdatum.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3AlocationCreated%20%3Fmaaklocatie.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Aimage%20%5B%20schema%3AcontentUrl%20%3Fafbeelding%5D%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Aposition%20%3Fbijdrage_nummer%20.%0A%20%20%20%20%20%20FILTER%20Contains%28%3Falbum_name%2C%22Kerwal%22%29%0A%7D%0A%7D%0AGROUP%20BY%20%3Falbum%20%3Fbijdrage%20%3Fafbeelding%20%3Fauteur%20%3Fmaakdatum%20%3Fmaaklocatie%20%3Falbum_name%20%3Fbijdrage_name%20%3Fbijdrage_nummer%0AORDER%20BY%20xsd%3Ainteger%28%3Fbijdrage_nummer%29%0ALIMIT%201000&format=json)
 
-### c) All contributions to alba amicorum in data.bibliotheken.nl (3721 rows)
+### c) All contributions to alba amicorum in data.bibliotheken.nl
+_Retrieves 3721 rows_
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX schema: <http://schema.org/>
@@ -145,4 +147,5 @@ SELECT DISTINCT ?album  ?album_name ?bijdrage ?bijdrage_name ?auteur (GROUP_CONC
   GROUP BY ?album ?bijdrage ?afbeelding ?auteur ?maakdatum ?maaklocatie ?album_name ?bijdrage_name ?bijdrage_nummer
   ORDER BY ?album_name xsd:integer(?bijdrage_nummer)
 ```
-[Try this query]() -- [See query result]() -- [Result as JSON]()
+[Try this query](https://w.wiki/49Et) -- [See query result](https://w.wiki/49Eu) -- [Result as JSON](https://query.wikidata.org/sparql?query=PREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0APREFIX%20schema%3A%20%3Chttp%3A%2F%2Fschema.org%2F%3E%0APREFIX%20foaf%3A%20%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2F%3E%0A%0ASELECT%20DISTINCT%20%3Falbum%20%20%3Falbum_name%20%3Fbijdrage%20%3Fbijdrage_name%20%3Fauteur%20%28GROUP_CONCAT%28DISTINCT%20%3Fdesc%3BSEPARATOR%20%3D%20%22%20%22%29%20as%20%3Fbijdrage_beschrijving%29%20%3Fmaakdatum%20%3Fmaaklocatie%20%3Fafbeelding%20%3Fbijdrage_nummer%20WHERE%20%7B%0A%20%20%0A%20%20SERVICE%20%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fsparql%3E%7B%0A%20%20%20%20%20%20%3Falbum%20schema%3Aname%20%3Falbum_name%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3AisPartOf%20%3Falbum%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Adescription%20%3Fdesc%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Aname%20%3Fbijdrage_name%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Aauthor%20%3Fauteur.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3AdateCreated%20%3Fmaakdatum.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3AlocationCreated%20%3Fmaaklocatie.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Aimage%20%5B%20schema%3AcontentUrl%20%3Fafbeelding%5D%20.%0A%20%20%20%20%20%20%3Fbijdrage%20schema%3Aposition%20%3Fbijdrage_nummer%20.%0A%20%20%20%20%20%20%23FILTER%20Contains%28%3Falbum_name%2C%22%2a%22%29%0A%20%20%7D%0A%20%20%7D%20%0A%20%20GROUP%20BY%20%3Falbum%20%3Fbijdrage%20%3Fafbeelding%20%3Fauteur%20%3Fmaakdatum%20%3Fmaaklocatie%20%3Falbum_name%20%3Fbijdrage_name%20%3Fbijdrage_nummer%0A%20%20ORDER%20BY%20%3Falbum_name%20xsd%3Ainteger%28%3Fbijdrage_nummer%29&format=json)
+
