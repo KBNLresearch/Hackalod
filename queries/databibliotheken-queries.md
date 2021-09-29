@@ -1,1 +1,148 @@
-dsfds
+# Query alba in data.bibliotheken.nl
+Taken from https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Extract-KB-LOD-AA
+
+## Alba set in data.bibliotheken.nl
+* http://data.bibliotheken.nl/doc/dataset/rise-alba - these are the same alba as [in Europeana](https://www.europeana.eu/en/search?query=europeana_collectionName%3A%2816_RoL_KB_AlbaAmicorum%29)
+* SPARQL endpoint: http://data.bibliotheken.nl/sparql
+
+## 1) Querying alba (+contributions) through data.bibliotheken.nl SPARQL endpoint
+### Alba only
+```
+ SELECT DISTINCT ?album ?inventoryNumber ?albumtitle ?image WHERE {
+ ?inscription foaf:isPrimaryTopicOf/void:inDataset <http://data.bibliotheken.nl/id/dataset/rise-alba> .
+ ?inscription schema:isPartOf ?album .
+ ?album schema:name ?albumtitle .
+ ?album schema:identifier ?inventoryNumber. 
+ ?album schema:dateCreated ?dateCreated .
+ ?album schema:image ?a .
+ ?a schema:contentUrl ?image .
+ } ORDER BY ?album
+```
+[Direct query URL](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=SELECT+DISTINCT+%3Falbum+%3FinventoryNumber+%3Falbumtitle+%3Fimage+WHERE+%7B%0D%0A+++%3Finscription+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Frise-alba%3E+.%0D%0A+++%3Finscription+schema%3AisPartOf+%3Falbum+.%0D%0A+++%3Falbum+schema%3Aname+%3Falbumtitle+.%0D%0A+++%3Falbum+schema%3Aidentifier+%3FinventoryNumber.+%0D%0A+++%3Falbum+schema%3AdateCreated+%3FdateCreated+.%0D%0A+++%3Falbum+schema%3Aimage+%3Fa+.%0D%0A+++%3Fa+schema%3AcontentUrl+%3Fimage+.%0D%0A+++%7D+ORDER+BY+%3Falbum+%0D%0A&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+) and [as JSON]()
+
+### Alba with GROUP_CONCAT
+_Retrieves 57 alba_
+```
+ SELECT DISTINCT 
+ ?album
+ ?albumtitle
+ (GROUP_CONCAT(DISTINCT(?owner); separator="****") as ?albumowner)
+ (GROUP_CONCAT(DISTINCT(?albumdescr); separator="****") as ?albumdescription)
+ (GROUP_CONCAT(DISTINCT(?albumlocation); separator="****") as ?albumlocationcreated)
+ (GROUP_CONCAT(DISTINCT(?inventory); separator="****") as ?inventoryNumber)
+ (GROUP_CONCAT(DISTINCT(?material); separator="****") as ?albummaterial)
+ (GROUP_CONCAT(DISTINCT(?date); separator="****") as ?dateCreated)
+ ?albumpages 
+ ?albumwidth
+ ?albumheight
+ #(GROUP_CONCAT(DISTINCT(?image); separator="****") as ?albumimages)
+ WHERE {
+ ?contrib foaf:isPrimaryTopicOf/void:inDataset <http://data.bibliotheken.nl/id/dataset/rise-alba> .
+ ?contrib schema:isPartOf ?album .
+ ?album schema:name ?albumtitle .
+ OPTIONAL{?album schema:numberOfPages ?albumpages.}
+ #?album schema:image ?a .
+ #?a schema:contentUrl ?image .
+ #CONCAT fields
+ OPTIONAL{?album schema:material ?material.} 
+ OPTIONAL{?album schema:description ?albumdescr.}
+ OPTIONAL{?album schema:locationCreated ?albumlocation.}
+ OPTIONAL{?album schema:identifier ?inventory.} 
+ OPTIONAL{?album schema:width ?albumwidth.}
+ OPTIONAL{?album schema:height ?albumheight.}
+ OPTIONAL{?album schema:dateCreated ?date.}
+ OPTIONAL{?album schema:author ?owner.} 
+ } #GROUP BY ?album  ?albumwidth ?albumheight #?albumpages
+ ORDER BY ?album
+```
+[Direct query URL]() and [as JSON]()
+
+### Alba and their contributions
+_Retrieves 2096 results_
+```
+ SELECT DISTINCT ?album ?albumtitle ?contrib ?contribtitle WHERE { #
+ ?contrib foaf:isPrimaryTopicOf/void:inDataset <http://data.bibliotheken.nl/id/dataset/rise-alba> .
+ ?contrib schema:name ?contribtitle .
+ ?contrib schema:isPartOf ?album .
+ ?album schema:name ?albumtitle .
+ } ORDER BY ?album
+```
+[Direct query URL]() and [as JSON]()
+
+## 2) Querying alba amicorum (+ contributions) through Wikidata query service
+### All alba amicorum in data.bibliotheken.nl ===
+```
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?album ?albumtitle WHERE {
+  
+  SERVICE <http://data.bibliotheken.nl/sparql>{
+   ?inscription schema:isPartOf ?album .
+   ?album schema:name ?albumtitle .
+   ?album schema:identifier ?inventoryNumber. 
+   ?album schema:dateCreated ?dateCreated .
+   ?album schema:image ?a .
+   ?a schema:contentUrl ?image .
+}
+}
+ORDER BY ?album
+limit 1000
+```
+[Direct query URL]() and [as JSON]()
+
+### Contributions to an album with the name 'Kerwal' 
+```
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?album  ?album_name ?bijdrage ?bijdrage_name ?auteur (GROUP_CONCAT(?desc;SEPARATOR = " ") as ?bijdrage_beschrijving) ?maakdatum ?maaklocatie ?afbeelding ?bijdrage_nummer WHERE {
+  
+  SERVICE <http://data.bibliotheken.nl/sparql>{
+      ?album schema:name ?album_name .
+      ?bijdrage schema:isPartOf ?album .
+      ?bijdrage schema:description ?desc .
+      ?bijdrage schema:name ?bijdrage_name .
+      ?bijdrage schema:author ?auteur.
+      ?bijdrage schema:dateCreated ?maakdatum.
+      ?bijdrage schema:locationCreated ?maaklocatie.
+      ?bijdrage schema:image [ schema:contentUrl ?afbeelding] .
+      ?bijdrage schema:position ?bijdrage_nummer .
+      FILTER Contains(?album_name,"Kerwal")
+}
+}
+GROUP BY ?album ?bijdrage ?afbeelding ?auteur ?maakdatum ?maaklocatie ?album_name ?bijdrage_name ?bijdrage_nummer
+ORDER BY xsd:integer(?bijdrage_nummer)
+limit 1000
+```
+[Direct query URL]() and [as JSON]()
+
+### All contributions to alba amicorum in data.bibliotheken.nl (3721 rows)
+```
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX schema: <http://schema.org/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT ?album  ?album_name ?bijdrage ?bijdrage_name ?auteur (GROUP_CONCAT(DISTINCT ?desc;SEPARATOR = " ") as ?bijdrage_beschrijving) ?maakdatum ?maaklocatie ?afbeelding ?bijdrage_nummer WHERE {
+  
+  SERVICE <http://data.bibliotheken.nl/sparql>{
+      ?album schema:name ?album_name .
+      ?bijdrage schema:isPartOf ?album .
+      ?bijdrage schema:description ?desc .
+      ?bijdrage schema:name ?bijdrage_name .
+      ?bijdrage schema:author ?auteur.
+      ?bijdrage schema:dateCreated ?maakdatum.
+      ?bijdrage schema:locationCreated ?maaklocatie.
+      ?bijdrage schema:image [ schema:contentUrl ?afbeelding] .
+      ?bijdrage schema:position ?bijdrage_nummer .
+      #FILTER Contains(?album_name,"*")
+  }
+  } 
+  GROUP BY ?album ?bijdrage ?afbeelding ?auteur ?maakdatum ?maaklocatie ?album_name ?bijdrage_name ?bijdrage_nummer
+  ORDER BY ?album_name xsd:integer(?bijdrage_nummer)
+```
+[Direct query URL]() and [as JSON]()
