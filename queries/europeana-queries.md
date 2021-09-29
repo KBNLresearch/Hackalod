@@ -5,9 +5,9 @@ Taken from https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_Nati
 ## Alba sets in Europeana
 There are two sets of KB alba available on Europeana
 * **EuropeanaTravel set**: https://www.europeana.eu/en/search?query=europeana_collectionName%3A%2892065_Ag_EU_TEL_a0445_ETravel%29 
-* **Rise of Literacy set**:  https://www.europeana.eu/en/search?query=europeana_collectionName%3A%2816_RoL_KB_AlbaAmicorum%29 (same alba as on http://data.bibliotheken.nl/doc/dataset/rise-alba)
+* **Rise of Literacy (RoL) set**:  https://www.europeana.eu/en/search?query=europeana_collectionName%3A%2816_RoL_KB_AlbaAmicorum%29 (same alba as on http://data.bibliotheken.nl/doc/dataset/rise-alba)
 
-### Obtaining album contributions from EuropeanaTravel set via Europeana SPARQL service
+## Obtaining album contributions from EuropeanaTravel set via Europeana SPARQL service
 
 * There are [28.688 objects](http://sparql.europeana.eu/?default-graph-uri=http%3A%2F%2Fdata.europeana.eu%2F&query=PREFIX+dc%3A%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Felements%2F1.1%2F%3E%0D%0APREFIX+edm%3A%3Chttp%3A%2F%2Fwww.europeana.eu%2Fschemas%2Fedm%2F%3E%0D%0APREFIX+ore%3A%3Chttp%3A%2F%2Fwww.openarchives.org%2Fore%2Fterms%2F%3E%0D%0APREFIX+dcterms%3A%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0D%0A%0D%0ASELECT++COUNT%28%3FcollectionName%29+as+%3Fcount+%0D%0A+WHERE+%7B%0D%0A%0D%0A++++++%0D%0A+++%3Fa+edm%3AcollectionName+%3FcollectionName.%0D%0A+++FILTER+%28%3FcollectionName+%3D+%2292065_Ag_EU_TEL_a0445_ETravel%22%29%0D%0A%0D%0A%7D%0D%0A+++%0D%0A+++++++++%0D%0A%0D%0A&format=text%2Fhtml&timeout=0&debug=on ) in EuropeanaTravel set
 * The Europeana SPARQL endpoint gives back max. 10.000 results per request. To see all 28.688 results, we use LIMIT & OFFSET and this trick to escape the 10.000 results limit: http://vos.openlinksw.com/owiki/wiki/VOS/VirtTipsAndTricksHowToHandleBandwidthLimitExceed
@@ -81,3 +81,6 @@ There are two sets of KB alba available on Europeana
  }}
  #OFFSET 20000 LIMIT 10000
 ```
+
+## Obtaining album contributions from Europeana RoL set
+* This is explained in [databibliotheken-queries.md](databibliotheken-queries.md)
