@@ -30,14 +30,18 @@
 * [Table of lifespans of contributors](https://w.wiki/FBe)
 * [Occupations of contributors, bubble chart](https://w.wiki/F5N)
 
+### Artworks by AAJH contributors (on Wikidata)
+* [List of artworks](https://w.wiki/vCR) and [image gallery](https://w.wiki/vBx), and [as JSON](https://query.wikidata.org/sparql?query=%23defaultView%3AImageGrid%0ASELECT%20%3Fcontr%20%3FcontrLabel%20%20%0A%20%20%20%20%20%20%20%3Fitem%20%3FitemLabel%20%3FitemDescription%20%3Fimage%20%3Fgemaakt%20%3FcollectieLabel%20WHERE%20{%0A%20%0A%20%20%20wd%3AQ72752496%20wdt%3AP767%20%3Fcontr.%0A%0A%20%20%20%20OPTIONAL%20{%20%3Fitem%20%20wdt%3AP170%20%3Fcontr%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP31%2Fwdt%3AP279*%20%20wd%3AQ838948%20%3B%20%23%20Behoort%20tot%20artwork%20(subclass)%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP571%20%3Fgemaakt%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP195%20%3Fcollectie%20.%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20OPTIONAL%20{%20%3Fitem%20wdt%3AP18%20%3Fimage%20}%20%23%20Optionally%20with%20an%20image%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20}%0A%0A%20%20%20%20%20%20%20%20%20SERVICE%20wikibase%3Alabel%20{%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20}%0A%20%20%20%20%20%20%20}%0AORDER%20BY%20%3FcontrLabel%20%3Fgemaakt%0ALIMIT%201000%0A&format=json) (first 1000)
+
 ### Finding AAJH contributors in other databases (Europeana, RKD, Biografisch Portaal and DBNL), their works in Europeana
 * _[50 cool new things you can now do with KB’s collection highlights - Part 5, Reuse](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html)_ --> item 48
 * [Query](https://w.wiki/3Ln7) to get Europeana, RDK, BiografischePortaal and DBNL identifiers and JSON URIs for the contributors of the AAJH
 * [Python script](https://kbnlwikimedia.github.io/Alba-Amicorum/alba/AA-Jacob-Heyblocq/reuse/scripts/bijdragersAAJH-WerkenInEuropeana.py) to retrieve works in Europeana 
 * Result: [this Excel](https://github.com/KBNLwikimedia/Alba-Amicorum/blob/main/alba/AA-Jacob-Heyblocq/reuse/excels/AAJH-contributors-works-Europeana.xlsx?raw=true)
 
-### TODO: Combining SPARQL query in Wikidata with simultaneous queries in other databases
+### Combining SPARQL query in Wikidata with simultaneous queries in other databases
 * _[50 cool new things you can now do with KB’s collection highlights - Part 5, Reuse](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html)_ --> item 49
+* [Federated query](https://w.wiki/3L$L) to find Dutch literary works written by the contributors of the Album amicorum Jacob Heyblocq in www.dbnl.org and retrieve (the URLs of) the first pages of those works
 
 ### TOODO: Finding if AAJH contributors had their own alba amicorum
 * Make query
