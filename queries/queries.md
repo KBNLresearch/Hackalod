@@ -2,7 +2,7 @@
 
 ## Contributors
 
-### Usefull pages
+### Useful pages
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/Overviews
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/DataCompleteness
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Alba_amicorum_National_Library_of_the_Netherlands/Jacob_Heyblocq/Contributors/Reuse
