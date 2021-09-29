@@ -1,11 +1,15 @@
+# Album Jacob Heyblocq
+
+## Contributors
+### Basic overview of contributors
+* [In Wikidata query interface](https://query.wikidata.org/#SELECT%20DISTINCT%20%3Fperson%20%3FpersonLabel%20%3FpersonDescription%20%3Fgender%20%3Fimage%20WHERE%20%7B%20%0A%20%20%3Fperson%20wdt%3AP31%20wd%3AQ5%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP21%20%3Fgender%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP3919%20wd%3AQ72752496.%20%23%20contributed%20to%20creative%20work%20%28P3919%29%20Album%20amicorum%20of%20Jacob%20Heyblocq%20%28Q72752496%29%0A%20%20OPTIONAL%7B%3Fperson%20wdt%3AP18%20%3Fimage.%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cnl%22.%20%7D%0A%20%20%20%0A%7D%20%0AORDER%20BY%20%3Fperson) 
+* [As JSON](https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fperson%20%3FpersonLabel%20%3FpersonDescription%20%3Fgender%20%3Fimage%20WHERE%20{%20%0A%20%20%3Fperson%20wdt%3AP31%20wd%3AQ5%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP21%20%3Fgender%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP3919%20wd%3AQ72752496.%20%23%20contributed%20to%20creative%20work%20(P3919)%20Album%20amicorum%20of%20Jacob%20Heyblocq%20(Q72752496)%0A%20%20OPTIONAL{%3Fperson%20wdt%3AP18%20%3Fimage.}%0A%20%20SERVICE%20wikibase%3Alabel%20{%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cnl%22.%20}%0A%20%20%20%0A}%20%0AORDER%20BY%20%3Fperson&format=json)
+* [As XML file](https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fperson%20%3FpersonLabel%20%3FpersonDescription%20%3Fgender%20%3Fimage%20WHERE%20{%20%0A%20%20%3Fperson%20wdt%3AP31%20wd%3AQ5%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP21%20%3Fgender%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP3919%20wd%3AQ72752496.%20%23%20contributed%20to%20creative%20work%20(P3919)%20Album%20amicorum%20of%20Jacob%20Heyblocq%20(Q72752496)%0A%20%20OPTIONAL{%3Fperson%20wdt%3AP18%20%3Fimage.}%0A%20%20SERVICE%20wikibase%3Alabel%20{%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cnl%22.%20}%0A%20%20%20%0A}%20%0AORDER%20BY%20%3Fperson&format=xml)
+### Somewhat more elaborate 
+* [Occupation, year of birth/death, Commons cats](https://query.wikidata.org/#%23Contributors%20to%20the%20Album%20amicorum%20of%20Jacob%20Heyblocq%0ASELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3Fgender%20%3FgenderLabel%20%3Fimage%20%3Fdateofbirth%20%3Fdateofdeath%20%0A%28GROUP_CONCAT%28DISTINCT%20%3FoccupationLabel%20%3B%20separator%20%3D%20%22%20--%20%22%29%20as%20%3FOccupations%29%0A%3FCommonsCategory%0AWHERE%20%0A%7B%0A%20%20%3Fitem%20p%3AP31%2Fps%3AP31%20wd%3AQ5.%0A%20%20wd%3AQ72752496%20p%3AP767%2Fps%3AP767%20%3Fitem.%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP18%2Fps%3AP18%20%3Fimage.%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP21%2Fps%3AP21%20%3Fgender.%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP569%2Fps%3AP569%20%3Fdateofbirth.%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP570%2Fps%3AP570%20%3Fdateofdeath.%7D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20OPTIONAL%20%7B%3Fitem%20p%3AP106%2Fps%3AP106%20%3Foccupation.%7D%0A%20%20OPTIONAL%7B%20%3Fitem%20p%3AP373%2Fps%3AP373%20%3Fcommonscat.%0A%20%20BIND%28URI%28CONCAT%28%22https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FCategory%3A%22%2C%20REPLACE%28%3Fcommonscat%2C%20%22%20%22%2C%20%22_%22%2C%20%22i%22%29%29%29%20as%20%3FCommonsCategory%29.%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Foccupation%20rdfs%3Alabel%20%3FoccupationLabel.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Fitem%20rdfs%3Alabel%20%3FitemLabel.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Fgender%20rdfs%3Alabel%20%3FgenderLabel.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%20%0A%7D%20GROUP%20BY%20%3Fitem%20%3FitemLabel%20%3Fgender%20%3FgenderLabel%20%3Fimage%20%3Fdateofbirth%20%3Fdateofdeath%20%3FCommonsCategory%0A%20%20ORDER%20BY%20ASC%28%3FCommonsCategory%29)
 
 
-SELECT DISTINCT ?person ?personLabel ?personDescription ?gender ?image WHERE { 
-  ?person wdt:P31 wd:Q5;
-          wdt:P21 ?gender;
-          wdt:P3919 wd:Q72752496. # contributed to creative work (P3919) Album amicorum of Jacob Heyblocq (Q72752496)
-  OPTIONAL{?person wdt:P18 ?image.}
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,nl". }
-   
-} 
-ORDER BY ?person
+## 
+
+# Other alba
+
