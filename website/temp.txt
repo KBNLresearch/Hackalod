@@ -1,0 +1,4463 @@
+
+   
+        
+           
+               Hierusalem verwoest
+               Joost van den Vondel
+           
+           
+               
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van Hierusalem verwoest van Joost van den Vondel uit 1620.
+               
+               
+                   
+                       
+                   
+               
+           
+           
+           
+               
+                   
+                   
+                   
+                   
+               
+           
+           
+               vond001hier01_01
+               DBNL-TEI 1
+               
+                   2011 dbnl
+               
+           
+           
+               
+           
+           
+               
+                   
+                   exemplaar Theater Instituut Nederland, signatuur: 3 C 27
+               
+               Joost van den Vondel, Hierusalem verwoest. Dirck Pietersz., Amsterdam 1620
+               
+           
+       
+       
+           
+               Wijze van coderen: standaard
+               
+           
+       
+       
+           
+               Nederlands
+           
+       
+       
+           
+               Hierusalem verwoest
+               Joost van den Vondel
+               
+               
+               
+                   
+                   
+                   
+               
+           
+           
+           
+               
+               
+           
+           
+           
+           
+       
+       
+           
+               Hierusalem verwoest
+               Joost van den Vondel
+               
+               
+               
+                   
+                   
+                   
+               
+           
+           
+           
+               
+               
+           
+           
+           
+           
+       
+       
+           
+               2011-10-04
+               
+                   SG
+               
+               colofon toegevoegd
+           
+       
+   
+         
+Verantwoording 
+
+Dit tekstbestand is gebaseerd op een bestand van de Digitale Bibliotheek voor de Nederlandse Letteren (https://www.dbnl.org)
+
+Bron: Joost van den Vondel, Hierusalem verwoest. Dirck Pietersz., Amsterdam 1620
+ 
+Zie: https://www.dbnl.org/tekst/vond001hier01_01/colofon.php
+
+In dit bestand zijn twee typen markeringen opgenomen: paginanummering en illustraties met onderschriften. Deze zijn te onderscheiden van de rest van de tekst door middel van accolades: {==13==} {>>pagina-aanduiding<<} {==Figuur. 1: Onderschrift van de afbeelding.==} {>>afbeelding<<} 
+
+
+
+
+
+
+
+
+{==I==} {>>pagina-aanduiding<<}
+
+HIERVSALEM
+Verwoest.
+TREVRSPEL.
+Den Joden tot naedencken, den Christenen tot vvaerschoubbingh als op het tooneel voorgestelt
+Door I. v. Vondelen.
+MAT. XXIII.
+Siet uw Huys word u woest gelaten.
+
+{== afbeelding 
+	
+==} {>>afbeelding<<}
+    
+
+Virg: in AEneas I. Boeck.
+Hier zyn de tranen van ons smert,
+En d'ongevallen roeren 't hert.
+T' AMSTELDAM,
+Voor Dirck Pietersz. Boeckverkooper op't Water/inde witte Persse/recht over de Kozenmerckt.
+ANNO 1620.
+
+
+
+
+{==II==} {>>pagina-aanduiding<<}
+
+Aen mijn Broeder
+
+
+Op het Trevrspel der Ioden. Klinckert.
+
+
+EUripides die heeft d'aenschouwers langh voorhenen 
+Ten oogen eenen vloed van Peerlen uytgedrukt, 
+Als Hecuba bedroeft uyt haren throon geruckt 
+Beschreyde Troijens val met zuchten en met stenen: 
+ 
+Maer ghy, o Broeder! der Hierosolymitanen 
+Droef Treurspel ons vernieuwt, en klaeghelijcke moord, 
+Hoe deerlijck Titus heeft Ierusalem verstoort: 
+Om wien de vyand zich niet spenen kost van tranen. 
+ 
+Een wreed Barbarisch hert moet schricken als 't verstaet 
+Hoe Sions Heerlijckheyd, en pracht te gronde gaet: 
+Hoe Salomons gebouw met zijn vergulde daken, 
+ 
+De maghtighste Pilaer van 't vruchtbaer Ioodsche land 
+Is omgeworpen: hoe eens Moeders eygen hand 
+Haer teeder kind uyt nood gaet tot spijsoffer maken. 
+ 
+Guilhelmus Vondelius. 
+
+
+
+
+
+
+
+
+{==III==} {>>pagina-aanduiding<<}
+
+Den erentfesten, achtbaren, Wyzen en Voorzienigen Heere Cornelis Pietersz. Hoofd, Raed, en ouwd Burgermeester der om des weerelds ommeloop wyd beroemde Koopstad Amstelredam.
+
+Mijn Heere,
+
+WAnneer de heylige Paulus den Christgeloovigen vermaent te bidden voor Koningen en alle die in macht en hoogheyd gestelt zijn, op dat wy een gerustig en stil leven mogen leyden in alle Godzaligheyd en eerbaerheyd: zoo leert hy ons al stilzwygende hoe wy wyze en vrome Overheden behooren met eerbiedigheyd te omhelzen als eenen grooten zegen Godes en fonteyne waer door allerhande heyl en welvaren ons bequamelijck toevloeyt: want gelijck een treffelijck Philosooph zeght: ubi praeses fuerit Philosophus, ibi civitas erit felix, die Stad zal geluckigh zijn daer de Overheyd wijsheyd zal naespooren. De proeve hier van hebben wy naest eenige jaren herwaerts gehad in deze onze vereenighde Nederlanden, die met de hulpe des Alderhooghsten zoo vele gevaren geluckighlijck zijn voorby gezeylt, door het voorzichtig en wijs beleyd van hare getrouwe en vrome Regeerders, die als zorghvuldige Vaderen voor het welvaren des Vaderlands en des zelfs vryheyd geduyrigh hebben gewaeckt gebraeckt en alles uytgestaen. De weerdighste vrucht van deze arbeyd is dat vele duyzend verjaeghde menschen in den schoot en het gebied der doorluchtige Heeren Staten gastvry zijn geherberght en lieflijck gekoestert, en die in veylige schaduwe gezeten niet meer hoeven te vreezen de grimmigheyd van die uyt het voorborgh der Hellen opgedonderde Spaensche Alecto, die drymael haer geslangde perruyck geschud hebbende, met haer fackel het vuyr stack inde mutsaerden en rijsbossen die de palen en staecken bekleeden waeraen dagelijcx vele vrome Christenen wierden vast
+
+{==IV==} {>>pagina-aanduiding<<}
+gemaeckt, die midden inde vlammen Iesus Christus lof toezingende, hem lijf en ziele opofferden tot eenen zoeten en Godbehaegelijcken reuck. Indien wy ernsthaftigh overwegen de als in het hemde ontvloden wreedheyd, en wederom de genoten ruste en veyligheyd: gewisselijck wy moeten geperst zijnde van een danckbaer gemoed met de aen strand opgeworpen AEneas uytbarsten en roepen:
+
+O die ghy neemt alleen van ons Troijaensche gasten 
+Het leet ter herten en d'ondraeghelijcke lasten: 
+Die ons het overschot der Griecken hier gestrand, 
+En uytgeput van 't ramp te water en te land, 
+Noch herberght in uw Stad en huys met rouw bewogen. 
+O Dido! 't staet noch in ons macht, noch in 't vermogen 
+Van 't volck van Dardanus, dat over al beroyt 
+Dwaelt om den ganschen Kreyts des aerdrijcx wyd verstroyt, 
+Verschulde danckbaerheyd nae eysch u op te dragen: 
+De Goon (zoo verre noch een Godheyd schept behagen 
+In ware Godes vrucht: zoo billyckheyd noch plaets 
+By ymand heeft, en een gemoed dat zich niet quaeds 
+Maer 't goed bewust is) 't loon u nae verdienste ionnen. 
+Wat blyder eeuwe heeft u gebracht in't licht der Zonnen! 
+Wat treff'lycke ouwd'ren u geteelt tot ons gewin! 
+Zoo langh de mind're vloe'n afloopen Zeewaert in: 
+Zoo langh de schaed'wen op de bergen gaen en merren, 
+En 's Hemels As geleyd de vloock gewelfde sterren, 
+Zal duren uwen naem en faem met lof en eer, 
+Het zy wat land my roept, of waerwaerts ick verkeer. 
+
+
+Onze E.E. en A.A. Overheden nu in het algemeen voorbygaende en my in het byzonder tot uwe E. wendende: ghy, mijn Heere, hebt met heylzame raden vaecken dezes Stads en der hooger Heeren Staten vergaderinge bekleed, en uw eygen voordeel te rugge zettende, het gemeene best nae tijds gelegentheyd gevordert en helpen vorderen, zoo dat geen verstandige zich met recht zal belgen dat wy oorzaeck nemen in uwe E. persoon te verheffen en als aen te bidden de
+
+{==V==} {>>pagina-aanduiding<<}
+zeer heusche en beleefde Regeringe, onder wiens vleugelen wy zoo gerustmoedigh hebben geschuylt, en den grooten God gedanckt, die over ons had gestelt zoo mildaerdige en bescheyden Goden, de welcke nae het getuyghenisse van eener, die mijn Heer in het gezond oordeel van burgerlijcke zaecken niet ontaerd, zijn
+
+uytblinckende als in 't goud het heldere gesteent. 
+
+
+Daer mangelt dan by de goede ingezetenen niet anders als danckbaerheyd: weshalven om onze beleefde Regeerders in uwe E. persoon nae mijn geringh vermogen een geringh teecken van aller ontfangen weldaden erkentenisse te toonen: zoo offere ick uwe E. dit mijn Treurspel van het verwoeste Hierusalem, of om zoo te spreken mijn tranen uytgestort over den bloedigen ondergangh van het Iodische volck: en dat noch zoo veel te liever, overmids uyt uwe E. lendenen gesproten is die GROOTE APOLLO die onze nederduytsche tale den dagh, en zijn treffelijck geslacht schoonder luyster geeft: en wiens gulde rymen in het voorhoofd van aenzienelijcke Stads gebouwen kunstigh gegraveert, en inde Kercken boven de tomben met goude letteren in gladde toetsteen uytblincken, en de voorbygangers al verbaest ophouden. Ontfangt dan, mijn Heere, deze mijn geringe danck en schuldoffer, meer ziende op den wille als het kleyn vermogen, en bereyckt, o wyze gryze en landnutte Raedsheer, Nestors statige en veeljarige ouderdom ten goeden van ons gemeen beste. t' Amstelredam dezen 20. van Loumaend. 1620.
+
+Vwe E. en A. gants onderdanige
+
+J.V. Vondeley,
+
+
+
+{==VI==} {>>pagina-aanduiding<<}
+
+Aen den Gedichtlievendey Lezer.
+
+DAT de Alderhooghste van het onmenschelijck bloedvergieten eenen afkeer heeft, zulcx hebben oock de blinde Heydenen eenighsins gedroomt en gevoelt: want zy ontzagen den altaren, en den dingen die zy heyligh schatten te genaecken met handen of kleederen die besprenckelt waren met beesten of menschen bloed. dit geeft Virgilius door zynen vluchtenden AEneas eendeels te kennen daer hy hem doet spreken:
+
+Wilt Vader, kuysche ving'ren aen 
+d'Huysvaderlijcke Goden slaen. 
+'t Waer my een schandvleck rechtevoort 
+Die, nu ick uyt zoo versche moord, 
+En zulcken slachtingh koom gevloon, 
+Te roeren, eer ick reyn en schoon 
+Heb afgewasschen 't laeuwe bloed 
+In 't water van een frissche vloed. 
+
+
+En Homerus door zynen strydbaren Hector:
+
+'t En past niet datme God Iuppijn 
+Met onreyne handen offert wijn: 
+De schaemt' verbiedme, nu 't gemoed 
+Van menschenslachten en van't bloed 
+Ontsteld is, voor den Goden luyd 
+Te storten mijn gebeden uyt. 
+
+
+en gewisselijck God de Heere schijnt hier in bynae met zich zelven te stryden wanneer hy den Koningh David, die voorgenomen hadde hem een huys te timmeren, aldus aenspreeckt: Ghy en zult mynen name geen huys bouwen, want ghy zyt een Kryghsman en hebt bloed vergoten. Hier uyt vloeyt dan niet als te krachtiger, gelijck oock de Koninghlijcke Propheet leert, dat de dood der Heyligen weerd gehouden is voor den Heere: het welck oock betuyght werd door de schriekelycke oordeelen Gods gevelt over de Tyrannen die zijn volck verdruckten, en haer handen in het bloed der Rechtveerdigen
+
+{==VII==} {>>pagina-aanduiding<<}
+verwden. Hoewel dit den Ioden zoo uyt de wet en Propheten als andersins overvloedigh bekent was, nochtans hebben zy haer niet ontzien Gods Propheten en zendboden te dooden en te steenigen, gelijck de Heere Christus henluyden zulcx in het Euangelie voorwerpt, alle welcke zonden en grouwelen zy ten lesten hebben opgehoopt met het onmenschelijck bloedstorten en kruyßigẽ vande verschenen Zalighmaker, die, nae Esaias voorzegginge, doen hy gestraft en gemartelt wierd zynen mond niet opdede, als een lam dat ter slagtbãck geleyd word, en als een schaep dat stom word voor zynẽ scheerder, en zynen mond niet op en doet. en die zoo klaeghelijck door den Psalmist uytroept: Mijn God myn God waerom hebstu my verlaten? en noch Ick ben een worm, en geen mensche, eenen spot der lieden, en verachtinge des volcx. alle die my zien sperren den mond op, en schuddẽ den kop. Maer nae dat nu de Goddelooze menschen haren bloedor stigen moed gekoelt en die afgrysselyckste zonden volbrocht hadden, zoo is de wraecke des rechtveerdigen Rechters hun kort op de hielen geweest, en zy zyn van dagh tot dagh aen alle kanten jammerlyck overvallen als van stormen en plasregẽs van allerley plagen en ellenden, die eerst met den eyndlijcken en geheelen ondergangh des Iodischen volcx zyn ge-eyndicht: gelyck Iosephus Egesippus en andere Geshichtschryvers daer vã op het breedste handelen, en Carolus Langius zulcx zynen Lipsius kort en geleerdelijck als in een tafel vooroogen stelt, zegghende: Laet ons van Iudea beginnen dat is van een heyligh land en volck Gods. Ick gae voorby het gene zy in Egypten, en nae haren optocht uyt Egyptẽ geleden hebbẽ: want dat is ons duydelijck genoegh inde heylige boecken naegelaten: ick kome tot de zwaerste en tot die gene die als aen haer uytvaert behooren. Het welck ick best elck in het byzonder als met een register zal verklaren.
+Zy hebben dan met het in en uytlandsche oorloogh dit uytgestaen:
+Voor eerst zijnder te Ierusalem door het bevel van Florus gedood zes honderd en dartigh.
+Te Cesarien op een tijd vande inwoonders uyt haet van het volck en de Godsdienst twintich duyzend.
+Te Scythopolen, een stad in Syrien, darthien duyzend.
+Te Ascalon in Palestynen oock vande inwoonderen twee duyzend vijf honderd.
+
+{==VIII==} {>>pagina-aanduiding<<}
+
+Te Ptolemaïde van gelijcken twee duyzend.
+Te Alexandrien in Egypten onder de voogdije van Tiberius en Alexander vijftigh duyzend.
+Te Damascus thien duyzend.
+En dit alles heeft zich als door een beroerte en oploop toegedragen: en daer nae met een wettelijck en openbaer oorloogh vande Romeynen:
+Ioppe ingenomen wezende, zijnder van Cesius Florus verslagen acht duyzend vier honderd.
+Op zekeren bergh Cabulon twee duyzend.
+Inde slagh by Ascalon thien duyzend.
+Wederom door verraed acht duyzend.
+Te Aphaca als het ingenomen was vijfthien duyzend.
+Op den bergh Garizim zijnder verslagen elf duyzend vijf honderd.
+Te Iotapata, daer Iosephus zelf was, ontrent dartigh duyzend.
+Ioppe andermael ingenomen wezende, zoo zijnder verdroncken vier duyzend en twee honderd.
+In Taricheen zijnder verslagen zes duyzend vijf honderd.
+Te Gamalien, zoo verslagen, als die haer zelf vande steylte wierpen negen duyzend. en daer is in die Stad niet een mensch behouden gebleven, als twee vrouwen wezende gezusters.
+Giscala verlaten wezende, zijnder in het vluchten gedood twee duyzend en zoo vrouwen als kinderen gevangen dry duyzend.
+Van Gadarensers zijnder verslagen darthien duyzend, en gevangen twee duyzend twee honderd, behalven die in ontallijcke menighte inde rievier gesprongen zijn.
+Inde Dorpen van Idumea zijnder verslagen thien duyzend.
+Te Gerasien duyzend.
+Te Machęrunten duyzend twee honderd.
+In het bosch van Iardes dry duyzend.
+In het Kasteel Massada, die haer zelven hebben gedood negen honderd zestigh.
+Te Cyrenen zijnder van Catulus de Landvooghd verslagen dry duyzend.
+
+{==IX==} {>>pagina-aanduiding<<}
+
+Maer gedurende de belegeringe, zijnder inde Stad Hierusalem zelf gestorven, en verslagen thienmael honderd duyzend, en gevangen zeven en negentigh duyzend.
+Dit getal beloopt, behalven ontellijcke die achtergelaten zijn, twelfmael honderd en veertigh duyzend. Wat zeghdy Lipsius? slady hier over uwe oogen nederwaerts? heftze liever op: en schroomt niet met my, de veeljarige oorloogen van gants Christenrijck met de nederlage van dit eenige volck te gelijcken: maer hoe kleynen stucxken lands en hoop volcx is dat geweest ten aenzien van geheel Europa? Dus verre uyt Lipsius.
+Daer zien wy wat het kost den Vorst des levens te dooden en het bloed, dat genoeghzaem is tot een ranssoen voor des geheelen weerelds zonden, op zoo geringe weerdije te stellen. Met de aendachtige ouwdvader Hieronymus mogen wy van Ierusalem spreken: Fame perit, ante quam gladio. De Stad vergaet eer door honger als door het zweerd. en liever, als een volkomen verhael te doen vande ellenden, die gedurende de belegeringe voorgevallen zijn, willen wy, ons daer over verwonderende, met den Poeet roepen:
+
+Quis cladem illius noctis, quis funera fando 
+Explicet? aut possit lacrymis aequare labores? 
+Urbs antiqua ruit, multos dominata per annos: 
+Plurima perque vias sternuntur inertia passim 
+Corpora perque domos, & religiosa deorum 
+Limina. 
+
+
+Dat is:
+
+Wie zal de lijcken, wie de ne'erlage ons verklaren 
+Van die vervloeckte nacht? of konnen evenaren 
+Met tranen al het leet? die ouwde Stad die stond, 
+En had zoo langh 't gezagh, stort plotzelingh te grond. 
+Veel olick volcxken men alsins ter ne'er doet stromp'len, 
+Langhs straet, in huys, en op der Goon gewyde dromp'len. 
+
+
+Iosephus zelf een Iode erkend deze nederlage te zijn een byzondere Goddelijcke wraecke, overmids de Tyrannen te Ierusalem meer door vreeze als nood uyt hare onwinbare vastigheyd weken: en Titus nae het veroveren der Stad
+
+{==X==} {>>pagina-aanduiding<<}
+zich vewonderende over den geweldigen bouw van torens en muyren, en der steenen hooge groote en behendige te zamenvoeginge zeyde: gewisselijck God heeft voor ons gestreden, en zelf den Ioden uyt zulcke vestingen gedreven, want wat menschen handen of stormgeveerte mocht hier tegen gelden. Dit word, behalven uyt meer omstandigheden, die wy om de kortheyd voorby gaen, oock hier mede bevestight, overmids zy niet van een onmenschelijck Tyran maer van een goedertieren Prince bestreden zijn, die liever haer behoud als ondergangh zocht, en gehouden wierd voor de wellust en het vermaeck des menschelijcken geslachts. Dat dien volgende de Romeynen dit voor een uytnemende overwinningh hebben geacht, blijckt uyt het heerlijcke zegefeest over der Ioden nederlage te Romen geviert: alwaer Vespasiaen, Titus en Domitiaen tnet looverkranssen en purper geçiert de triumphpoorte inreden: daer der Romeynen beelden en afgoden, midsgaders de Arcke des Verbonds, de gouden tafel, Moyses en Aärons roede, vier tempelstylen, de toonbrooden, den gulden kandelaer, de wettafelen, en andere heylighdommen met een wonderbaerlijcke pracht statigh heromme gevoert wierden, en daer de schare vande gevangen Ioden dragende de handen op den rug gebonden, en naeckt ten halve lyve hun vyanden een gaepspel verstreckten, en met haer versmaedheyd der Heydenen staci verheerlijckten. Van deze gehouden zegefeest getuyght noch op huyden te Roome de Arca triumphalis of triumphboge staende in via sacra boven de Kercke van S. Maria nova, opgetrocken van schoone Marmor, en met goud geçiert: inde welcke deze woor dẽ in steen tot een eeuwige geheugenisse uytgehouwen staen:
+Senatvs popvlvs qve Romanvs divo Tito divi Vespasiani Filio, Vespasiano Avovsto, et ob victoriam et perpetvvm.
+De volgende letteren heeft de nydige tijd en gryze ouderdom uytgewischt: oock isser noch een ander schrift aldus:
+S.P.Q.R. Imp. Tito, Cas. divi Vespasiani Filio, Vespasiano Avgvsto Pon. Maximo trib. post. Imp. P.P. Principi svo, qvi praeceptis triae consiliisq. et avspiciis, gentem Ivdeorvm domvit, et vreem Hierosolymam, omnievs ante se dvcibvs, regievs, gentievs, avt frvstra petitam, avt omnino intenta, delevit.
+Zoo leegh zijn die gene gedaelt die tot den Hemel en aende sterren verheven
+
+{==XI==} {>>pagina-aanduiding<<}
+waren, een volck dat eertijds met God en de Engelen gemeenschap hadde: zy wien vuyr water aerde en locht ten dienste stonden, zijn alle dingen tegen geweest, en hebben het al tot vyand gehad, en Roome heeft den roem weghgedragen van tot den grond en ondersten wortel toe uytgeroeyt en verdelght te hebben een ouwde Koningh en Priesterlijcke Stad, die nae veel geleden aenvechtingen van haer eerste grondlegginge 2177 jaren hadde gestaen. Onze versmitste Cunaeus magh wel zeggen. Ita vertuntur subitò cuncta, & omninò natura, quae ad originem rerum parcè utitur viribus suis, ad ruinam toto impetu venit. alzoo word alles schielijck te gronde gesmeten, en Nature die tot der dingen oorsprongh al heel spaerzaem hare krachten bezight, komt met volle geweld ten bederve. en de mond der waerheyd voorspelde geen ydele droomen als hy sprack: Hier zal niet eenen steen op den anderen blyven die niet afgebroken zal worden. Het overschot der Ioden heeft zedert in gedurige ballinghschappen jammerlijck omgezwerft en allerley zwarigheden bloedigh en ellendigh uytgestaen. Zoo de kinderen der voorvaderen misdaed bekenden, zy zouden billijck beklagen dat haer ouwderen riepen: Zijn bloed zy op ons en op onze kinderen. Want gelyck Prudentius zinght:
+
+Exilijs vagus huc illuc fluitantibus errat 
+Iudaeus, postquam de patria sede revulsus, 
+Supplicium pro caede luit, Christique negati 
+Sanguine respersus commissa piacula solvit. 
+
+
+Dat is:
+
+De Iood zynde uyt den stoel zyns vaderlands geruckt 
+Dwaelt vluchtigh hier en daer in ballinghschap verdruckt, 
+'s Moords straffe draeght, en met 'sverzaeckten Christus bloed 
+Besprenght, zyn misdaed, en begangen zonde boet. 
+
+
+Niemand hopen wy zal ons leep en over dweers aenzien dat wy dit groot treurspel hier wederom als op het tooneel te voorschijn brengen op datmen aenmercke Gods strengheyd over die gene die gevallen zyn: aengezien wy hier in als op het spoor naevolgen den heyligen en brandenden yver van de Koninghlijcke harpenaer David, en de Goddelycke dichter Ieremias: van welcke beyde, Deze, in zijn klaeghlieden heeft beweent de verslooringe der stad Gods
+
+{==XII==} {>>pagina-aanduiding<<}
+en des ganschen Koninghrijcx, en de ongelucken by het Iodische volck uytgestaen onder den Babylonischen Nebucadnezar: Die, met zijn snarenspel getreurt over de bloedstortinge en aenstoot de welck Ierusalem van de Tyran Antiochus te verwachten stond. effen alzoo beklagen wy mede het uyterste en grootste iammer dat de Dochter Sion onder de Roomsche Keyzeren Vespasiaen en Titus is overkomen, en vieren de uytvaert dezes beroemden geslachts. Mijn Zangeresse vanden hoofde ten voeten toe in rouwe, treurt over die verwoestingh die Christus aller Engelen en geloovigen blyschap tranen gekost heeft, onaengezien hy dezes versteenden volcx wreedheyd in zynen vleesche voelde, en den kelck der bitterheyd korts van haer ontfing. Maer och hoe vaeck hebben wy gewenscht dat onze rymen mochten antwoorden de weerdigheyd vande stoffe: voorwaer zoodanigh wezende, dat wy hier van onze geringheyd moeten roemen, en belyden dat het maer stuckwerck is wat wy voortbrengen: want het gene de Latijnsche Treurspeelder door zijn van droefheyd overwonnen Koninginne uytschreeuwt
+
+- - Non unquam tulit 
+Documenta Fors majora, quam fragili loco 
+Starent superbi. 
+
+
+Het zelfde mogen wy door onze bedruckte Vorstinne aldus uytroepen:
+
+Het Loth en wees noyt klaerder aen 
+Hoe flibb'righ dat de trotze staen. 
+
+
+En zullen wy met Euripides Seneca en endere Poëten dingen nae den palm, dat is, om wie van ons beyden hooghdravender en uytnemender zaecken verhandelt: de Ioodsche Stammen van wegen haer afkomst zijn by ons niet leeger geadelt als de Phrygen by haerlieden. De Dochter Sion wijckt niet voor Hecuba, noch Ierusalem voor thien Troijens. Ginder was de Kerck van Minerve: hier des Heeren Tempel dat zesenveertighjarige getimmer, het welck aller uytheemschen oogen in Syrien lockte, en waer in de Nijd niet als enckel schoonheyd verachte. Daer stond het Palladium: hier school de Arcke des Verbonds bedeckt met goude Cherubynen, en meer heylighdoms elck om het heerlijcxste. Oock is de Iordane die den Israeliten weeck, en de Beke Cedron over de welcke Iesus gingh meerder als Xanthus. Davids burght gaet Ilium te
+
+{==XIII==} {>>pagina-aanduiding<<}
+boven. Zy hebben het Griecxsche leger, wy de Roomsche heyr krachten aengevoert. Hare Oversten en voorbarighste waren Agammemnon en Menelaus, Achilles en Pyrrhus: mijn Veldheeren zijn Vespasiaen, de strijdbare Titus zynen zone en andere. Laetze al haer best Laomedon, Priamus en Hector roemen: ick zal Iosua, Gedcon, David, Salomon, en de andere Koningen en Helden pryzen. Willenze met de Amazone, Penthesilea proncken: ick zal met Debora, Iudith en zulcke Heldinnen brageren. Zy hebben de Rhaeteesche heuvelen, bewandelt van zoo veel doorluchtige mannen, gezongen: wy de heylige bergen, vaeck betreden van zulcke, die, haer werck onder maer verricht hebbende, als blixemen door het azuyr en het goud des blinckenden Hemels nae den vrolijcken stoel Gods opvoeren. Wederom, die verzier de twist rees uyt Paris oordeel: deze uyt Pilatus vonnis. gene Scheydsman oordeelde Venus te gevalle om de schoone Helena: deze Rechter den Ioden om de Keyzerlijcke gunst. De een gaf een gewaende Godinne den twistappel als het verdiende pand van hare schoonheyd: de ander leyde den betuyghden levendigen Zone Gods het Kruys op zijn schouwderen als verschulde straffe van zijn mismaecktheyd. Cytherea behield op Ida den zege: Christus wierd op Calvarien gedoemt. en zoo voort. Dit dan aldus tegen malkanderen overwogen, zoo zietmen met een half oogh welcke stoffe van beyden meest weeght, en hoe de Zonne des heyligen Geestes alle Heydensche sterren met haren glans uyt doet. Indien de Lezer greetigh is om de nuttigheyd van dit werck en de oorzaecken van Israëls val nae te vorschen, hy geve den Engel Gabriël gehoor wien wy in het eynde de verklaringe des zelfs bevolen laten. Maer ontbeyd, ick zie alreede het tooneel openen, en het volck met opgesteken ooren en gapende menden nae den inhoud van het Spel luysteren. Het is hoogh tijd dat wy zwygen.
+
+
+
+{==XIV==} {>>pagina-aanduiding<<}
+
+Het Inhoud.
+
+ZEDERT dat de Ioden hare grouwelen en zondẽ, begaen in het dooden en vervolgen der Propheten, hadden opgehoopt met het onmenschelyck bloedvergieten en mishandelen des onschuldigen Lams, en andere vrome Heyligen Gods: zoo heeft haer verdoemenisse niet geslapen. want Florus, die naemaels vande Keyzer Nero was gestelt als Landvooghd over Iudea, ontstack met zyn inslockende gierigheyd en onverdraeghlycke wreedheyd den brand van tweespalt: waer uyt vele jammerlycke beroerten en bloedige slachtingẽ tusschen Ioden en Romeynen langhs hoe meer zijn ontstaen: zoo dat eyndlijck de Keyzer veroorzaeckt was Vespasiaen, als Veldoverste over het Syrische krygsvolck, derwaerts te zenden: die vergezelschapt met zynen zone, Iotapata daer Iosephus gevangen wierd, en voorts het Iodische land met meest alle de omliggende plaetsen vermeestert, en Ierusalem bezet hebbende, tydinge kreegh hoe nae Neroos rampzalige dood, Galba en Otho omgekomen wezende, Vitellius het gebied tot zich getrocken hadde: waerom de Roomsche Hoofdluyden hem drongen het Keyzerdom te aenveerden en derwaerts te trecken, gelijck hy oock dede, latende Titus de volendinge van het aengevangen oorloogh bevolen. Ondertusschen was het te Ierusalem zoo verre gekomen datze als in slaghoorde in dry rotten vyandelyck gedeylt stonden, te weten: de Zeloters, die Eleazar aenhingen, hadden den Tempel, Iohannes het onderste, en Simon Giore zoon het opperste deel der Stad in. Titus hier van verwittight heeft deze gelegentheyd waergenomen, en in het 72. nae Christus geboorte, 't welck is het tweede jaer van Vespasiaens Ryke, op den 14en. vande maend April, als de Ioden haer Paeschfeest vierden, de Stad met zyn Ruyterije berent belegert, en eerlange nae veel gehouden schermutselingen en gedane stormen met een muyr in dry dagen tyds bezet en besloten: waerop gevolght is een onlydelycke hongersnood, die de burgerlijcke beroerten dede aengroeyen, en ontallijcke
+menschen versmachten: zoo datze genoodzaeckt waren de doode lichamen over Stads muyren inde grachten te worpen, jae een edel Ioffrouwe spyze van haer onnoozel kind most bereyden. De thiẽ-
+{==XV==} {>>pagina-aanduiding<<}
+de dagh van Oeghstmaend wierd het vuyr inde Tempel gesteken, daer een onmenschelijcke slachtingh gebeurde, en alle Priesterlijcke gebouwen afbranden. En hoewel de Keyzer hun vaeck hulde aenbood, en haer beloofde in genade op te nemen zoo zy haer goedwilligh overgavẽ: nochtans volherden zy inde voorgaende halstarrigheyd, tot dat ten lesten op de achtste dag van Herbstmaend de overstad gewonnen, en alles in vuyr en bloed wierd gestelt. Nae de overwinninge ontbrack het den Roomschen Soldaten aen geenderhande moetwil en wreedheyd over de verwonnene te plegen. Titus de schuldige nae haer verdienste gestraft en zeven honderd iongelingen sterck van lichaem tot het aenstaende zegefeest, dat hy te Roome dacht te houden, uytgezondert hebbende, bedanckte zijn Krijghsluyden voor haer dapperheyd inde strijd betoont, verplichte haer manhaftigheyd met den verkregen roof en eerlijcke ampten, en offerde danckbaerlijck op de heylige plaetse des Tempels zijn Goden. Daer nae stelde hy Terentius Ruffus tot Overste van zijn thiende bende, die hy tot bezettinge liet vande verwoeste Stad, en vertrock met het gansche leger en de gevangenen. En dewijl de geschichtboecken melden dat Simeon Christenbisschop met zijn heylige vergaderinge, volgens het ontfangen Godlijck antwoord, van Ierusalem te Pella vluchte, en als Iudea wat in ruste was weder te Ierusalem metter woon quam: zoo hebben wy, om ons geheel werck Christelijcker wyze te verklaren, en alles leerlijck voor oogen te stellen, verziert, dat hy met de zyne wederkeerende als het leger iuyst vertrocken was, en de verwoeste Stad bezichtigende: hun de Engel Gabriël, met een Hemelsche klaerheyd aengedaen, verschijnt, die henluyden volkomentlijck ontsluyt de oorzaecken vanden val en ondergangh des Iodischen volcx, met meer
+omstandigheden die daer aen vast zijn. Daer hebdy het kort inhoud van ons treurspel, genomen uyt Iosephus 2. 3. 4. 5. 6. en 7. en Egesippus 2. 3. 4. en 5. en Eusebius 2. en 3. en Carions 3. boeck en uyt meer andere Schryvers. Het tooneel is op rondom en ontrent de verwoeste plaetsen daer het Krijghsvolck legert, en Ierusalem gestaen heeft.
+
+
+
+{==XVI==} {>>pagina-aanduiding<<}
+
+Aende Ioodsche Rabbynen.
+
+
+Klinckert.
+
+
+DE Rey uws Priesterschaps was als van blyschap droncken 
+Doen IESUS hingh aen 't hout met ermen uytgestreckt, 
+Gekruyst, gegeesselt, en bespogen, en begeckt, 
+Om dat hem was den Kelck der bitterheyd geschoncken: 
+ 
+Zy dachten luttel dat Rechtveerdigheyd, die boven 
+In 's Hemels gulden schoot de weeghschael recht op houd, 
+'t Onschuldigh bloed meer schat als fijn Ophirisch goud, 
+En telt al 't zuchten van de VVaerheyd hier verschoven. 
+ 
+Maer als de dagh aenbrack die God beschoren had 
+Tot wraeck van 't schelmstuck van die Godvergeten Stad 
+En 't volck dat veyligh dacht te staen op heyl'ge dremp'len: 
+ 
+Doen zaghmen haer wat zonde al plagen met zich brocht, 
+En dat de Boosheyd tot geen borstweer strecken mocht 
+Geweld van muren noch schijnheyligheyd van Temp'len. 
+
+
+Door een is 't nu voldaen.
+
+
+De Treurspeelders zijn deze:
+
+
+Iosephvs, een dapper Voorvechter der Ioden.
+
+Titvs de Keyzer.
+
+Librarivs Rothmeester.
+
+De Rey van Roomsche Soldaten.
+
+De Dochter Sion.
+
+De Rey van StaetIonffren.
+
+De Rey van Ioodsche Vrouwen.
+
+De Rey van Iodinnen in 't algemeen.
+
+Phineas Priester.
+
+De Rey van Priesteren.
+
+Terentivs Hopman.
+
+Fronto Drossaert.
+
+Simeon Bisschop van Ierusalem.
+
+De Rey van Christenen.
+
+Gabriel een Engel.
+
+
+
+
+
+{==1==} {>>pagina-aanduiding<<}
+
+Hiervsalem Vermoest.
+
+
+Trevrspel
+
+
+Den Joden tot naedencken, den Christenen tot vvaerschoubbingh, als op het tooneel voorgesteld.
+
+De eerste handel.
+
+
+
+Iosephvs. 
+DE Wraecke Gods in 't eynde, alsze eens raeckt op de beenen, 
+Ziet vuyr, noch water aen, noch yzer, stael, noch steenen, 
+Maer wroet al voort, en vind ter weereld niet zo zoet 
+Als der Godloozen merch, en 't snoo verbasterd bloed: 
+Vergeefs hy zich beschanst die droomt haer uyt te sluyten, 
+Te spade bolwerckt hy die haer geweld wil stuyten, 
+Om zunst hy met een diepte haer af te snijden tracht 
+Die aerzelt noch om schans, om bolwerck, noch om gracht: 
+Scherprechtersse al te strengh! wie zou, jae moet niet vrezen 
+De stramen van uw roede, uw zweep, en taeye pezen, 
+Waer mee' ghy gaet te keer, en 't vel stroopt vande rugh 
+Des geens, die Goddeloos den zonden welfde een brugh. 
+Ghy hebt Ierusalem haer strengheyd mogen voelen, 
+Als ghy haers gramschaps gloed met 't purper most verkoelẽ 
+
+{==2==} {>>pagina-aanduiding<<}
+
+Dat van uw lenden droop, en langhs uw boezem zeep, 
+Als u van pijn en smerte een hertvangh 't hert beneep. 
+Ach lyden! lyden ach! ick moet afdwa'en en droogen 
+Myn aenzicht steeds aen vocht van myn bekreten oogen, 
+Wanneerme in 't weecke breyn een waessem dick opschiet, 
+Uyt mijn beklemt gemoed geperst van groot verdriet, 
+Verdriet, dat voor een dood my pijnt met duyzend dooden 
+Zoo vaeck ick my verbeelde het treurspel van de Ioden. 
+Verryst o Daniel! en roert uw kouwd gebeent', 
+Die in uw ziel voor lange hebt onzen val beweent, 
+Als ghy man Gods! zo diep ginght in d'afgronden vissen, 
+En waden inde zee van Gods geheymenissen: 
+Komt troost d'ontschaeckte maeghd van Sion afgetreurt, 
+Want zoo ghy 't hebt gespeld, zoo viel haer 't loth te beurt: 
+Komt wascht haer tranen af, want yslijck, en wanschapen 
+Gaept haer verwoestingh nu, en dreyght te blijven gapen. 
+Wy zynder eens geweest; met Iuda is 't gedaen, 
+En Sions grondvest grynst mismaeckt den Hemel aen: 
+Des Heeren heylighdom ach! ach! 't gaetme aen de zinnen, 
+Ter hellen neergezackt is met zyn hooge tinnen. 
+Helaes! Ierusalem, gedoemt ten zweerde, en vyer, 
+Uw hooghmoed is gedaelt, uw zonden staen u dier, 
+Uw zonden staen u dier, uw hooghmoed is gevallen, 
+En ghy light onder 't puyn begraven van uw wallen. 
+Had 't avontuyr van 't loth doch te Iotapata 
+Mijn leven niet verschoont, als ick zoo na, zoo na 
+Stond op 's doods oever, zoo gereed om te verdrencken, 
+En afgestre'en mijn ziel aen 't Vaderland te schencken; 
+Zoo had ick niet gehoort hoe hemel, aerde, en zee 
+Verzuchte, als Iacobs huys beweeght wierd van zyn stee: 
+Fy! dat ick voor's doods schicht zo angh was en verschrockẽ, 
+Doen in dat gapende hol, die zweerden uytgetrocken 
+My dreyghden, als ick d'een met smeken noch ophiel, 
+En d'ander aengreens dat hem 't hert en 't stael ontviel. 
+
+{==3==} {>>pagina-aanduiding<<}
+
+Waerom maecke ick myn graf niet in die afgronds kolcken, 
+En liet aen 't lemmer koud myn warme bloed niet stolcken. 
+Waerom volghde ick niet nae myn kryghslie voorgetre'en, 
+Doen van die moord ontsloop Iosephus, en noch een? 
+Iosephus, die noch most in der Romeynen handen 
+De ced'ren van ons kerck zien blaeck'ren en zien branden. 
+'t Is waer, ick sleyp geen boey, noch quyn in slaverny, 
+Want daer toe 's Keyzers hert te zeer hanght over my: 
+Hy viert myn hoogh geslacht, en wil met lompe kluyst'ren 
+Noch 't Koningschap in my, noch 't Priesterdom ontluyst'rẽ: 
+Hy weet wat wijsheyd ick doorsnuffelde in myn jeughd: 
+Hoe Galilea kan getuygen van mijn deughd 
+En vroomheyd, die hy toetste in d'uyterste benoutheyd: 
+Hy ziet myn jaren aen, en eert myn statige ouwdheyd: 
+Dit ken ick, en 't is waer: maer zal my zulcx van druck 
+Ontslaen, als ick gedenck der stammen ongeluck? 
+Als ick een handvol zie van onze Abrahamyten 
+Gespaert tot leyder leet haer hert te bersten kryten? 
+Zoo ben ick wel ontaerd, en inden grond verzet 
+Van d'yver, die myn ziel verplichte aen Moses wet: 
+Maer neen, eer zy myn faem in Israel gelastert: 
+Eer hou my Iacob voor zyn speelkind en zyn basterd: 
+Eer lochen God 't verbond, bezegelt als ick heesch 
+Van schreyen, d'achtste dagh besneen wierd aen myn vleesch, 
+Eer ick een mate stelle, of voor myn dood laet enden 
+Den rouwe, die ick scheppe uyt Israels ellenden. 
+Light my dan noch aen 't hert zo na de droeve staet 
+Van 't lieve Vaderland, hoe is dan zulcken haet 
+Op myn onnoozelheyd gebraeckt, en uytgespogen, 
+En uyt myn zuyv're borst zoo veel vergifs gezogen? 
+O Zon! die zonne en mane en sterren schenckt haer licht, 
+Die d'helsche duysternisse ontdeckt met uw gezicht, 
+Die d'afgrond van het meyr met d'appels van uwe oogen 
+Verraed, en by den neck geveynstheyd grypt en logen: 
+
+{==4==} {>>pagina-aanduiding<<}
+
+Ick dage u heylighlijck, en bidde u dat ghy tuyght 
+Of ymands dreygement, of gunst mijn vroomheyd buyght: 
+En dat uw boosheyd, die om wraeck riep, ghy Tyrannen! 
+Die tegen 't vaderland de ketens hield gespannen, 
+My toon waer na 'swets eysch ick heb mijn recht verbreuckt, 
+Of waer 't eenvouwdigh kleed is van mijn trouw gekreuckt. 
+Hoe dickmael naderde ick uw veel bestormde veste 
+Om af te stuyten 't ramp van 't algemeene beste, 
+En bood uyt 's Keyzers naem u hulde, en vrundschap aen, 
+Helaes! maer al om zunst, het water lietmen staen, 
+Men keerde hem niet om 't vuyr des ondergangs te blusschẽ, 
+Men vloeckte, en quetste my al razende ondertusschen: 
+Mijn ouwd'ren levens zat, wat onderstaet de wrock, 
+Of schaemt den haet zich niet? die wierpmen inden stock. 
+Maer isser wel een stuck te schendigh aen te rechten 
+Voor die uyt Sions kerck als uyt een roofslot vechten? 
+Voor die, wiens dolheyd kan noch moord, noch roof verzaẽ? 
+Voor die haer ving'ren aen 't gewyde dorven slaen? 
+Voor die in 't heylighdom als tygerdieren brullen, 
+En 't hooge koor met bloed, en versche lycken vullen? 
+Wat helpet! wonder is 't, hoe God zo lange draeght 
+Een boosheyd opgehoopt, daer van den Hemel waeght: 
+'t Is wonder noch dat God haer quaed niet vroeger strafte, 
+Als elck Kerckschender dol hem als een hond aenblafte. 
+Hebt van verdiende loon nu overvolle maet, 
+En zwaerder wege uw straffe als uw bedreven quaed, 
+Vervloeckte Simeon, Ioannes twists aenblazer, 
+Zeloters, Salems pest, heyloozen Eleazer, 
+Die ghy te gader zyt verraders van die stad 
+Dien d'Hemel als zyn bruyt zich uytgelezen had: 
+'t Onschuldigh bloed, dat hier gestickt is in zyn wapen, 
+Hou steeds uw bleeck gebeente onrustigh zonder slapen, 
+En d'Echo, die in 't woeste hier is de nachtegael, 
+Tot wraeck uw schimmen weck des nachts wel zevenmael: 
+
+{==5==} {>>pagina-aanduiding<<}
+
+Of schepty noch de locht, en zieltooght als gevangen, 
+Zoo schroeymen u het hert met gloeyendige tangen, 
+Of bouwe een ander hel, die, ick weet naulycx hoe, 
+Gerabraeckt houde u ziel, en laet geen sterven toe. 
+'t Bouwvalligh Isr'el, nu 't vernielt is met zyn stammen, 
+Door zweerd, pest, hongersnood, en aengesteken vlammen, 
+De ruyter rijck van roof zijn wonden zich getroost, 
+De schildwacht afgebraeckt, ontharnascht word verpoost, 
+De stormbock blutzens moe' verpaystert wat zijn hoornen, 
+En 't Roomsch veldteecken zwiert te dertel van de toornen 
+Die Titus heeft verschoont, op dat noch langh na hem 
+Elck weet waer Roome liet 't verwoest Ierusalem, 
+De tenten zijn vol vreughds, vol juychens, en bazuynen, 
+Men vlechter niet dan palm, en lauwer, om de kruynen 
+Der helden te beslaen met kranssen altyd frisch, 
+En rust zich ten triumph, die maer een voorspel is 
+Van deze zegefeest, die aenstaet, daer gaet schuren 
+De Tyber blanck van stroom de Keyzerlycke muren. 
+Maer ons twaelfstammig volck, eẽ hoopkẽ, dat noch 'tzwaerd 
+De pest, de dood, het vuyr, en d'honger heeft gespaert 
+Tot allerhande smaed, op haer triumphs geruchten 
+Te deerlijck wedergalmt, en antwoord met verzuchten, 
+Hoopt treurigh klacht, op klacht, en steent zyn hert in twee, 
+En is gelyck de geen die in de wilde zee 
+Na schipbreuck schrylings op den mast noch 't lyf wil bergẽ, 
+Dryft tusschen klippen heen, en ziet geen oevers nergen, 
+Dryft tusschẽ vreeze en hoop, zwemt tusschen hope en vrees, 
+Zoo zwerft Iudea nu, die vaderlooze wees: 
+O Vader! haers erbermt: slaet 't aengezicht eens neder, 
+Die ghy de baren temt, de blixems, en t'onweder, 
+Temt's vyands razernye, en koelt, en lescht den brand 
+Die van 't woestkryghsvolck heeft geschroockt het ingewand, 
+Dat Isacx overschot geen ramp meer op zich lade, 
+Dewijl ghy 't nu beveelt der Heydenen genade. 
+
+
+
+{==6==} {>>pagina-aanduiding<<}
+
+
+
+TITVS de Keyser. LIBRARIUS Rothmeester. 
+Het noodgeheym der Goon heeft uytgediend ten lesten: 
+Vermorseld zijn in puyn de steygerende vesteh, 
+En van 't vervloeckt geslacht, zijns levens zat en moe, 
+Is uytgeruckt de boom tot aen den wortel toe. 
+Zoo Griecken afgestre'en, met d'uytvaert der Troijanen 
+Zich ter onsterflijckheyd den wegh vermocht te banen, 
+Daer nae thien jaren strijds noch eerst een zwanger peerd 
+Den brand van 't oorloog dẽpt, en niet de deugd van 't zweerd, 
+Wat heeft dan d'hemel tot besoldinge behouden 
+Daer Titus vroomheyd mede is nae verdienst vergouden? 
+Door wien zoo diep gegronde, en hemelhooge stad, 
+Als met een oogenwenck, geblixemt is zoo plat, 
+Dat hy, die nae hem komt, heeft licht'lijck af te meten 
+Hoe eenen leegen val 't hoogh klimmen leerd vergeten: 
+Daer by, wat straffe hem dreygd die d'heyl'ge wetten breeckt, 
+De majesteyten quetst, en aen den prickel steeckt. 
+Lof Goden voor uw gunst, die in zoo groote allarmen 
+Als taeije zeen'wen waert aen 's Roomschen veldheers ermẽ, 
+Dat zijn ontscheede stael noyt keerde moede en mat, 
+Als droncken vanden bloede, en van 't doorkerven zat: 
+Dat zijn gespannen peze hy stout en onverschrocken, 
+Noyt heeft vergeefs gelost, noch ydel ingetrocken, 
+Voor dit verleyd gespuys in 't stof begraven lagh, 
+En 't overblijfzel droef dit droevigh schouwspel zagh. 
+My dunckt dat ick verneem de faem, die uytgelaten 
+Lact klincken haer trompet te Roome langhs de straten: 
+Daer, als de vader dut, voor 't weerdste pand bezurght, 
+Zy op de toornen daeld van 's Keyzers hoogen burght, 
+En streckt Vespasiaen, om Titus half verlegen, 
+Een bood van deze feeste en onverwachten zegen. 
+O Hercules! hy zwijmt, hy flaeuwt, de gryze man, 
+Om dat al t'effens niet zijn vreughd uytbersten kan: 
+Maer als d'ontschoten verwe hy weder heeft bekomen, 
+En opschiet als een die ontwaeckt uyt zoete droomen. 
+
+{==7==} {>>pagina-aanduiding<<}
+
+Zijn, zeght hy, dan de Ioon gesneuveld door de deughd 
+Van 't yzer en van 't stael van ons Romeynsche jeughd? 
+En mocht dat vast Kasteel met onbeklimb're muren, 
+En Krijghislie telleloos niet langer ons verduren? 
+Zoo mogen heden wy, met glori overla'en, 
+By Caesar sterrenwaerts nae 't huys der helden gaen: 
+Zoo zaghmen eer Iuppijn toerusten om te stryden, 
+En in d'ontstelde locht den Adeler beschryden, 
+Van waer hy ongedreyghd dien, die hem smaed aendeed, 
+Tot polver en tot gruys met zynen blixem smeet. 
+Recht zoo 't den reuzen ging, als zy haer krachten proefdẽ, 
+En met den schouwd'ren trotz de bergen opwaerts schroefdẽ 
+Nae 's hemels zolderingh, heel ijslijck aen te zien, 
+Om uyt vermetel breyn den Goden 't hooft te bi'en: 
+Zoo ginght dees muyters, die uyt dwaesheyd ingenomen, 
+Haer kanten tegen 't Rijck van 't wijd beroemde Roomen, 
+Dat steeds uytsteeckt een borst met roemzucht opgevuld: 
+Dat aengedane smaed noch muyterije duld: 
+Dat strijdb're Pallas, met haer speer eens te verzwicken, 
+Doet zidd'rẽ 's werelds kreyts, gedoodverwt door 't verschricken: 
+d'Ontzichb're en preutsche maegd, noyt wapendrẽs moe', 
+Ick zie zy lonckt op my, my dunckt zy knickt my toe, 
+Aen 't schuddẽ van 'thelmet, aen 'tzwaeijẽ van haer pluymen, 
+Uyt blyschap, dat ick doe haer heyl'ge troonen ruymen 
+Een wederspanningh aes, dat uyt vervloeckte nijd 
+Haer kroon, en zetel had ontluystert, en ontwijd: 
+Zy draeyd een hemelkloot, en overstaert haer helden 
+Die zy vergode, om datze haer lijf, en leven stelden 
+Voor 't schaecken van haer eere: haer hert bekommert, bernt 
+Uyt danckbaerheyd, om my te plaetzen in 't gesternt': 
+Wijdheerschende Godin! waer zuldy Titus zetten? 
+Die met uws vyands breyn, en bloed zijn harnasch smetten, 
+Doen met geheven erm hy 't ijzer knerssen de', 
+En kloof door stalen helm hem 't beckeneel in twee, 
+
+{==8==} {>>pagina-aanduiding<<}
+
+Dat hy gesneuveld, viel uyt stegelreep, en zadel, 
+Die ons braveren wou met zynen basterd adel? 
+Help Iupiter! hoe word mijn ziel van vreughd geperst, 
+Wanneer 't geheughnis van 't verle'en mijn geest ververscht, 
+Als mijn gedachten zijn met malen overladen 
+Van dezes rechterhands onvergeleken daden, 
+Waer door ick menighmael 's doods daggesteeck ontgingh, 
+Gedurende het tempeest van dees belegeringh. 
+Als weerloos ick, om stads gelegentheyd t'ontblooten, 
+Eer ick mijn leger sloegh, quam trots voor uytgestooten, 
+Gevolght van zestighmael thien ridders op den draf, 
+Ziet een verborgen lage, ontrent Helenen graf, 
+Haer schoonst ziende, onverwacht my heeft op 't lijf gesprongen, 
+En vanden schoonsten hoop Rijcxed'len afgedrongen: 
+De vyand dreyghtme aen d'een, de stad aen d'ander zy, 
+Wat gaet de Veldheer aen? de nood eyscht dat hy stry: 
+De sabel girst van le'er, als kolen d'oogen branden, 
+Al worstelende hy breeckt door 't midden der vyanden: 
+Recht als de leeuw [wanneer de jagers op haer luym 
+Opdond'ren als hy is omcingeld op het ruym] 
+Zich vindende benaeuwt, versmaed der winden snorcken, 
+Worpt voncken uyt 't gezicht, ziet knodzen aen, noch vorckẽ, 
+Laet d'achterkiezen zien, bruid met beschuymde muyl, 
+En stuyft door 't lompe tuygh met eysselijck gehuyl: 
+Zoo red zich Titus oock, of d'haet hem schoon terwylen 
+Groet met een hagelbuy van uytgelaten pylen: 
+Als of in 's afgronds poel hy met den Peleaen 
+Gedoopt was, om ter nood de wonden te versma'en: 
+Als of de schildknaep van Iuppijn, door dondervlagen, 
+Door hagel, wind, en storm, is wel gewoon te dragen 
+Den blixem, die vaeck scheurt de rotzen gul van 't schuym, 
+Terwijl hy schadeloos verzenght noch schacht, noch pluym. 
+Ben ick die Krijghsgod niet? die groeijende inde wapen, 
+Antonia den borght, terwijl de Ioden slapen, 
+
+{==9==} {>>pagina-aanduiding<<}
+
+Beklim, en drijfze in 't Koor van haer gewyde plaets? 
+En groet met veldgeschrey den koets des dageraeds? 
+Heeft niet dees rechterhand, den onderaerdschen rycken 
+Met twalef schichten, toegezonden zoo veel lycken? 
+Maer waer toe monster ick myn deughden altemael? 
+Laet tuygen van myn deughd die schaerden van mijn stael: 
+Laet tuygen van mijn deughd zoo veel gebroken lanssen: 
+Laet tuygen van myn deughd die neergestegen transsen: 
+Laet tuygen van myn deughd dat kerckhof bangh van doon: 
+Laet tuygen van myn deughd die naklangh droef van toon: 
+Laet tuygen van myn deughd die opgegraven straten: 
+Laet tuygen van myn deughd de roof van mijn soldaten: 
+Laet tuygen van myn deughd de smoock, het puyn, het vyer, 
+En d'Adeler, die zweeft in 't veld van ons banier: 
+Laet tuygen van myn deughd dees gapende quetzuren, 
+Eerteeckens, die ick kreegh in't stormen op de muren. 
+
+
+
+
+Libra. 
+Aertzveldheer, wie ontkend, wie roept niet uyt, dat ghy, 
+Als 't klevende cement van deze Monarchy 
+Den grondvest t'zamen houd? die anders licht mocht zacken 
+En scheuren, overmids zy met te zware packen 
+Van Rijcken gaer gestouwt ondraegh'lijck is verla'en, 
+Wie ziet niet dat ghy aerd nae die Vespasiaen, 
+Die ons 't gezicht uytsteeckt met 'tweerlicht van zijn kroonẽ? 
+Zijn gulde scepters stroyt, en doolt in al de troonen 
+Die voor hem open staen, van 't helder dagende oost, 
+Tot daer de post van 't licht vermoeyt in schaeuw verpoost? 
+O spruyt! die antwoord dien, waer uyt ghy zijt gesproten, 
+Wat zyn zoo heerlijck hier wel treflijck opgeschoten 
+De telgen van uw deughd, in spyt van kryghs tempeest: 
+Wat is uw bloeyzel ons een zoete vreughd geweest, 
+Een zoete vreughd geweest uw bloeyzel, dat van boven 
+Gezegent, gaet het Rijck een Rycken oeghst beloven: 
+Gezalight is die 't ziet, maer zaliger die tyd 
+Wanneer na 't zwanger gaen de vrucht tot rijpheyd dyd. 
+
+{==10==} {>>pagina-aanduiding<<}
+
+Hoe dickmael hebben wy hoplieden met ons allen, 
+Als ghy in 't harnasch blonckt, gereed om op de wallen 
+Voor op te klimmen, u al smeeckende gebeen: 
+Hoe nu doorluchtigh Vorst? hoe nu, waer wildy heen? 
+U wagen op den muyr? voorbarigh in 't opsteyg'ren? 
+Dat dulden wy geensins, dat's tyd als wy 't u weyg'ren, 
+Wiens leven buyten scha kan slyten van 't gemeen, 
+'t Gemeen, wiens troost en heyl hanght aen uw heyl alleen: 
+Vaeck een vervlogen punt kan d'aldervroomste oock letten: 
+Dus wilt uw ziel zoo licht niet inde waeghschael zetten, 
+Dat ghy d'ondanckbare aerd bebloed mocht sprenck'lẽ rood, 
+En dit boosaerdigh volck doen juychen in uw dood: 
+Als 't met d'hooftpylaer, en den Atlas neer te vellen 
+'t Roomsch Capitolium verzincken zagh ter hellen: 
+Weert Hemel! weert dien val: en met wat reens beleed 
+Zou voor uws vaders troon onze onschuld zyn bekleed? 
+Verschoont ons dan in u, o Prince goedertieren, 
+Uw deughd bralt op den toutz ghy mooght met eerẽ vieren. 
+
+
+
+
+Titvs. 
+Cieraet myns Ridderschaps, uw zorge, uw wackerheyd 
+Voor 't heyr, voor 's Keyzers heyl, die zyn als ingeheyt 
+In 't middelpunt myns ziels: myn noodhulp, 't is zo verre 
+Dat ick 't sla inde wind, dat eer de morgensterre 
+Opduyckende uyt de zee, eer klaerder glans aenbreeck, 
+Haer vlechtsnoer weyg'ren zal haer tuyten zilverbleeck: 
+Eer zal de frissche dauw aflaten van te drupp'len 
+Op nucht're kruyden, die ververscht van blyschap hupp'len, 
+Eer 't onvergolden blijft, of eer ick 't loon ontruck 
+Hem, die lidteecken brenght van eenigh heldenstuck. 
+Een Maerschalck die te vreck, en traegh is in 't vergelden 
+Bluscht uyt de dapperheyd van d'onverschrocken Helden: 
+En wy Monarchen zelve, op hoop van rycken buyt, 
+Om purper fyn van draed en scepters trecken uyt, 
+Gaen ploegen woeste zeen, en ongebaende steenen: 
+Vermeest'ren 't uytheemsch volck, dat aerzelt voor ons henẽ: 
+
+{==11==} {>>pagina-aanduiding<<}
+
+Zoo prickelt ons een lust, om onbeheerscht alleen 
+Ghelijck Iuppyn om hoogh te dond'ren hier beneen. 
+
+
+
+
+Libra. 
+Indien uws hoogheyds ziel schiep ergens haer genoegen 
+Uyt diensten, die misschien wy u verplicht opdroegen: 
+Of isser yet verschuld, hoewel een goed Soldaet 
+Met eeden aen zyn heer al naeu verbonden staet, 
+Duld, dat ick op uw deughd mijn bloodigheyd magh enten, 
+Waer ghy 't verhemelt gaet uytspannen van uw tenten: 
+Duld, dat de lommer my van uw laurieren deck, 
+Waer ghy den vyand veeght het lemmer door den neck: 
+Waer uwen stormbock dreyght met zyn metalen hoornen 
+Te mortelen den voet, en borstweer vande toornen: 
+Ick droom om geen soudy noch and'ren palm als dit, 
+Dat my het stof bekruyze als ghy te peerde zit. 
+De kryghslie zijn in een geluckige eeuw geschapen 
+Als haren hooftman bromt en uytsteeckt in zyn wapen, 
+Dat helpt haer bloed aen 't zi'en, en stoockt zijn krachten op, 
+Dat het zyn schuym opwerpt uyt eenen vollen krop, 
+En schielyck overzwalpt: laet zijn ontsteldheyd mercken 
+Hoe zeer men 't dwingen wil in zyn bestemde percken. 
+Dat 's d'oorzaeck eer van Mars! dat ons Romeynsche jeughd 
+d'Hooftslapen u omvlecht, en roemt dat door uw deughd 
+Deze Hydra light gedempt, geschroeyt, en omgekomen, 
+Die een Alcides eyschte, en Hercules van Roomen. 
+Dien Typhon is gekneust, die reutelt noch van spyt, 
+En zwavel, vuyr, en smoock uyt zijn neusgaten smyt. 
+Zo oyt ons Ridderschap had schoone buytekanssen 
+Doẽ Hannibal ontvlood: een hertvangh 't groot Numanssen, 
+En 't ouwd Carthago smeet ter aerden na veel twist', 
+Dat van ons Scipions elck een te spreken wist': 
+Zoo oyt ons kryghsvolck klom geluckigh over d'Alpen 
+Zoo wyd de Rhyn zijn strand gaet weerzyds overzwalpen: 
+Passeerde als in slaghoorde het Pyreneesch geberght': 
+Daer Vranckrijck Caesar bracht de sleutels ongeverght: 
+
+{==12==} {>>pagina-aanduiding<<}
+
+Bedwongh van wereld afgeschovene Brittoenen 
+Den Roomschen Tyber met haer manschap te verzoenen: 
+Of, om te lesschen uyt het smoocken vande brand, 
+Die van dees Monarchie ontstack het ingewand, 
+Pompeius ruymen de' de velden van Pharsalien: 
+En opdroegh Caesar de vooghdije van Italien: 
+Zoo, zegge ick, Ridder oyt opgeven dorst zoo breed, 
+Om dat hy onder zoo beroemden Veldheer streed: 
+Noch geven wy 't niet op: noch Titus derf niet wijcken 
+Zoo Caesar zijn tropheen met hem wil vergelijcken. 
+
+
+
+
+Titvs. 
+Dat Caesar Caesar is, die heyr op heyr verstroyt, 
+In 't lest dees Monarchie heeft tot den top voltoyt, 
+Voltoyt, dat by aldien mocht Romulus verryzen 
+Hy zijn vergode ziel zou met verwond'ren spyzen: 
+Daer waeght de weereld af, zoo wijd den Hemel blaeuwt, 
+En valt de Faem hierom d'aerdbodem te benaeuwt: 
+Maer 't is geen minder kunst 't gewelf van zoo veel Rijcken 
+Te houden in een knoop, en gaer te houwelijcken, 
+Als 't is te ryzen doen een glori, die zoo bromt, 
+Dat 't aerdrijck voor haer neyght, en zynen rugge kromt. 
+
+
+
+
+Libra. 
+Dat bleeck wel hoe vergeefs de dappere Alexander 
+De Rijcken schaeckelde als een keten aen malkander, 
+Doen, als hy nauwlijcx dronck een slaepdranck aen 't vergift, 
+Zijn purperen gewaed in vieren wierd geschift: 
+Daer lagh de prael in d'asch. Monarchen gaet oorlogen, 
+Uw vyanden ontzeght, en ziet haer onder oogen, 
+Bestootze, en overwindze, en vatze by de kraegh, 
+Half levende, of heel dood, en vierd haer onderlaegh: 
+Ziet waer toe dienen zal uw grootsheyd opgeblazen, 
+Die al den ommeloop des weerelds kan verbazen, 
+Als uw nazaten slap, verwijft en achteloos, 
+Zoo dier verkregen pand verslenssen voor altoos. 
+Word Titus dan vergeefs gedanckt van zijn voorzaten, 
+Die hem vertrouwden, en 't Rijck hebben nagelaten, 
+
+{==13==} {>>pagina-aanduiding<<}
+
+Om dat hy 't hoofd ophoud van deze Monarchy, 
+Die onlanghs scheen geneyght ten val door muytery? 
+Ziet hoe verlegen zy 't hoofd in haer schelp ophalen 
+Die waenden ons den tol met muyten te betalen: 
+Ziet hoe als in uw schoot 't ontzagh word opgequeeckt, 
+Hoe 't al voor u verschrickt, en yligh 't mes op steeckt. 
+
+
+
+
+Titvs. 
+Dees wraeck by ons zoo versch geoeffend over 't muyten, 
+Ontwijflijck zal veel ramps van onze staet afstuyten, 
+En d'onverwelcklijcke eere, en prijs hier in behaeld 
+Werd door 's tijds nydigheyd, noch ouderdom bepaeld: 
+Die gloeyt ons om het hert, dat schijnt van vreugd te zwellẽ: 
+Maer als wy wederom ons helden overtellen, 
+En mijm'ren inde rol der gener welck zoo zuyr 
+Gedurende het belegh de' sneuv'len 't avonthuyr: 
+Dan loopt al mijn gewin vermids 't verlies verloren, 
+Om dat ick missen moet die Ridd'ren welgeboren. 
+Nicanor, and'ren erm uws Maerschalcx! waer zijt ghy 
+Die een gevedert hout de' slipp'ren aen mijn zy'? 
+Sabinus, Iuliaen, en meer ter dood gewonden 
+Wiens geest in 't stryden van 's lijfs korcker is ontbonden? 
+Wat is 't? of ten triumph uw Veldheer overschiet 
+Als uw gedachtenis hem 't hert roert met verdriet? 
+Wat is 't? of zynen roem den waessem breeckt der wolcken? 
+Als hy u vallen 't bloed ziet uyt uw lenden stolcken? 
+Wat is 't? of waer toe streckt. 
+
+
+
+
+Lib. 
+zacht, zacht, doorluchtig Vorst, 
+Uw zelf genadigh zijt, en quetst uw edel borst 
+Niet met 't vergiftigh punt van zoo onnutten rouwe. 
+
+
+
+
+Titvs. 
+Zijn dan geen tranen weerd die Ridd'ren zoo getrouwe? 
+
+
+
+
+Libra. 
+Doen zy gesneuvelt zijn, wie heefter niet getreurt? 
+Doch om dat vande Goon haer viel dit lothte beurt, 
+En 't avonthuyr des krijghs, 't welck zomtijds lust te schempẽ, 
+In 't sparen van de minste, en d'aldervroomst' te dempen, 
+Haer leven stelde een maet: zoo moeten wy nochtans 
+Daerom bezwalcken niet met rouw den schoonen glans 
+
+{==14==} {>>pagina-aanduiding<<}
+
+Van d'overwinningh, die den Hemel ons wou schencken: 
+Maer peynzen, zoo uw tonge ons vaecken de' gedencken, 
+Eer wy aen 't stormen kloeck gehert door uw vermaen 
+Als leeuwen haren roof den vyand randen aen: 
+Dat die gesternde tent die van Hyacinthen schimmert, 
+En als een speelhof is doorluchtigh opgetimmert, 
+Geherberght in haer schoot de zielen houd, der geen 
+Die voor het vaderland hier vielen afgestreen: 
+Terwyl op 't gulle bed de bloode, kleyn van waerde, 
+Gaet zenden zynen geest met 't vuyle lyck na d'aerde. 
+
+
+
+
+Titvs. 
+Dat matight mynen druck, en troost my, dat ick voel 
+Myn eerste blyschap weer bezitten 's herten stoel. 
+
+
+
+
+Libra. 
+Als eenigh hooftman stort zyn bloed, en oock zyn leven, 
+Betaelt hy 't gene hy was zijn Veldheer schuldigh bleven, 
+Gebleven schuldigh aen zijn Veldheer, en 't gemeen, 
+Als hy haer lyf en ziel opdroegh met heylige e'en: 
+En wie rechtschapen, zoude eens weyg'ren uyt te recken 
+Zyn Zeen'wen, 't knaeckebeen, zyn gorgel, en zyn necken, 
+Al had de vyand 't mes geheven met 't gevest, 
+Als hy zich off'ren mocht aen 't algemeene best. 
+
+
+
+
+Titvs. 
+Van ouwds een goed Romeyn dat hield voor eenen zegen 
+Wanneer de vyand hem quam kitt'len met den degen. 
+
+
+
+
+Libra. 
+Niet waer? o zoon van Mars! betuyght niet ons gemoed 
+d'Onsterflijcke eer te zyn het alderhooghste goed? 
+Was dit die schoone niet, daer al de geen om dansten, 
+Die met haer vleesch en been het Keyzerryck beschansten, 
+Sint dat ons grondvest eerst van Romulus geheyt 
+Wierd dierbaer in 't cement van menschen bloed geleyt? 
+Laet Mars bevolen dan zoo glorioze zielen, 
+Die hy vergodet heeft als haer gebeenten vielen, 
+En denckt om uw triumph. 
+
+
+
+
+Tit. 
+Ick wil, ick wil voortaen 
+Bestieren wat zich rept, en tuymelt onder maen, 
+En latenze in haer feest die heldisch opgeklommen, 
+Beslaen de dorpels van der Goden heylighdommen. 
+
+{==15==} {>>pagina-aanduiding<<}
+
+Ghy Geesten, vaert dan wel, die boven op ons wacht, 
+En nu zo spytigh steeckt op 's Keyzers prael en pracht, 
+Om dat u Roome krimpt zoo kleyn in 't oogh van verre, 
+Zoo krimpt ons wederom uw aldergrootste sterre: 
+Dus lacht niet al te scheets op 't spits van uw gewelf: 
+Uw veerheyt mindert niet ons grootheyd in zich zelf. 
+En of ghy Caesar vond zoo wilt hem doch verklaren 
+Wat zweet het Titus kost zyn scepters te bewaren: 
+Op dat hy uytsteke eens zip blinckende aengezicht, 
+En groet zyn nazaet die zoo trotz te velde light, 
+En moedigh heeft gekneust d'halsterrigheyd der Ioden, 
+Die eer zyn tollen 't goud zoo ongeweygert boden: 
+Maer korts haer ouwde luym in 't breyn gestegen quam, 
+Als of met zyn vertreck 't gebied een eynde nam. 
+Maer ghy myn Ridd'ren, en myn afgestre'en soldaten, 
+Die 't avonthuyr des krijghs heeft ten triumph gelaten, 
+Na dat de daecken zijn gescheurt, gebrand, geblaeckt, 
+Die eer Pompeius zweerd ons chynsbaer had gemaeckt: 
+Die ghy noch 't versche bloed moet van uw wonden vegen, 
+Ick wil elcx daden mild, en danckbaer overwegen, 
+En stroyen onder 't heyr halsbanden styf van goud, 
+Muyrkroonen met gesteente, en peerlen opgebouwt: 
+De strydbaerste inden storm en d'uytgelezen, zullen 
+Opsteyg'ren na verdienste, en ledige ampten vullen. 
+Oock wil ick 't outaer op het statighste beslaen, 
+En met een danckb're ziel het offer steken aen, 
+En heyl'gen 't ingewand geroost, en opgezoden 
+Der heyligheden Reye, en Godheyd van de Goden 
+Die 't Capitolium bewaecken vande Stad 
+Die in triumphen graest, en al de weereld mat, 
+En word geliefkoost van het noodloth aller dingen: 
+En dreyght ten Hemel met opsteyg'ren in te dringen. 
+Die Godheyd, door wiens gunst ons jonge manschap rypt, 
+Die onze speeren smeert, ons stalen degens slypt, 
+
+{==16==} {>>pagina-aanduiding<<}
+
+Ons steeckvry kolders gespt, en vo'ert ons beuckelaren, 
+Knick gunstigh 't ongel toe, dat op gewyde altaren 
+Zal d'heyl'ge vlammen voen, juyst op die plaetze, daer 
+Dit volck zijn Godsdienst heeft gepleeght zoo menigh jaer. 
+
+
+    
+
+Rey van Roomsche Soldaten. 
+Sta by Olymp'sche Worstelaers, 
+Die eertijds had zo veel gebaers 
+Om dat ghy 't stof beweeghden, 
+En 't zweet an 't aenzicht veeghden: 
+Wanneer, in 't afgetuynde rond, 
+In 't worst'len ghy geen weerga vond, 
+En voor dit lief bedryven 
+Droeght kranssen van Olyven. 
+En steeght op uw triumphkoets hoogh, 
+Daer al de Griecxsche jeughd voor boogh, 
+En die voorhenen liepen 
+I O triumphe riepen: 
+Komt monstert uw bekrozen vel, 
+Uw boerterye, en kinderspel 
+By 't leven dat wy voeren 
+In dolle kryghs rumoeren. 
+Komt leert van ons een leger slaen, 
+En trecken d'ys'ren handschoen aen. 
+Ziet hoe ons stael verbolgen 
+Het roode zweet doet volgen. 
+Ziet onze ooghappels als een vyer 
+Eens branden, om den lauwerier 
+Te plucken groen van bladen 
+Langhs ongebaende paden. 
+Al sneuvelt menigh held terwyl, 
+Die was aen 's Keyzers hof een styl, 
+De vroomheyd van ons allen 
+Stut al wat dreyght te vallen. 
+
+{==17==} {>>pagina-aanduiding<<}
+
+In 't bed van eeren valt den doon 
+Onsterffelycke lof tot loon, 
+En Mars jond dat zyn schimmen 
+Van mond ten Hemel klimmen. 
+Dus is ons 't oorloogh geen verdriet: 
+Noch achten 't leven dierbaer niet 
+Wy proncken met ons wonden, 
+En pylen toegezonden. 
+Wy vlien het troet'len van 't gemack. 
+Den blaeuwen hemel is ons dack. 
+Op 't vlacke veld wy slapen, 
+En sluym'ren inde wapen. 
+Schoon d'opgesteken moordtrompet 
+Zomtyds ons zoete rust belet, 
+Wy aers'len voor geen dreygen, 
+Want dit 's den Kryghsman eygen. 
+Als onzen Veldheer rept een woord, 
+Het slaet gelyck een blixem voort, 
+En 't helpt van bende aen bende 
+'t Gantsch legher over ende. 
+Is 't vreemd dat ons tropheen ten toon 
+Dan inde Kercken vande Goon, 
+En vendels opgehangen 
+Afzwieren van haer stangen? 
+Is 't vreemd dat Titus houd in dwangh 
+Het oosten, en den ondergangh? 
+Dat hy uytzend zyn stralen 
+Aen 's werelds leste palen? 
+Is 't wonder dat oock 't Ioods geslacht 
+Van Roome gantsch is t'onderbracht? 
+En dat wy Salems necken 
+Nu met ons zolen decken? 
+Hoe vreughdryck groeyt nu Titus geest: 
+Hoe viert hy nu zyn zegefeest: 
+
+{==18==} {>>pagina-aanduiding<<}
+
+Hoe zacht na al dat slaven 
+Doen ons zyn milde gaven. 
+Hoe ruyterlijck deylt hy den buyt 
+En roof aen zyn soldaten uyt, 
+Wie zagh oyt van zyn dagen 
+Het goud zo afgeslagen. 
+Al 't kunstwerck dat oyt sleypen kon 
+'t Prat Solyma van Babylon, 
+Al watze om preuts te pralen, 
+Van Tyrus merckt liet halen: 
+Schaerlaken, purper, fyn en c'el, 
+Arabisch wieroock, en kanneel, 
+Haer schatten allenthalven 
+Nu ons quetzuren zalven. 
+Dat troost noch eens flucx krijgsmans hert, 
+En leert vergeten al zyn smert, 
+Die hy oyt most bezuren 
+In 't stormen op de muren. 
+O Maerschalck voor ons veel te mild, 
+Nu scheept u legers waer ghy wilt, 
+Waer ymand opsteeckt d'ooren, 
+En weckt des Keyzers tooren. 
+Al woudy by den Indiaen, 
+Aen Indus oever drencken 
+Uwe henghsten, mat van 't hygen, 
+Van op en af te stygen: 
+Of wildy daer de zon verbaest 
+'t Gediert wyckt, dat van honger raest: 
+Daer op de Noorder wagen 
+De Winter word gedragen: 
+Of Westwaerts, daer het Hemelsch vuyr 
+Braed d'Iber, onze nagebuyr: 
+Of aen der Mooren grenzen: 
+Of d'oevers der Cretensen: 
+
+{==19==} {>>pagina-aanduiding<<}
+
+Of wildy daer geen Phoebus schynt, 
+Daer Pluto d'arme zieltjens pijnt 
+Afstygen gaen ter hellen: 
+Alom wy u verzellen. 
+
+
+
+
+De tweede handel.
+
+De Dochter Sion. Rey van Staetjonff'ren. Rey van Ioodsche Vrouwen. Iosephvs.
+
+
+De Dochter Sion. 
+HOE dwaes hy zich verleyd die zijn geluck vertrouwt, 
+Die op d'uytstekentheyd van zijn paleyzen bouwt, 
+En troet'len laet zijn ziel van zichtelijcke dingen, 
+Die, hoeze grooter zijn, hoe meer veranderingen 
+Haer hangen over 't hoofd, en jagen haer verderf: 
+Hoe ydel datmen klutst op 's weerelds timmerwerf, 
+En opboeyt 't handgebaer van menschelijcke zaecken: 
+Dat leerde my de val van Sions hooge daecken, 
+Van dees gebluschte zon: die met datze ondergaet 
+De weereld om doet zien, en als voor 't voorhoofd slaet. 
+Hierusalem! hoe is uw hovaerdy gesloncken: 
+Uw preutsheyt overliep, de Weelde maeckte u droncken 
+Met haren gouden kop, en haer fenynigh sap, 
+Zoo flucx 't rees in uw breyn maeckte u de beenen slap: 
+Hoe zoudy langer staen? ghy raeckte aen 't suyzebollen, 
+En quaemt van d'elpenstoel, en marb're trappen rollen, 
+Nasleypende uw perruyck, besprenckelt, peersch, en blaeuw: 
+Daer af ghy noch behielt dees wonden versch en raeuw. 
+
+{==20==} {>>pagina-aanduiding<<}
+
+Waer is uw schoonheyd nu, die met vergode stralen 
+Danste op d'oneffenheyd van heuvelen en dalen? 
+Die als een Cherub zweefde op 't dack van 't heyligh Koor? 
+En lodderlijck van verr' d'Araber, en den Moor 
+Ontstack met yver, om te vli'en haers afgods drempel, 
+En t'offeren haer goud, en wieroock 's Heeren Tempel? 
+Helaes z'is langh verwelckt, een onverwacht tempeest 
+Dees bloem den keurs uyttrock in 't midden van haer feest. 
+Hoe grimmigh van d'Euphraet, 't op my gebeten Babel 
+De voncken van haer toortze, en blixems van haer sabel 
+My klonck in 't aengezicht: hoe eys'lijck en verwoed 
+De stad aen vlammen vloogh, en zwom in enckel bloed: 
+Hoe schendigh 't Heylighdom zijn guldene geschieren 
+Most laten tot een roof Chaldeen en Assyrieren: 
+Al was 't, al was 't schoon dat haer handen Babylon 
+Aen Zedechias zaed, en Levys zonen schon: 
+Al sleypte ick 't yzer van dien Assur Godvergeten, 
+Noch heeft mijn borst meer ramps en onheyls nu gesleten. 
+Een onweerstand'lijck heyr mijn krachten heeft gemat, 
+En van gebouw ontkleed dees torenrijcke stad. 
+Het muyrwerck ondermijnt van ons drydobb'le wallen 
+Den stormbock wijcken most, en daeghlijcx is gevallen: 
+Het zacken drymael slaet de bergen krom gebult, 
+En 't puyn de locht met stof tot aende wolcken vult. 
+De vyand tracht de vest met bruggen, en met leeren, 
+Spijt d'afgebraeckte wacht, gewapent te passeren, 
+En dringht steeds stadwaert aen, en houd ons in alarm. 
+Onze ooren zijn gevuld met jammerlijck gekarm: 
+Onze oogen zijn vol slaeps: ons hert is mat van zuchten, 
+De mond is vol geklaghs: de voeten willen vluchten, 
+En d'ermen evenwel, dan ach! met luttel baets 
+De stormen noch we'erstaen des heydenschen soldaets, 
+En worst'len, maer helaes! zy worst'len met een stercker 
+Die reede ons vryheyd heeft verwisselt in een kercker. 
+
+{==21==} {>>pagina-aanduiding<<}
+
+Wat nood, wat nood waer 't noch in't midden van de brãd 
+Voelde ick geen burgerkrijgh in 't zwanger ingewand: 
+Al dronck ick zulcken kelck met grondsop, en met droesem, 
+Had ick die slangen niet gequeeckt in mynen boesem: 
+Waer 'sTempels vloer met 'tbloed der Priest'rẽ niet besprẽgt: 
+Zaegh ick die vuysten van mijn burgers niet vermenght, 
+En bieden 't scherpe spits elckanders heupe en lenden: 
+Wy hadden noch gekampt eerze ons ons vryheyd schenden. 
+Maer ach rampzaligh volck! om dat u God verlaet 
+d'Een aengewreven plaegh tot duyzend erger slaet: 
+Uw lijftocht oorlof neemt: dies met zijn dorre schinck'len, 
+Den Honger uytgevast dat zijn gebeenten rinck'len, 
+Spoockt straten op en ne'er, en stoockt een nieuw rumoer, 
+En raest, en smijt, en loopt de deuren op de vloer. 
+Het uytgemergelt lijf als 't hooger niet kan lijen 
+Misthoopen ommewroet, en boet zijn lust aen prijen, 
+En haeld zich op den hals zoo doodelijcken pest 
+Dat d'onbegraven doon men slingerd inde vest. 
+Wee! wee! den vyand zelf moet 't hert in 't lijf bezwijcken, 
+Zoo flucx de stanck opgaet van d'opgehoopte lijcken, 
+Hy heft zijn handen op nae 't sterrenrijck gewelf, 
+En zweerd zulcx is niet zijn maer 't werck der Goden zelf. 
+Broodhonger, 't scherpe zweerd, de braefste om weyr te biedẽ 
+Tot 's Keysers tenten gans mismoedig dwingt te vlieden: 
+Daer, als 't roofgierigh volck doorsnuffelende ontdeckt 
+Hoe't ingewand een schrijn den vluchtelingh verstreckt, 
+De goudzucht 't hert bekoord, dat zonder haers t'erbermen 
+Geen rijcker mynen wenscht als die goudrijcke darmen: 
+Den hongerigen buyck dien rijckdom word misgunt, 
+En krijght voor gerstenbrood eens stalen degens punt. 
+Noch overwoegh een quale alle andere quellagien, 
+Doen die verdufte smoock van 's Tempels timmeragien, 
+Doen d'hongerige vlam dat Priesterlijck gebouw: 
+O hertsteeck! o verdriet! o smert! o druck! o rouw! 
+
+{==22==} {>>pagina-aanduiding<<}
+
+Wat Is'ralyt voortaen verschovelingh der menschen 
+Zal eeuwigh niet dien dagh vervloecken en verwenschen. 
+Ick zagh een Roomsch soldaet met zyn gekamden helm 
+Op Kerckdiefte afgerecht, God Iacobs keert dien schelm! 
+Ons vliende schildwacht kort navolgen met de glensters 
+Eens gloeyendigen brands: daer hy de goude vensters 
+Van 't heylighdom me' blaeckte, en Godvergeten stout, 
+'t Vervloeckte vuyr stack aen 't gewyde ced'renhout: 
+De Ceder reyckt' zijn hitt' d'olijf te vet om Iessen: 
+D' Olyf den Den ontvonckt: de Denne den Cypressen: 
+Dies eermen ommeziet dat schoon getimmer bernt, 
+En braeckt zijn voncken uyt nae 't flonck'rende gesternt. 
+Help God! de brand steeckt op, en een geschrey met eenen 
+Zwilt met d'opgaende vlamme en klatert door de steenen. 
+'t Barbarisch volck komt aen op 't vuyr en op 't geluyd, 
+En vlamt op zoete wraeck, en ruyterlycken buyt. 
+De Keyzer in zyn droom, zo onverziens gedaghvaert, 
+Vliegt op, grypt schild en helm, en d'appel vã zijn slagzwaerd: 
+Verneemt hoe 't vuyr met asch 't gewijde marmer deckt, 
+En 't golven vande vlam de gulde daecken leckt: 
+Speurt hoe een roode gloed versmilt die goude schalien, 
+En 't hoogh verhemelt Koor worpt vonckẽ door zijn tralien: 
+Dies zweert hy by zijn staf, zijn purper, en zijn kroon 
+Dat elck om 't eerste lesch, en 't Ioodsch gebouw verschoon: 
+Maer ach! hy roept te spa: zijn krijten is verloren: 
+Hy buldert schoon om zunst, het oorloogh heeft geen ooren. 
+Daer mochtmen Moria ten Hemel reyzen zien, 
+En ons verbaest den brand in 's vyands stael ontvlien. 
+Daer zaghmen Salomons herborene paleyzen 
+In heete kolen staen, als gloeyende forneyzen. 
+d'Olijfbergh heet geroost aemachtigh zweet alree. 
+Het strand wenscht hooger vloed. d'eylanden inde zee, 
+Thabor en Hermon haer voor zulcken gloed ontzetten, 
+En Kedrons zilv'ren nat, en Gihon drooght van hetten. 
+
+{==23==} {>>pagina-aanduiding<<}
+
+Het kraeckende gedreun doet aers'len ons Iordaen, 
+En doodverwt 't aengezicht van d'onvoldragen maen. 
+Hier vluchten wy te spa, d'een braden moet, en hersten, 
+En d'ander half geschroeyt van boven springht te bersten. 
+D'een inde borst gequetst met een vervlogen hout, 
+Beklaeght dat hy zijn ziel heeft 't Heylighdom vertrouwt: 
+En d'ander, die getroost omhelfde 't heyligh Alter, 
+Word van het zweerd verrascht, en sneuvelter, en valter. 
+De Nood beveeld t'ontwij'n, en yder te betre'en 
+'t Plaveysel afgekeurd voor 's Priesters zool alleen: 
+Maer wat kerckschender heeft hier 't heylige in hooghachtingh. 
+Genade o Davids God! wat 's dit een wreede slachtingh. 
+d'Ontbonden wraeck, die 't al wat uytmunt flucx verderft, 
+Wiens slippen zijn met bloed schaerlakenrood geverft, 
+Het Iodenvleesch goed koop aen riemen snijd en lappen. 
+Het slibberige rood stroomt langhs de marm're trappen, 
+Dat slipp'ren rugg'linghs ons verdervers licht te voet, 
+En zelf de vlamme wijckt voor 't uytgestorte bloed. 
+Op 't jamm'ren, en 't gekerm, der gener die hier sneuv'len 
+Geeft antwoord Davids stad, en d'omgelegen heuv'len. 
+De krijghsman afgebraeckt maeyt eenen gouden oeghst: 
+En doons, en moordens zat, eer 't alles is verwoest 
+Aen 't plond'ren valt, en ruyt, en rooft de gulde vaten, 
+En al wat half geblaeckt hem 't vuyr heeft nagelaten. 
+Helaes! als ick 't gedenck, het hayr te berge stijght: 
+Wat word my bange. ick zwijm. ick sterf. het herte ontzijght. 
+Staetdochters reycktme. amy! 
+
+
+
+
+R.V.S. 
+Hoe is 't? hoe is 't mevrouwe? 
+
+
+
+
+R.V.I. 
+Wee onzer, och zy valt, zy zwijmt, zy sterft van rouwe: 
+Brenght hier welrieckend kruyd, kanneel, en kruydery. 
+O droefheyd! 
+
+
+
+
+R.V.S. 
+Zy bekomt. 
+
+
+
+
+R.V.I. 
+Hoe is 't mevrouwe? 
+
+
+
+
+Doch. 
+Amy! 
+
+
+
+
+R.V.S. 
+Hoe is 't Princesse? 
+
+
+
+
+Doch. 
+Amy! 
+
+
+
+
+R.V.I. 
+Wat droefheyd quetst uw herte? 
+
+
+
+
+Doch. 
+Helaes! is 't vragens weerd die ghy gelijcke smerte 
+
+{==24==} {>>pagina-aanduiding<<}
+
+Met my deelachtigh zyt? Staetjonff'ren zonder staet 
+Ontslaet u myner. ach! 
+
+
+
+
+R.V.S. 
+Nu steld uw droefheyd maet. 
+
+
+
+
+Doch. 
+De rouwe heeft veel te diep haer wortelen geschoten: 
+Ons past dit treurgewaed: en ghy myn speelgenooten, 
+Terwyl ick wat bedaer, waerom en queeldy niet? 
+En spijst mijn droeve geest met eenigh klaeghlyck lied? 
+Myn ziel vermaecken schept in grouwelycke dingen 
+Die voorgevallen zyn in dees veranderingen. 
+Meld hoe door hongersnood een moeder afgetreurt 
+Uyt razernije moord, roost, en met tanden scheurt 
+Die zoete vrucht haers lyfs. 
+
+
+
+
+R.V.I. 
+Watte eysselycke stuckẽ! 
+Wee onzer! zouden wy met nieuwe ellenden drucken 
+Onze afgepynde ziel, door 't wederroepen van 
+Een daed, die van de felste, en bloedighste Tyran 
+Hoe onverbiddelyck kan 't steenen hert verzachten. 
+Ons breyn te zeer ontsteld, en vliegende gedachten 
+Eer willen zyn gesmeeckt, en zoetelijck gestooft: 
+Ons wonden zyn te versch, dus slaet dat uyt uw hoofd. 
+
+
+
+
+R.V.S. 
+Te schendigh luyd dat feyt, Princesse 't mocht u stooren. 
+
+
+
+
+Doch. 
+Vermach ick yets by u te liever wil ick 't hooren. 
+
+
+
+
+R.V.I. 
+Als 't anders niet magh zyn, als 't ymmers wezen moet: 
+Nature (die den band van 't moederlyck gemoed 
+Ontbond, doen uytgeput, en razende van zinne, 
+De moeder overtrof in wreedheyd een leeuwinne, 
+Die in 't Libaensche bosch van honger afgejaeghd, 
+Noch nucht'ren haren roof in haren leger draeght, 
+En aest zorghvuldigh eerst haer eerst geworpen leeuwen, 
+Die nu de vyfde dagh heesch om de voester schreeuwen) 
+Ontbind den band, die noch houd 't vrouwelyck geslacht 
+Aen deernis strengh verplicht, door een verborgen kracht, 
+Op dat wy heel en al ontaerd van mededogen 
+Dit treurspel ons Vorstin by beurt vernieuwen mogen. 
+
+
+    
+
+R.V.I. 
+Als de vloeck met duyzend benden 
+Van het westen donderde op 
+
+{==25==} {>>pagina-aanduiding<<}
+
+Om Ierusalem te schenden 
+Van haer zolen tot de top, 
+Heeftze Sions gaelderijen 
+Met een muyr omlegert heel, 
+En dat zegenrijck Kasteel 
+Ons een Kercker doen gedijen. 
+Och ons voorraet slyt en mindert, 
+Mindert eer wy ommezien, 
+En 't Latynsche bolwerck hindert 
+Noch d'aenstaende nood t'ontvli'en: 
+Dies ons vleesch en been komt knagen 
+Deze worm die honger heet: 
+Dies elck flucx van smert vergeet 
+D'ander opgehoopte plagen. 
+Alsmen 't leder van de schoenen, 
+Katten, prijen, heeft geknauwt, 
+En de mage haer niet verzoenen 
+Laet, uyt hongersnood benauwt, 
+En hoe langer hoe verwoeder 
+Ons die beul in 't woeden styft: 
+Hoort waer toe zyn wreedheyd drijft 
+Herssenloos een droeve moeder. 
+
+
+
+
+R.v.S. 
+Magh ick anders 't graf niet erven, 
+Zeghtze, nu my 't licht verdriet? 
+Moet ick dan van honger sterven? 
+Kentme nu mijn adel niet? 
+Troost my nu noch schat, noch have? 
+Was myn toevlucht d'heyl'ge bergh 
+Daerom dat ick 't vleesch en merch 
+Dien tyran tot voedzel gave? 
+Dat zy God geklaeght hier boven, 
+Die met duyzend oogen ziet 
+Hoe ellendigh en verschoven 
+My geweld en kracht geschied: 
+
+{==26==} {>>pagina-aanduiding<<}
+
+Hoe rampzaligh van benouwtheyd 
+Ick dien slincxen pad insla, 
+En een schendigh stuck besta: 
+Heer vergeeftme deze stoutheyd. 
+
+
+
+
+R.v.I. 
+Kind wat hanghdy aen myn speenen 
+Aen myn borsten droogh, en slap: 
+Daer myn ad'ren dorr' verleenen 
+U noch melck, noch bloedigh sap. 
+Snackt uw keeltjen na myn leven? 
+Moeders ziel druckt uyt dees mam: 
+Als uw hertjen maer bequam, 
+Daer was weynigh aen bedreven. 
+Maer helaes! wie zou myns zoontjens. 
+Voester zijn na moeders dood? 
+En deze ingevallen koontjens 
+Stoven poes'ligh in haer schoot? 
+Ach myn schaep! ghy bleeft vergeten, 
+En myn asschen onverzaed: 
+Oock myn troost! een wreed soldaet 
+Mocht u aen zyn lanci speten. 
+Waer 't niet beter 't licht te myden 
+Door uws eygen Moeders hand? 
+En datze u een Kerckhof wyden 
+In haer duyster ingewand? 
+Als van Kraeyen opgezwolgen 
+Of een Tygerdiet geaest? 
+Of een Leeuw die bruld, en raest, 
+Grimt, en slingersteert verbolgen? 
+Zwangert dan uws moeders lenden, 
+Daer uw geest ontfingh zyn geest: 
+Decktze een tafel der ellenden, 
+Datze viere haer leste feest. 
+Sus mijn schaepken word u banger? 
+Is u 't lieve leven leet? 
+
+{==27==} {>>pagina-aanduiding<<}
+
+Ick heb mijn gemoed ontkleed: 
+Wy zijn kind noch moeder langer. 
+
+
+
+
+R.v.S. 
+'t Woord drupt vande lippen nouwlijcx 
+Of ze keelt dat mager dier. 
+Vlied die schroomt voor yet wat grouwlijcx! 
+'t Heyligh zieltje vlieght van hier. 
+'t Versche vleesch op heete kolen 
+Half geroost, ten halven gaer 
+Vreetze, als of 't wat leckers waer, 
+En houd 't overschot gescholen. 
+
+
+
+
+R.v.I. 
+Als de Wachters spyze roken, 
+Bonsden zy de deur in twee: 
+Vloeckten: hoer wat 's hier te koken: 
+Deyld ons van uw wildbraed mee': 
+Op schaf op uw bradelingen: 
+Op schaf op du looze tesch, 
+Eer wy elck 't getrocken mes 
+Driemael in uw borst omwringen. 
+
+
+
+
+R.v.S. 
+Stilt uw gramschap, weest te vreden, 
+Hier is, zeghtze, 't overschot 
+Van mijns kinds gebrande leden: 
+Eet vry dat u zegent God. 
+Dat zijn d'ermkens, dit de voetjens, 
+Dat de spierkens van mijn zoon, 
+Dien my honger dwongh te doon: 
+'t Vleesch dat smaeckte my zo zoetjens. 
+Zet u neder, weest mijn gasten, 
+Proeft mijn leste dischgerecht. 
+Waer op wildy langer vasten. 
+Schijnt mijn maeltijd u te slecht? 
+Waerom deynsdy? zal een vrouwe, 
+Zal een wijf geherter dan 
+Wezen als een oorlooghsman, 
+Die het harnasch gespt getrouwe? 
+
+{==28==} {>>pagina-aanduiding<<}
+
+Zijt slaphertiger, noch weecker 
+Als de moeder, die noch leeft, 
+En ter nood zoo bitt'ren beker 
+Vol vergifs gedroncken heeft. 
+Ghy zijt d'oorzaeck van mijn smerte, 
+Die my 't brood in tegenspoed 
+Roofde, en 't moederlijck gemoed 
+Wisselde in een wolvenherte. 
+
+
+
+
+R.v.I. 
+'t Was gezeyd. de roovers brulden, 
+Vloden het onmenschlijck dack. 
+Klachten Salems straten vulden, 
+Waermen van dit grouwel sprack: 
+Daer vangt zidd'ren aen en beven: 
+Daer wenscht elck met droef gehuyl 
+Dat hy in die leeuwenkuyl 
+Magh den lesten doodsnack geven. 
+
+
+
+
+R.v.S. 
+Als de Keyzer leend zijn ooren 
+Zoo beschreijelijcken feyt, 
+Wenscht hy noyt te zijn geboren, 
+Donderd in zijn toornigheyd: 
+'k Wil uytspoelen deze vlecken, 
+En dit aerdrijck langh gedreyght, 
+Dat al meer tot boosheyd neyght, 
+Gants met gruys en steenen decken. 
+
+
+
+
+Doch. 
+Ia deckt met gruys, met puyn, en met zyn leste steenen 
+Dit aerdryck veel te langh beregend, en beschenen: 
+Verwoest, verbrand, en blaeckt dees stad te lang verschoond, 
+Daer langer langer meer geen menschlyckheyd in woond, 
+Maer eenigh ongediert': dat, als 't geen roof kan vinden, 
+Ontziet zyn eygen nest, en vleesch niet te verslinden. 
+Hier is geen blyven niet. Staetdochters laet ons vli'en: 
+Ons zolen branden. 
+
+
+
+
+R.v.S. 
+Maer helaes! helaes! tot wien, 
+Of waerwaerts roepty ons in ballinghschap te dolen, 
+Mevrouwe, die wy nu zyn 's Keyzers gunst bevolen? 
+
+
+
+{==29==} {>>pagina-aanduiding<<}
+
+
+
+R.v.I. 
+Wy vlieden tijds genoegh, wanneer de bitt're Nood 
+Ons van Caesarien scheept, geboeyt, met Titus vloot 
+Langhs d'Africaensche kust, en toeschuyft den Latynen, 
+Daer and'ren Hemel dwaeld, en and're sterren schynen: 
+Daer Roome ondraeghlyck ons gevangen halzen perst, 
+En Memphis slavernye, en Babels iuck ververscht. 
+
+
+
+
+R.v.S. 
+Maer wie of ginder ons komt nieuwe vreeze inprenten. 
+
+
+
+
+R.v.I. 
+'t Gelyckt een Roomsch Heraut, die uyt des vyands tenten 
+Zet herwaerts zynen tred. wat boodschap of hy brenght. 
+Heer met wat honighs doch dees bitterheyd vermenght. 
+Eens winters koude ontsteld de leden van verschricken. 
+'t Valt al ten erghsten uyt wat wy ten besten schicken. 
+
+
+
+
+R.v.S. 
+Geen onbesneden is 't maer ymand vande Ioon, 
+Zoo 't oogh my niet bedrieght. 
+
+
+
+
+Doch. 
+Och 't is Matthias zoon. 
+Iosephus zydy 't zelf, of is uw schim verrezen, 
+Die ghy voorlangh by ons begraven waert voor dezen? 
+Iosephus zydy daer? wat komdy nu zoo spa 
+Den brand uytlesschen van 't woest Hierosolyma? 
+De daecken ne'ergezackt gekeerd zyn langh tot asschen: 
+Het Krygsvolck heeft in 't bloed zyn handen lang gewasschẽ, 
+En 't heyligh goud verklaerd voor Keyserlycken buyt: 
+'t Is hier schoon uytgeveeght, gemoord, gerooft, geruyt: 
+De felheyd van zoo veel Hierosolymitanen 
+Dit mager hoopken liet het aengezicht vol tranen. 
+
+
+
+
+Iosep. 
+Onzaligh Sion, die uw zinnen overlaed, 
+En mymert om uw ramp, en omgevallen staet, 
+Ghy derft Iosephus niet uws herten grond uytputten, 
+Die alsins heeft gepooght uw dorpels te beschutten: 
+Die onlanghs daermen 't al de keel afstack, en sneed, 
+Daer hem de vlamme schoer de noppen van zyn kleed, 
+Daer 't bloed zyn lyfrock smette, en 't breyn hem sprong om d'ooren, 
+U uyt die slachtingh redde, en liet u niet verloren. 
+
+
+
+
+Doch. 
+Vergevet my, genade, het is het is myn schuld. 
+Verbystert staet my 't hoofd van enckel ongeduld. 
+
+{==30==} {>>pagina-aanduiding<<}
+
+Ick ben my zelven noch gelijck, noch oock niet machtigh. 
+Een bladeken dat ruyscht mijn ziele maeckt vreesachtigh. 
+Maer zeght ons, watzer gaens in 't heyr van d'onbesne'en? 
+Wat juychen gaeter om? waer wilmen met ons heen? 
+Wat zwerven langer wy op dees geslagen toppen 
+En rotzen, die nu 's nachts, nu 's daeghs met heesche kroppen 
+Ons klachten volgen, als wy zien van verre opgaen 
+Den smoock, daer onlangs noch plagh d'heyl'ge Stad te staen? 
+
+
+
+
+Iosep. 
+Het heyrkracht nauwlijcx zat van wo'en op d'uytverkoornen, 
+Verschoont hadde alleen dry Herodiaensche toornen: 
+Op dat noch eeuwigh de nakomelingh onthield 
+Wat muyrwerck Roome eertyds heeft tot dẽ grond vernielt: 
+Als d'Overwinner laet een gaelderije oprechten, 
+Van waer hy zelf aldus toeredent zijn landsknechten. 
+Krijgshelden die dus verre uw rechterhand alom, 
+En yver hebt besteed tot nut van 't Keyzerdom: 
+Die 's vyands hooghmoed deed op dees steenrotzẽ krimpen, 
+Van waer halstarrigh hy ons legers dorst beschimpen: 
+'tIs recht dat 's Maerschalcx gunst uw deugd loop' te gemoet, 
+En 't zweet uws arbeyds met belooningen verzoet: 
+Zoo sprekende, met een glad voorhoofd hy der scharen 
+Verdiensten vrolijck gaet met giften evenaren, 
+En haer deelachtigh maeckt den buyt, en rycken roof, 
+Die 't Heydensch volck aenveerd nae haer soldaets geloof. 
+De vroomste van wiens huyt de sabelen afschampten 
+Hy met halsbanden troost, kleynoodgie, en hooger ampten: 
+Dies 't gansche leger juyght, en in zijn handen klapt, 
+En elck het bloed vergeet dat hem is afgetapt. 
+
+
+
+
+Doch. 
+Die feest was voormaels ons, was Sions, en geen ander, 
+Als David, Iesse zoon, die rechte Salamander, 
+Die midden inde brand van 't Oorlogh 't leven vond, 
+'t Hoovaerdigh Rabba brack, daer Ammons hert op stond: 
+Als Assur weeck verstroyt in velden, en woestynen, 
+Dien, die niet zoeters vond als 't bloed der Philistynen, 
+
+{==31==} {>>pagina-aanduiding<<}
+
+En overla'en met roof, met rey, en met tamboer, 
+Op 't Maeghdelijck Musijck ter poorten inne voer. 
+
+
+
+
+Iosep. 
+Den Overwinner om zich danckbaer te bewyzen, 
+En d'hong'rige Afgoon oock met offervuyr te spyzen, 
+Ten heuvel spoede, daer het woeden zoo goed koop 
+Wierp 't heyl'ge metselwerck der Kercken overhoop: 
+Omcingelt met een stoet schildknapen, en hartsieren, 
+En krijghslie, vrolyck om dees zegefeest te vieren. 
+De beesten afgekeurt ter slachtingh, klommen stout, 
+En zonder aers'len voor zyn aenzicht: doende 't goud 
+(Dat onlanghs was geschrabt met messen, en met bylen 
+Van 's Tempels balcken, en van d'halfverbrande stylen, 
+En om haer hoornen nu gegoten) blincken, als 
+Zy t'elcken staecken op vrypostigh haren hals. 
+De kranssen versch van kruyd gevlochten, men van verre 
+Zagh lieflijck groenen, en omschaduwen haer sterre, 
+En 't zoute veldgewas verzwolgen vande krans. 
+Twee Priest'ren glad gehelmt, met koper schoon van glans, 
+Geborstweerd met een plaet, die 't overkleed bedeckte, 
+Dat bont gespickeld zich ten halven lyve streckte, 
+Van waer de lyfrock zond zyn vouwen na bene'en, 
+Omgord met eenen riem vol schilden rond en kleen, 
+Nabootzende een schalmey met huppelen en springen, 
+En tromm'lende op haer borst, voor uyt als Leydslie gingen. 
+'t Opsteyg'ren koste zweet. de wegh lagh ongebaent, 
+En 't steyl gesteente woest, wanschapen van gedaent'. 
+Het gladde Horenvee vermoeyt van bangheyd roockte 
+Om strijd met 't molm verduft, dat half gestikt noch smoockte, 
+En myde in 't klimmen noch 't gebeent', dat moeder naeckt 
+Des Heeren bergh tot een ellendigh Kerckhof maeckt. 
+De Kraeyen vloon 't gebulck, en d'Arenden verschriekten, 
+Die hier ter feest gebeen de Dood 't gezicht uytpickten. 
+
+
+
+
+Doch. 
+Zwijght, zwyght Iosephus, zwijght vã Arenden, en Kraeye: 
+Onze ooren zijn te teer: ons hoofd bestaet te draeyen: 
+
+{==32==} {>>pagina-aanduiding<<}
+
+Dat schouwspel luyd te vremd: hy zielbraekt die 't aenhoort, 
+Wy zwijgen die 't beschout. maer neen, vertelt ons voort: 
+Daer is geen grouwzaemheyd ter weereld zo bezeten 
+Of wy zyn 't nu gewoon, en langh al doorgebeten. 
+
+
+
+
+Iosep. 
+Genaeckende daer 't nu van lijcken stonck benaeuwt: 
+Daer d'Arcke voormaels school met Cherub overscha'uwt: 
+Van waer men deerlyck de Ierusalemsche wallen, 
+En ons Stadpoorten zagh geraeybraeckt, en vervallen, 
+En d'uytgetrocken doon naeckt, zonder onderscheyd, 
+Den Luypaerden tot roof, de myrre, en 't graf ontzeyd: 
+Na de Wich'lers de verwoeste Kerck aenschouwen, 
+Zy van 't verstroyt gesteente een hoogh outaer doen bouwen: 
+De stylen half gevonckt, de bakken zwert beroockt 
+Tot brandhout stap'len op het plat, dat daedlyck smoockt, 
+En willigh 't vuyr ontfanght: terwijl haer d'ossen lieten 
+De basterd eerst gekoort recht tusschen d'hoornen gieten: 
+Den krans ontrucken, en die gaer gebonden bla'en 
+Den vlammen heyl'gen, en 't gezouten korengraen: 
+Den rugh opvlymen, en d'altaerknechts hun genaken: 
+Die met 't gewijde mes haer voort den strot afstaken. 
+Het bloed de leeghte koos, en zwalpende over al, 
+Bootste een verbolgen meyr, en rooden waterval. 
+De buycken opgeschrobt ontslaen haer d'ingewanden, 
+Die naeuw doorsnuffelt, 't vuyr ontfingh om te verbranden. 
+De Priest'ren stelden haer voor 't Altaer ongeknielt, 
+Dat Titus statigh met de slincker ving'ren hield: 
+Den rechter hy ontzey den zwaren Veldheers hamer, 
+Om Hemelwaerts zijn hand te heffen veel bequamer. 
+Te ruggezienden God! Godin! die noyt geschaeckt, 
+Om Roome, riepen zy, en onzen Tyber waeckt: 
+O Ianus grys van hayr! en Vesta! die te gader 
+Ons gunst draeght, met Iuppyn die grootste, en beste Vader: 
+O Vader Mars! en al ghy Goon gezamentlyck, 
+Die ons genadigh zijt, en om het Keyzerrijck 
+
+{==33==} {>>pagina-aanduiding<<}
+
+Met zo veel zegens, en triumphen te bevesten 
+'t Huys van Vespasiaen hebt uytgekipt ten Iesten, 
+En Titus wack'ren erm met zulcken punt verzaeght, 
+'t Welck aers'lingh over smyt al watter scepters draeght: 
+Die ghy hem gunstigh holpt vermeest'ren dit tyrannigh, 
+Dit boos verwaten volck, zijn Vorsten wederspannigh: 
+O Goon wy dancken u: wy loven u o Goon: 
+Knickt onzen offer toe, en opent uwen throon. 
+
+
+
+
+Doch. 
+Straft ghy geen Heyd'nen meer, God Abrahams! en laetze 
+Afgodisch roocken op uw heyl'ge stede en plaetze? 
+Waer was uw solpherstrael die noyt dien smaet verdroegh? 
+Die Ptolomeus plat jeloers ter aerden sloegh? 
+Was God van God ontkleed? is hy zoo traegh in 't wreken? 
+Wat dood, wat straf, wat wraeck, wat volghde voor een teken 
+Dien grouwel? 
+
+
+
+
+Iose. 
+Onder des was 't altaer aengegaen. 
+Met weecken oogen wy dien grouwel zagen aen. 
+De rotz driemael verschud, van onder spleet tot boven, 
+En d'afgrond 't licht verzwolgh door 't gapen vande kloven. 
+Den Hemel wierd bekleed met een verbolgen zee, 
+En dreyghde met tempeest 't afgodisch vuyr alree: 
+Maer d'onverlichte, die van droomen haer geneerden, 
+Dit op een morgengroet, en heylzaem spoock waerdeerden: 
+D'omstaende kryghslie zulcx ten halven naeuw verstaen, 
+Iô Titus, Iô, Iô Vespasiaen, 
+Alschaterende zy de klippen weer doen galmen, 
+En kranssen 's Keyzers kruyn met schaduwende palmen: 
+De Veldheer weder hun een danckb're ziel toekeert, 
+En met 't geslagen vee den ruyterdisch stoffeert. 
+
+
+
+
+Doch. 
+Nutreurt Staetdochters, treurt, en krenckt vry al uw zinnẽ: 
+Want met haer vleug'len nu de goude Cherubinnen 
+De grouw'len decken, die de jonghlingh ons toeriep 
+Die veyligh inde gracht, en 't hol der leeuwen sliep. 
+Waer toe is Aäron, en Levi nu gekomen? 
+Wee Tempel, Stad, en Volck. ghy Paradijs der vromen, 
+
+{==34==} {>>pagina-aanduiding<<}
+
+Ghy wellust Israels, hoe lighdy nu vertreen! 
+
+
+
+
+R.v.S. 
+Helaes! Mevrouwe, helaes! geen godlooze onbesne'en 
+De drymael heylige aerde ontwy de, noch schoffeerde. 
+
+
+
+
+Doch. 
+Wie dan? 
+
+
+
+
+R.v.I. 
+Maer 'tboevenschuym dat onzẽ staet ver heerde, 
+Lang eer de grãschap noch des Keyzers veel getergt 
+Zijn Henghsten briesschen dede, en draven in 't geberght: 
+Langh eer noch Titus quam aenbrallen op ons vesten, 
+En ons paleyzen den uytheemschen gaf ten besten: 
+Den volck'ren die de maen zien dobb'ren op d'Euphraet, 
+Wanneerze haer toortze ontsteeckt, en ons den dagh ontgaet: 
+Die Tigris golven zien uyt Taurus lenden dringen: 
+Die over Caucasus al hooger Noordwaert springen: 
+Die op Pactolus strand het goud in d'oogen raeyt: 
+Die in d'AEgeesche zee zijn hier en daer gezaeyt: 
+Van 't West daer Tagus laeft den half gebraden Iber: 
+Daer 't oever wederzyds geleckt word vande Tyber: 
+d'AEgypter die den Nyl ziet vloeyen over 't droogh: 
+d'Araber toegerust met pylen, tros en boogh: 
+Meer and'ren, die verhit op 't moorden, en op 't plond'ren, 
+Met 't weerlicht quamen van haer beuckelaers opdond'ren. 
+
+
+
+
+Doch. 
+Maer zeght Iosephus hoe 't ons manschap is vergaen, 
+Die d'Overwinner hielt zo strengelijck geva'en 
+In 't leger, alsser niets verschoont bleef onbedorven. 
+
+
+
+
+Iosep. 
+Der boozen rotte heeft meest veeschulde straf verworven. 
+
+
+
+
+Doch. 
+Dat was 't daer ick na haeckte. o Scheydsinã! die recht scheyd, 
+En inde weeghschael hanght van uw Rechtveerdigheyd 
+Der menschen zaecken, die omwent'len hier beneden: 
+Nu zien wy dat by u geen boosheyd word geleden, 
+Die luyd van d'aerde na den Hemel roept om wraeck. 
+
+
+
+
+Iosep. 
+Nu luystert dat ick u ontvouw de gantsche zaeck. 
+
+
+
+
+Doch. 
+Ghy Reyen geeft gehoor. 
+
+
+
+
+Ios. 
+Zo flucx de krijghslie hoordẽ 
+'t Geblazen koper hun ontzeggen 't vorder moorden: 
+(Behalven dat het was geoorlooft te verslaen 
+Al wat d'onstuytb're Nood in 't harnasch te weerstaen 
+
+{==35==} {>>pagina-aanduiding<<}
+
+Droomde uyt mismoedigheyd) zy haren Veldheer boden 
+Noch een ontelb're schaer van afgematte Ioden: 
+Die 's Keyzers omzicht liet door zyner Drossaerts een 
+Uytzond'ren, en de vrome, en schuldige ondersche'en: 
+Maer d'onderzoecker heeft 't verborgen goet te vissen: 
+In 's moorders voorhoofd leestme het knagende gewissen: 
+Dus streckt hy zoo terstond gedoemt met ziel, en lyf, 
+Den woedenden soldaet een zeldzaem tydverdryf. 
+Hier moeter een goed deel met. handen en met voeten 
+Genagelt aen het kruys bebloed haer bloedschuld boeten: 
+Daer, stuyrtmender een hoop van Moria te fel 
+Na Kedrons afgrond toe, als na de doncker hel, 
+En decktze in 't vallen met muyrstucken en met steenen, 
+Dies vinden zy haer eynde, en uytvaert al met eenen: 
+Hier, jagenze om van 't vuyr den heeten gloed t'ontgaen 
+Haer zelf aen palen dood geschroeyt, en half gebra'en: 
+Daer, sterven noch uyt nijd en afgunst vande wachters 
+Veel honderden van dees' Godlooze Godverachters: 
+Hier, breecktmenze de le'en met knodzen zwaer van wicht: 
+Daer quetstmen and'ren 't hert, de darmen, en 't gezicht: 
+En duyzenderley slagh van nieuwgevonden straffen 
+Haer boosheyd achterhaelt. 
+
+
+
+
+Doch. 
+Dat leert dat leertze blaffen, 
+Die honden tegen God, die oprecht Rechter niet 
+Verschoont in zynen toorne, of door de ving'ren ziet 
+Ooghluyckende eenig quaed. 
+
+
+
+
+R.v.S. 
+Hoe zijnze voort gevarẽ 
+Die aen Ierusalems verderf onschuldigh waren? 
+
+
+
+
+R.v.I. 
+Hoe anders als bewaert tot een veel strenger loth 
+Als die booswichten zelve, en menschen zonder God. 
+
+
+
+
+Iosep. 
+Van Iongelingen sterck van lijf zyn zevenhondert 
+Tot d'aenstaende triumph des Keyzers uytgezondert, 
+En die bereyckten noch geen zeven jaer en thien, 
+Als beesten omgeveylt, men heeft verwiss'len zien 
+Voor eenen penningh thien en tweemael zo veel zielen, 
+Welck zaligh loofden die door 'tzweerd in 't oorloogh vielẽ: 
+
+{==36==} {>>pagina-aanduiding<<}
+
+Als zy met 't yzer van haer ketens overla'en, 
+Den bolpees schroomden van een strengen Gardiaen. 
+Voorts, om in schouwplaets 't oogh te dienen der Tyrannen, 
+Zijn tot der Dieren aes geschickt veel strijdb're mannen: 
+Of om te schermen lyf om lyf, en hand voor hand: 
+Waer 's Princen wellust dan haer omvoert achter land. 
+Het most een steenen hert geborsten zich erbarmen, 
+Die hier voor 't lest de zoon den vader zagh omermen, 
+De vaders vallen we'er haer zonen om den hals, 
+Den stock haers ouderdoms, den troost haers ongevals: 
+Als elck zijns weeghs bedruckt most volgen die hem leyden, 
+En ziende thienmael om, in 't al te bitter scheyden 
+Gaf teeckenen genoegh, hoe strengh natuyr verbind 
+Door onderlinge trouw den vader aen het kind, 
+Het kind aen 's vaders ziel, de broeders aen haer broeders, 
+Die eertijds hangende aen de borst eens zelfde moeders, 
+Versloegen d'eerste dorst met d'ongevalschte melck 
+Die uyt een ader vloeyde: o welcken bitt'ren kelck 
+Most hier gedroncken zijn! en zoude ick ons vermanen 
+De klachten, het gebaer, 't verzuchten, en de tranen, 
+Ick most bezwijcken, en uwluyder droeve staet 
+Beschreyde vrouwen dit nu geensins toe en laet. 
+Daer is 't verhael in 't kort. 
+
+
+
+
+R.v.I. 
+Nu wreeckt uw leet met schreeuwẽ, 
+En huylen overluyd, ghy onbestorven weeuwen, 
+Roept luyder als ghy pleeght eertijds in barens nood, 
+Doen d'eerstgeboren haeckte in uw benauwde schoot 
+Nae 't wenschelijcke licht des levens, dat ons langer 
+Verdrietelijcker valt, en gaet met plagen zwanger. 
+Onze echte mannen ach! gaen zonder den adieu 
+Het afgeworpen jock opnemen op een nieuw: 
+Onze ouwdstgeboorne helaes! gejuckt voor een Godloozer 
+Herboren Pharo vli'en, en Nabuchodonoser. 
+Ach Ionff'ren met ons treurd. 
+
+
+
+
+R.v.S. 
+Helaes! waer blyven wy? 
+De geylheyd des soldaets, och moeders blyft ons by! 
+
+{==37==} {>>pagina-aanduiding<<}
+
+Brand na ons reynigheyd met trommelen en pypen. 
+Zy naderen om uyt uwe ermen ons te grypen. 
+Ons kuyscheyd lijd gevaer, die o wat leyder smet! 
+Ieloers de dorpels hield van 's vaders huys bezet: 
+Die heerlijck aen den Rey der Maeghden plagh te brommen, 
+En was geheylight voor zoo schoonen Bruydegommen, 
+Die 's vyands wreetheyd gaet verstroijen west, en oost. 
+Helaes! helaes! helaes! 
+
+
+
+
+R.v.I. 
+Nu dochters zijt getroost. 
+
+
+
+
+R.v.S. 
+Och Moeders blijft ons by. 
+
+
+
+
+Doch. 
+Nu zet u wat te vreden. 
+
+
+
+
+R.v.I. 
+God Iacobs ziet ons aen, en redze in zwarigheden, 
+En zalftze die ghy sloeght. 
+
+
+
+
+Iosep. 
+Deze yd'le tranen spaert 
+Ghy Ioodsche Vrouwen, die uw droefheyd meer verzwaert. 
+Ghy Maeghden schept wat moeds. wie weet noch van wat enden 
+U onverwachten troost kan Iosephs trooster zenden. 
+
+
+
+
+Doch. 
+Matthias zoon die d'eer zijt van uw ouwd geslacht: 
+Die d'overwinners vaeck vermorwt hebt en verzacht, 
+En met uw lippen knede haer hert van Diamanten, 
+Van datze haer grof geschut eerst op deze hooghten planten: 
+Iosephus, of hem noch de Maerschalck zoo beried 
+Dat hy door u beweeght een maet stelde ons verdriet: 
+Zoud ghy tot Iacobs heyl, en troost gebruycken laten 
+Uw redenrijcke tongh gedopt in honighraten. 
+
+
+
+
+Iosep. 
+Wel duyzendmael zoo veel, mevrouwe, voor gewis 
+Houd dat Iosephus gunst tot uwen besten is. 
+'s Wets heyl'ge bladen ick geeygent heb door 't bidden: 
+Mijn bloedverwanten oock behouden in het midden 
+Der slachtingh, daer verbaest elck zagh na 't vluchten om. 
+Des Keyzers mildheyd my den vrijen Edeldom 
+Vereerde, en heb gestuyt veel razende soldaten 
+In 't moorden, branden, als de weereld scheen gelaten 
+Te wezen zonder Gods bestieringh: dies ick veyl 
+Mijn ionste willigh noch tot uw en yders heyl: 
+
+{==38==} {>>pagina-aanduiding<<}
+
+Dan overmids ick nu met Titus meer te vergen 
+Zijn goedheyd schynen mocht te zarren, en te tergen: 
+Verzoeckt veel liever zelf noch met gebogen knien 
+Verzachtingh van uw quael: wie droomd, wie weet misschien 
+Wat ghy verbidden mocht van hem ter goeder uren. 
+Der vrouwen tranen doch zoodanigh van naturen 
+En aert zijn, datze vaeck beroeren noch die geen 
+Die onverbiddelijck in yders oogen scheen. 
+Gaet Vrouwen, Maeghden gaet dan d'Overwinner smeken, 
+Die morgen of in 't kort zijn leger op zal breken. 
+Vaert wel Mevrouwe, ick ga. hy wende uw ongeluck 
+Die al uw onheyl weet. 
+
+
+
+
+R.v.S. 
+Laet ghy ons dus in druck? 
+
+
+
+
+R.v.I. 
+Iosephus magh ons meer voor ditmael niet gebeuren? 
+
+
+
+
+Doch. 
+Staetjonffren volght my na, en houd wat op van treuren. 
+tZa gaenwe, laet ons gaen. ghy Vrouwen volght my na. 
+Wy moeten dwalen op der vyanden gena. 
+
+
+    
+
+Rey van Iodinnen. 
+Laet ons beschreijen 't algemeen 
+Verderf, en 't licht dat ionghst bescheen 
+Die Hemelhoogh getoornde klippen 
+Van Davids veel bestormde Stad: 
+Als God haer val gezworen had 
+Met onbedriegelijcke lippen. 
+Of 's Tempels grondvest nacht en dagh 
+Nae 't Sterren welfsel open lagh, 
+Geverwt van 't bloed der welgeboornen, 
+En ofmen 's Keyzers Ad'ler mocht 
+Zien met zijn pennen slaen de locht, 
+En schitt'ren af van stompe toornen: 
+Noch even trotz, en onbezorght, 
+Op d'opperstad, en Davids borght 
+De muyters haer borstweeren manden: 
+En wie zijn doodverw had gezet 
+
+{==39==} {>>pagina-aanduiding<<}
+
+Uyt vreeze, 't vluchten wierd belet 
+Van boeven, die hier t'zamen spanden. 
+Maer als zijn opzet, en besluyt 
+God tegen ons wou voeren uyt, 
+Is schielijck 't Leeuwen hert ontvallen 
+Ons manschap: die beancxt uyt nood 
+Den vyand zonder slagh of stoot 
+Beklimmen liet de trotze wallen: 
+De vyand die zijn vaen alree 
+Van ons Rondeelen zwieren de'. 
+En blies triumph van vreughde droncken. 
+Doen quam die dagh en uyr dat God 
+Ons had bescheerd dat strenge loth 
+Zijns gramschaps, die bestond t'ontvoncken. 
+'t Roomsch Krijghsvolck als 't geen wederstand 
+Noch tegenweyr van mannen vand, 
+Drongh't met geslepene rappieren 
+In d'enge straten bol en dick: 
+Daer 'twade in eenen oogenblick 
+Ten enck'len toe in bloedrievieren. 
+d'Een om t'ontvli'en de bleecke dood 
+In onderaerdsche kelders vlood, 
+Wiens toegangh wierd gestopt met blinden 
+En d'ander door mistroostigheyd, 
+En wanhoop in zijn ziel verleyd, 
+Gewapent gingh zijn Kerckhof vinden. 
+Hoe menigh held, die trotz van moed 
+Wou 't vaderland zijn heldisch bloed 
+Opoff'ren in 't gevaer der straten, 
+Van vrouwe en kind'ren om den hals 
+Gevallen wierd, met veel geschals: 
+Wat wildy vader ons verlaten. 
+'t Kind dat noch eerst aen bancken gingh 
+Aen 's moeders achterslippen hingh. 
+
+{==40==} {>>pagina-aanduiding<<}
+
+De voester 't zuygelingh liet weenen, 
+En quam haer vrouw te hulp, zoo ras 
+De Meester greep nae 't courtelas. 
+'t Riep deerlijck al: waer wildy henen. 
+Als d'Huysweerd ziet dat uyt noch in 
+Hem laet 't bestorven huysgezin: 
+Laet los, laet los, roept hy ten lesten, 
+Dat ick alleen van 't hooge dack 
+Mijn poorte vry van ongemack, 
+En ons ontslae deze helsche pesten. 
+'t Is nauw gezeyd men vlieghter knap 
+Na boven, langhs den wenteltrap, 
+Met steenen toegerust, en blocken. 
+Daer ziet hy, hoe een blaeuwe wolck 
+En roth van 't fel Latynsche volck 
+Komt op zyn dorpels aengetrocken. 
+Maer als zy dreygen klop op klop 
+Te dryven met heyrhamers op 
+De poort bewaeckt van slot, en grendel: 
+Wreeckt hy dien euvel heel goed koop, 
+En kneust de voorste vanden hoop, 
+En hagelt onder 't moorders vendel. 
+De Ruyters 't bloed, verbittert heel, 
+Krimpt van de zool in 't beckeneel, 
+Zoo man en ros de beenen breken: 
+Dies zendenze met styve boogh 
+Wraeckgierigh haer geschut om hoogh, 
+En branden om dien smaed te wreken. 
+Wat groeyt hier een nieuw stads rumoer: 
+De deur gescheurt vlieght op de vloer, 
+Van toorn zy op haer tanden knersten: 
+De voester die betaelt 't gelagh: 
+De moeder sneuvelt in een dagg', 
+En 'tzuyg'lingh treenze 't hert te bersten. 
+
+{==41==} {>>pagina-aanduiding<<}
+
+Terwyl 't bene'en al uytgeleeft 
+Den lesten schreeuw, en doodsnack geeft, 
+D'Huysvader om haer voor 't verderven 
+Te ho'en, van boven rolt verbaest, 
+Die d'ongebonden moorders haest 
+Uyt toorne en wraeck aen hutspot scherven. 
+De Maeghden nauwlycx houwbaer noch, 
+Zy na veel dreygementen och! 
+Van hare jonghvrouwschap onthulden: 
+Die na veel zwymens riepen luyd: 
+Is 't Godlijck recht in Isr'el uyt 
+Dat God dien overmoed kan dulden? 
+Wie kan afmalen al d'ellend, 
+Die waerme 't aenzicht keerd of wend 
+Gebeurt? wrat blijfter onbedorven 
+Van 't roofgier spoock? op snood gewin 
+Verhit, dat menigh huysgezin 
+Van honger leegh vond uytgestorven. 
+De zon al vroeger dan zy plagh 
+Den draeyboom toesloot van den dagh, 
+En weeck dees grouw'len inde baren. 
+Die menschenslachters moordens zat, 
+Maer woedens niet, doen noch de Stad 
+Met vuyr ten Hemel deden varen. 
+Gelijck den dagh was doorgebracht 
+Met moorden, zy den duyst'ren nacht 
+Met blaeck'ren sleten, en met branden. 
+God waerom ledy dat uw Kerck 
+En Stad, der Eng'len timmerwerck, 
+Geschend wierd van zo snooden handen. 
+
+
+
+
+
+{==42==} {>>pagina-aanduiding<<}
+
+De derde handel.
+
+
+
+Phineas Priester. 
+MElchisedech, o die oyt d'eerste Priester Gods, 
+Het Priesterschap bekleede op Salems hooge rotz, 
+Wiens hoofdscheel van God zelf met balsem wierd bedropen, 
+Gezalft, en toegekend den myter boven open: 
+Doen 's Heeren heuvel ghy wat hooger trockt, tot dat 
+Hy 't aenzien en den naem van een ontworpen Stad 
+Bereyckte in Canaan: Aaron uytverkoren, 
+Die 't reuckwerck aenstaeckt met uw zonen welgeboren: 
+Ziet op ghy helden Gods, Aertzpriest'ren ziet eens om, 
+Hoe 't vanden Hemel hooghgeadelt Priesterdom 
+Ontkleed van zijnen glans treurt zonder glimp of luyster: 
+Gelijck by zonnezwym al schemerende in 't duyster 
+De weereld sprietooght, zoo wanneer de Maen jeloers 
+Den sterflijcken te spijt deckt 't aengezicht haers Bro'ers: 
+Treurt als 't geransoent lijck eens Koninghs, die verslagen 
+Word op een rosbaer versch gebalsemt t'huys gedragen. 
+Waer is Ierusalem nu uwen Koninghs-staf, 
+En 't Priesterlijck çieraet dat u Iehova gaf? 
+Waer is uw blanck yvoor? uw marmer klaer van schimmer? 
+Uw purper fyn van draed? uw kerckelijck getimmer? 
+Uw Koninghlijck paleys? waer zijn uw Ced'ren? waer 
+Uw pylaers, bogen, en gewelven allegaer? 
+Waer 't zilver? waer het goud? waer zijn de Cherubynen? 
+Waer 't altaer, 't wieroock, en dees blinckende gordynen? 
+Waer d'Arcke des verbonds? waer Gods geheymenis? 
+Helaes 't is verr' gezocht dat niet te vinden is. 
+Wie had gedocht, dat God te strengh op ons gebeten, 
+Zyn erfdeel zoo geheel vertre'en zoude, en vergeten? 
+
+{==43==} {>>pagina-aanduiding<<}
+
+Schoon of de muyr omringht van zulcken heyrkracht was 
+Dat in 't geberghte alom vertrad het kruyd en 't gras; 
+Schoon of de Stad verzonck in 't uyterste benouwen, 
+Ons hoop steunde op de Kerck, en d'heylige gebouwen. 
+Wy riepen: zijt getroost, laet God begaen al stil, 
+Iehova blijft ons borght om zijnes Tempels wil. 
+Maer ach rampzalige! als 't den Hemel wou gedogen, 
+Wy wierden in ons hoop te jammerlijck bedrogen, 
+In die vervloeckte nacht, als eer het licht opquam, 
+Ons Kerck aen kolen gingh, en stond in lichte vlam: 
+Als met de vlamme opsteegh ons krijten en ons kermen, 
+Dat God noch Engel mocht bewegen tot erbarmen: 
+Doen al den bergh gesteld in vuyr, en enckel bloed, 
+Sloegh d'overwinner met medoogen in 't gemoed: 
+Doen riepme spa: vertrouwt noch kercken noch outaren, 
+Haer heyligheyd geen stad kan voor 't verderfbewaren. 
+Ick zelf ontvlood den moord, en riep luydskeels in 't vli'en: 
+Vlied met my 'tis vergeefs den vyand weyr te bi'en. 
+Hy heeft de Stad voorlangh, en houd haer stercke wallen. 
+De Tempel is vergaen. onze hope is nu gevallen. 
+Zo berghde ick nauwlijcx 't lijf, en ruckte met deze hand 
+Veel heyl'geschatten ongeschonden uyt den brand. 
+Maer waerom vlood ick? ach! wat hield ick dier mijn levẽ? 
+Hadde ick mijn ziele in 't vuyr des Tempels opgegeven, 
+Als Meirus wel bera'en, en als Daleus zoon: 
+Of waer ick in 't hoogh koor geteld by d'ander doon: 
+Zoo zoud noyt zijn gebeurt dat ick geva'en, most laten 
+Den Heydenschen Monarch de goude en zilv're vaten, 
+'t Schaerlaken, 't reuckwerck, en 't hooghpriesterlijck gewaed, 
+En and're ciersels: daer een booswicht een soldaet 
+Zijn vingeren aen schend: zo waren voort mijn beenen 
+Begraven met den val van d'afgekeurde steenen. 
+Nu houde ick d'uytvaert van 't onzalige geslacht, 
+Om welckers ondergangh het volck van Roome lacht, 
+
+{==44==} {>>pagina-aanduiding<<}
+
+En op de diensten smaeld die Moses heeft geboden, 
+En pryst voor onzen God een hoop verdichte Goden, 
+Die Abraham verzaeckte: en of my schoon gena 
+Geschied is, zoo dat ick op vrije voeten sta, 
+Wat batet? want waerheen dat ick my keere of wende 
+Ick zie myn hertenleed aen Israels ellende. 
+Indien ick zie rondom, ick zie hem die ons dringht, 
+En vind my vande macht der Heydenen omringht. 
+Sla ick 't gezicht om leege, ick zie hoe met den zweerde 
+'t Huys Iacobs light verdelght, de Stad geslecht met d'eerde: 
+Ick zie van d'afgrond op noch smoocken 't heerlijck Slot, 
+Daer David vaeck uyt heeft den Philistyn bespot. 
+Heffe ick myn lichten op, den Hemel is gesloten, 
+Noch draeght niet langer gunst zyn ouwde bondgenooten. 
+
+
+Dochter Sion. Rey van Staetjonffren. Rey van Ioodsche Vrouwen. Titus.
+
+
+Dochter Sion 
+Ghy Spoocken, die wel eer verhoogt pronckte inde tralien 
+Van 't goude Blijenburgh, behangen met medalien, 
+Waerme de Godheyd hadde onsterflyckt uwen Rey, 
+Als ghy zyn eersleyp volghde, en droeght zyn Leverey, 
+Als ghy Gods Majesteyt omschanste met uw stoeten, 
+En zaeght 't gesternt', de Zon, en Maen bene'en uw voeten 
+Verschieten flauwer als de klaerste Diamant 
+Ons van d'uytbreydzels zend zyn stralen overkant: 
+Die ghy getuymelt, mooght op 't aldernauwst' vertellen, 
+Hoe veel van 's Hemels top schilt 't middelpunt der hellen: 
+Ten waer 't lang vallen u gewieght hadde heel in zwym, 
+Eer ghy ten lesten plofte in 's afgronds vuylen slym, 
+En diepen zwavelpoel: die flucx is aengevlogen 
+Doen voncken stoven ne'er uyt Gods vuyrvlammende oogẽ, 
+
+{==45==} {>>pagina-aanduiding<<}
+
+Ghy Spoocken, zegge ick, breeckt uyt uw gevangenis, 
+Aenschouwt wie 't vallen noch met u deelachtigh is: 
+Ziet hoe die blixem Gods myn Hemelhooge Ced'ren, 
+En Marb'ren gepolyst ter Hellen gingh verned'ren, 
+Als ick te trotz van neck in mynen plicht ontbrack, 
+En opgeblazen nae zyn Kroon, en glori stack: 
+Ziet hoe die Lusthof is verkeerd in een woestyne, 
+En herbergh van 't gediert' waer in ick eenzaem quyne. 
+O streckten d'oogen my een spronghryck Siloa, 
+Nu ick myn handen wringe, en voor myn borsten slae, 
+En scheur myn treurgewaed: och ofze tranen lieten, 
+Wat zou my daer een pack een pack van 't hert afschieten: 
+Nu houd de rouw zoo 't schynt de dorpels toegestopt, 
+Een rouw die ick al meer en meer hebbe ingekropt, 
+Daer ick aen sticken zal, daer ick aen moet versticken. 
+Hoe flaeuw bezwyckt myn hert schier allen oogenblicken. 
+O wee! o wy! o wach! hebt ghy bedruckte Maeghd 
+Uw hert noch niet van rouw geleeght, en uytgeklaeght? 
+En mooghdy niet een traen tot uwen troost verwerven, 
+Zoo treurd u voorts in 't graf, en zoeckt uw heyl in 't sterven. 
+
+
+
+
+R.v.S. 
+Wat Kryghslie komen hier die meer zyn als gemeen? 
+Waer vli'en wy? och wie is 't? zyn 't Hoplie? 
+
+
+
+
+R.v.I. 
+En met een 
+De Veldheer Titus zelf, ick zie hy staet in 't midden. 
+
+
+
+
+Doch. 
+Staetjonffren volght my nac, en helpt ons straf verbidden. 
+Aenveerd een droef gelaet, en iammerlyck gebaer. 
+Slaet voor uw borst. verscheurd uw kleed'ren, en uw hayr, 
+Als ick myn stem verhef. bevochtight met uw tranen 
+'t Hert des Verwinners: of ghy zoo een wegh mocht banen 
+Tot mededoogen. schaemd rampzael'ge Rey u niet 
+Nu aen te gaen al 't geen de bitt're Nood gebied. 
+Vergeet uw ouwd geslacht van Priesteren en Vorsten 
+En Koningen, die 't al ten stryde ontzeggen dorsten. 
+Ootmoedigheyd u voeght. ick gae u allen voor. 
+God om wiens aenschyn iuyght de Rey van 's Hemels Koor, 
+
+{==46==} {>>pagina-aanduiding<<}
+
+My aengenaemheyd iond, druypt honigh op myn lippen: 
+Dat ick bewegen magh zoo zielelooze klippen 
+Als zyn der vyanden onbuyghlycke gemoe'n. 
+
+
+
+
+Titvs. 
+Wie knielt hier neder om 't erlangen haren zoen. 
+
+
+
+
+Doch. 
+Grootmogende Monarch, wilt met geduldige ooren 
+Ons klacht ter zielen uytgeborsten doch aenhooren. 
+Wy 't overschot des volcx die vallen u te voet, 
+Wy eysschen geen genae, maer dat ghy met ons doet 
+Al 't geen wat u behaeght: laet vry uw dienaers stooten 
+Haer degens door ons borst die wy voor u ontblooten: 
+Of datze ons werpen van dees rotzen scherp en steyl, 
+En plett'ren ons gebeent', want 't sterven is ons heyl, 
+De Dood ons toevlucht, en haer komst' daer and're menschen 
+Voor schrickẽ, is den troost, en 'tzoetst' daer wy om wenschẽ, 
+Om te geraecken door d'eynd'looze zwarighe'en, 
+En eens ons Icet t'ontgaen: of zydy door gebe'en, 
+Ontzichelijcke Vorst, noch tot genac te neygen, 
+Verzacht de penen doch die d'overwonnen dreygen. 
+'t Van ouwds beroemd geslacht dat vande Vad'ren daelt 
+Bynae is uytgeroeyt, dien lof hebdy behaelt: 
+Een handvol blijfter uytgeput van ongenuchten, 
+Die 't leven valt te bangh, die niet doen dan verzuchten: 
+Erbarmd u haerder, en verschoontze, o Vorst, althans 
+Die 't loth spaerde om te zien den val haers Vaderlands. 
+
+
+
+
+Titvs. 
+Had ghy dit voorbedacht vermaledyde Ioden, 
+En van uw poorten my de sleut'len aengeboden, 
+Als uws stads grondvest noch haer hooge muren droegh, 
+Als ick om Sions kreyts noch eerst mijn leger sloegh: 
+Ghy stond noch daer ghy stond, en van uw stercke wallen 
+En waer de çingel noyt ter aerden ne'ergevallen. 
+Hoe vaecken hebdy met een ingeboren haet 
+Mijn Keyzerlijcke gunst, en goedigheyd versmaed, 
+Als ick u hulde aenbood, en uyt een mild ontfarmen 
+U zwoer gezamentlijck voor onheyl te beschermen: 
+
+{==47==} {>>pagina-aanduiding<<}
+
+Hoe menighwerven blies ick d'aftocht alzoo ras 
+Ghy nood leed, als de strijd en storm op 't heetste was: 
+Hoe dickmael breydelde ick mijn ongetemde benden 
+Van vreeze datze uw Kerck en Godsdienst zouden schenden. 
+Nu komdy smeecken. op staet op. 
+
+
+
+
+Doch. 
+Ertzmaer schalck ach! 
+Dat wy u quetsten oyt is laes! al ons beklagh. 
+
+
+
+
+Titvs. 
+Nu 't glas verloopen is nu roeptmen om genade. 
+
+
+
+
+Doch. 
+Erbarmt des armen volcx al komet vry wat spade. 
+
+
+
+
+Titvs. 
+Zoo spade datter niets voor u te hopen staet. 
+
+
+
+
+Doch. 
+Een welgeboren Vorst zich noch erbarmen laet. 
+
+
+
+
+Titvs. 
+Een welgeboren Vorst zoeckt 't voordeel vanden lande. 
+
+
+
+
+Doch. 
+'tOntfermẽ voordeel brẽgt, gestrengheyd schade en schande. 
+
+
+
+
+Titvs. 
+'t Ontfermẽ brengt oock ramp, gestrengheyd voordeel toe, 
+Zoo houtmen 't volck in tucht. 
+
+
+
+
+Doch. 
+Elck een verwenscht de roe. 
+
+
+
+
+Titvs. 
+De booswicht haet zijn straf. 
+
+
+
+
+Doch. 
+Ons heeft geen straf ontbroken. 
+De Veldheer heeft zijn leet ten uytersten gewroken. 
+
+
+
+
+Titvs. 
+Waer mynen doortocht valt daer eysschen noch te staen 
+Dees muyters tot een les en spiegel voor de qua'en. 
+
+
+
+
+Doch. 
+Die 't spieglen lust beschouw dit graf vol doode beenen, 
+Dees omgekeerde Stad, en die verstroyde steenen. 
+
+
+
+
+Titvs. 
+Licht slaetmen inde wind 't geen zelf men niet en ziet. 
+
+
+
+
+Doch. 
+Al zietmen 't niet de Faem meld watter is geschied. 
+
+
+
+
+Titvs. 
+De Ioden voor 't gerucht noyt eenen voet verzetten. 
+
+
+
+
+Doch. 
+'t Is een Godsdienstigh volck dat yvert om zijn wetten. 
+
+
+
+
+Titvs. 
+Is 't yver datmen muyt? 
+
+
+
+
+Doch. 
+Het acht de vryheyd weerd. 
+
+
+
+
+Titvs. 
+Derft hy oock vryheyd die al heeft wat hy begeert. 
+Den Ioden was 't vergunt haer dorpels te bewoonen, 
+Te lezen haren oegst, en Koningen te kroonen, 
+En Vorsten van haer bloed met purper te bekle'en, 
+En vranck te leven nae der bestevad'ren ze en: 
+
+{==48==} {>>pagina-aanduiding<<}
+
+Dies mosten zy den stoel van Roomen onderstutten 
+Met dragelijcken tol, daer voor wy haer beschutten 
+Van allen overlast des woedenden Soldaets: 
+Iae wie ontwijen dorst 's Kercx afgekeurde plaets, 
+Nae d'uytgedruckte wet geprent in zuyv're marmer, 
+Die brocht zijn vonnis mede, en vond geen lijfs beschermer. 
+Is dit geen vryheyd die 't gespuys vernoegen magh? 
+Veel and're zijn te vre'en, en dragen ons ontzagh: 
+Maer uw hertneckigheyd, en niet de zware tollen, 
+En 's Keyzers slappen moed, die brachten u aen 't hollen: 
+Ons goedheyd vaeck misbruyckt u stouter heeft gemaeckt. 
+
+
+
+
+Doch. 
+Doorluchte Prins 't is waer, ten kan niet zijn miszaeckt: 
+Doch overweeght, dat eerst door woedende Tyrannen 
+De ketenen van twist, en oproer zijn gespannen: 
+Noyt had de vrome deel aen zulcken overmoed. 
+
+
+
+
+Titvs. 
+De vrome vaeck ontgeld 't quaed dat een booswicht doet. 
+
+
+
+
+Doch. 
+Wie wijs is en bera'en die schiftze van malkander. 
+
+
+
+
+Titvs. 
+Elck wascht zich af van 't vuyl en schuyft het op een ander. 
+
+
+
+
+Doch. 
+Wie niet handdadigh is aen eenigh quaed beleyd 
+'t Is billijck dat hy staet op zijn onnoozelheyd. 
+
+
+
+
+Titvs. 
+Zo spreeckt de quaedste schelm. 
+
+
+
+
+Doch. 
+Men ziet op niemands spreken, 
+Men let op yders feyt, en al 't geen heeft gebleken. 
+D'aenstellers van 't rumoer zijn elck een openbaer. 
+
+
+
+
+Titvs. 
+D'handhavers zijn al dood, en die verbergen haer. 
+
+
+
+
+Doch. 
+Men houdet die te goe, de straffe hun hoofden rake. 
+
+
+
+
+Titvs. 
+Rechtveerdigheyd die 'tmeynt eyscht over beyden wrake. 
+
+
+
+
+Doch. 
+Uyt slechtigheyd is 't vaeck dat ymand 't quaed bestemt. 
+
+
+
+
+Titvs. 
+Al boet hy 't met zyn hals dat schijnt dan niemand vremd. 
+
+
+
+
+Doch. 
+Wie 't uyt onkunde faelt heeft in dit pleyt groot voordeel. 
+
+
+
+
+Titvs. 
+Zo groot niet of hy moet uytstaen zijns Rechters oordeel. 
+
+
+
+
+Doch. 
+Een oordeel hecht gesmeed op 't aenbeeld vande re'en. 
+
+
+
+
+Titvs. 
+Een oordeel dat de wet en Krijghsraed steld te vre'en. 
+
+
+
+{==49==} {>>pagina-aanduiding<<}
+
+
+
+Doch. 
+O Vorst vernoeght u met de straf alree genomen, 
+En die der boozen roth noch versch is overkomen, 
+Het overschot meest al onschuldigh is aen 't quaed 
+Daermede uw Majesteyt gequetst is inder daed: 
+Misgunt niet dat wy hier zieltoogen weynigh dagen, 
+En als een eerlijck lijck Ierusalem beklagen. 
+
+
+
+
+Titvs. 
+Om hier te nest'len? neen, de krijghsman die 't zich belght 
+Staet uw uytroeyẽ duyr. 
+
+
+
+
+Doch. 
+Nu zijn wy gants verdelght. 
+
+
+
+
+Titvs. 
+Zoo gants niet of ons stond een erger quaed te vreezen. 
+
+
+
+
+Doch. 
+Zoo Roome vreeze aenkomt van ouderlooze weezen, 
+Van Weeuwen uytgeschreyt, van Vrouwen levens moe 
+Van wat ontwapent volcx zo brengen wyze haer toe, 
+Die uytgemergelt, niet voor hebben, als ons magen, 
+Waerze ergens kenbaer zijn, in 't koude graf te dragen, 
+En in speloncken en steenrotzen hier ontrent 
+Te huylen schouw van 't licht tot dat ons leven end. 
+
+
+
+
+Titvs 
+Van luttel zaeds gestroyt dat over is geschoten, 
+Wast eenen rijcken oeghst. alzoo van weynigh loten 
+Ontstaet een boomryck woud. zoo 't eerstgeplante veyl 
+Beklimt en deckt een muyr al is hy hoogh en steyl. 
+De doornen laten niet van nieuws weer aen te groeyen 
+Zoo langh daer wortel blyft, die mostmen eerst uytroeyen. 
+
+
+
+
+Doch. 
+Men laet dees woeste plaets van krijghslie wel verzorght. 
+
+
+
+
+Titvs. 
+'t Mistrouwen geeft meer rust, en is een vaster borght. 
+
+
+
+
+Doch. 
+Mistrouwdy die ghy loont? 
+
+
+
+
+Tit. 
+Geensins, maer wel uw liede 
+Die altijd woeld, en tracht den genẽ 'thoofd te bieden 
+Die uwen staet verdruckt. 
+
+
+
+
+Doch. 
+Ey wapenloozen hoop 
+Die in u tranen smilt, en 't zuchten hebt goedkoop, 
+Verheughd u noch met my, dat d'overwinners moeten 
+Voor uw verschricken, daer ghy ne'er light voor haer voeten: 
+Grijpt moed, en recht noch op 't vervallen Iodendom, 
+Want Titus staet bedeest, en 't heyr ziet nae u om. 
+
+
+
+
+Titvs. 
+Uyt d'assche van een stad, licht word een zaeck verkeken, 
+Is vaeck een brand ontstaen die landen heeft ontsteken, 
+
+{==50==} {>>pagina-aanduiding<<}
+
+En rycken met de grond ge-effent en vernielt: 
+Geen lichaem achtmen dood zoo langh het is gezielt. 
+Die dickwils op het veld voor dooden zyn gerekent 
+Gedencken aen haer leet, verryzen we'er en wreken't. 
+
+
+
+
+Doch. 
+Verre is de wraeck van ons die bloot zyn van geweyr. 
+
+
+
+
+Titvs. 
+De wanhoop ziet niet aen al waer 't een machtigh heyr, 
+Zy geeftze dobbel kracht, en helpt we'er op de beenen 
+Een deel vervloeckt gespuys, eer 't ymand zoude meenen. 
+
+
+
+
+Doch. 
+Helaes E'elaerdigh bloed! 't mistrouwen dat ghy hebt 
+Veroorzaeckt datmen troost, noch blyschap uyt u schept. 
+
+
+
+
+Titvs. 
+Zyt Ionghvrouw wel gemoed, en wild ten besten hopen, 
+De Kryghsraed is vergaert. myn tyd is hier verloopen. 
+Verwacht van ons het loth, en denckt het zal wel gaen: 
+Wy breken morgen op, daer leght uw zaeck nae aen. 
+
+
+
+
+Doch. 
+'t Onredelycke dier, dat eertyds twee gebroeders 
+Grondleggers vã uw staet verschoonde, en als haer 's moeders 
+Ontzet en speen gebrack opzooghde aen 's Tybers boord 
+Was reed'lycker als ghy die nae geen smeecken hoord. 
+Het klippigh steengeberght dat hier met doon bespreed leyd 
+Ick tot getuyge neem, o Titus, van uw wreedheyd. 
+Geen kermen heeft hier plaets, en my voorzeyd de Nood 
+Een slaefsche ballinghschap, of een benauwde dood. 
+
+
+    
+
+Rey van Priesteren. 
+Wy Priesterlycke Reijen 
+(Die voormaels met schalmeijen 
+Den vierdagh plachten en de Feesten in te wyden, 
+En steeds op Moses wetten 
+Aendachtelyck te letten, 
+En te vergaren 't volck op haer gezette tyden) 
+Niet hebben acht geslagen, 
+En d'onverwachte plagen, 
+En 't voorspoock dat ons daeglycx met verwoesting dreygde: 
+Al gaf God zonder spreken 
+
+{==51==} {>>pagina-aanduiding<<}
+
+Zoo menigh helder teecken, 
+Waer aen 't bleeck waerwaerts dat de Ioodsche staet zich neygde. 
+'t Verwoesten, en 't vertreden 
+Van d'omgelegen steden, 
+Vol vyers, vol moordgeschreys, vol brands, vol bloeds, vol tranen, 
+Vol krytens, en vol zuchten, 
+Vol twists, vol krijghsgeruchten, 
+Wou Salem van haer val, en ondergaen vermanen. 
+De ruyghgehayrde Sterre, 
+Die inde locht van verre 
+Blonck als een Godlyck zweerd recht boven onzen schedel, 
+Riep: dat het zweerd van Roomen 
+Ons haestigh op zou komen, 
+En treffen jongh en ouwd, ryck, arm, e'el, en onedel. 
+'t Licht binnen d'heyl'ge drempel, 
+By 't Outaer, en den Tempel, 
+Waer voor de donck're nacht weeck met zijn bruyne vlerckẽ: 
+Het zwang're Koebeestmede, 
+t'En brand geschickt alreede, 
+'t Lam barende, zocht ons te brengen tot opmercken. 
+De deur met ys're sloten 
+Van klaer metael gegoten, 
+Die twintigh mannen al bezweet te grend'len plachten: 
+Waerschouwde ons Godverachters, 
+Als haer de Tempelwachters 
+Wijd open vonden staen vaeck, en verscheyden nachten. 
+Het heyrkracht veler volcken 
+Dat boven inde wolcken 
+Zich legerde inde locht voor d'ondergangh der Zonnen, 
+Vertoonde ons al de benden 
+Die d'ouwde Stad berenden, 
+En niet aflieten voor zy haddenze gewonnen. 
+'s Nachts als wy bezigh waren 
+Om t'off'ren op d'Altaren, 
+
+{==52==} {>>pagina-aanduiding<<}
+
+En 't heyligh Pincxterfeest met yver uytermaten 
+Aendachtelyck te vieren, 
+Nae d'overouw manieren, 
+Riep ons een stemme toe: laet ons dees Kerck verlaten. 
+'t Weeklagen ongewoone 
+Van Ananias zone: 
+Wee volck! wee stad! wee Kerck! wee wee van allen hoecken! 
+Ons uyt den slaep niet weckte, 
+Daer 't als een voorspel streckte, 
+'t Welck aenwees, dat ons God op 't strengste zou bezoecken. 
+Dit alles slaen wy gade 
+Helaes! nu 't is te spade, 
+Nu Stad en Tempel is een roof der vremdelingen. 
+O God! ziet eenmael neder, 
+En troostet Levi weder, 
+Op dat wy uwen lof met juychen mogen zingen. 
+
+
+
+
+De vierde handel.
+
+Titus de Keyzer. Terentius Hopman.
+
+
+Titus de Keyzer. 
+WY staen op ons vertreck. myn afgestre'en Soldaten 
+Nae zoo veel oorlooghs blyde haer legerplaets verlaten. 
+Wy laten achter ons een omgeworpen muyr, 
+Een Koninglycke stad verdelght met stael en vuyr, 
+Een aerdrijck omgewroet, een Kerckhof vet van dooden, 
+Die niemand staen t'ontzien, ten ware dat der Ioden 
+Verrezen schimmen ons opkomen mochten dol 
+Met Fackelen, gelyck uyt Plutoos duyster hol 
+
+{==53==} {>>pagina-aanduiding<<}
+
+Opdonderen zomtyds d'ontstelde Razernijen, 
+Als al de weereld voor een ancker schynt te rijen: 
+Maer dat is zonder zorgh: nochtans acht mynen Raed 
+Dit oorbaer, datmen tot gerustheyd vanden staet 
+Hier een bezettingh leght van Krijghslie wel ervaren, 
+Die onder eenen vooghd 't land hier ontrent bewaren, 
+Op datter niemand Schans, noch Slot, noch vestingh bouw, 
+Noch voet krijg, noch yet quaeds den Romulijnschẽ brouw. 
+Terentius, die vaeck de schild waert van mijn leven, 
+Wanneer ick inden strijd my had te diep begeven, 
+Omçingeld van 't gevaer, belegerd van 't gekerm, 
+Besloten van 't geweyr, daer met geheven erm 
+Ghy my te redden wist door sabelen en pijcken, 
+En sloeght een wagenborgh van doon, en versche lijcken: 
+Deze eere komt u toe: ontfanght, ontfanght van my 
+Uw wettelijcke Prins en Veldheer de vooghdy 
+Van gans Iudea. let met aendacht op uw zaecken, 
+En wilt in 't voordeel van ons Monarchije waecken. 
+
+
+
+
+Teren 
+Aenzienelijcke Vorst, och of uw Majesteyt 
+Meer nuts genieten mocht van mijn gehoorzaemheyd: 
+Wy nemen 't ampt in danck. uw mildheyd is te loven, 
+Die ons verdiensten in besoldingh gaet te boven. 
+Verschoont uw Dienaer niet, die als de Keyzer spreeckt 
+Wenscht te vervullen 't geen aen zynen plicht ontbreeckt. 
+
+
+
+
+Titvs. 
+Mijn thiende bende, die haer oyt zoo vroom verweerde, 
+Gesterckt met noch meer volcx te voet en oock te peerde, 
+Ick tot bewaringh hier te legeren besloot, 
+Om d'overwinningh te verzek'ren buyten nood, 
+Waerom men heeft verschoond den muyr in 't west gelegen, 
+En 't geen daer aen kleeft: daer het Krijghsvolck vry van regẽ, 
+Van hagel, wind en storm, en onwe'er schuylen magh, 
+En herbergh krygen: hebt ghy over haer 't gezagh: 
+Omhelst de wetten, en wie tegen 't recht derf woelen 
+Doet hem de strengigheyd van onze Krijghstucht voelen. 
+
+
+
+{==54==} {>>pagina-aanduiding<<}
+
+
+
+Tere. 
+Al wat myn Heer beveelt werd wetens niet verzuymt. 
+
+
+
+
+Titvs. 
+Geen uytgedreven Ioon geeft hier te woonen ruymt: 
+Maer and'ren die haer nae ons zeden konnen voegen 
+Vergunt deze ack'ren te bezaeijen en te ploegen, 
+Mids redelycken tol 't Rijck in te wilgen, en 
+Dat niemand ander staf als onzen scepter kenn. 
+
+
+
+
+Tere. 
+'t Is billijck en gegrond, het steunt op goede reden. 
+
+
+
+
+Titvs. 
+Zo ymand derf bestaen of vestingen, of steden 
+Te stichten, en tot zulx yets delve of spitte of graef, 
+Die heeft het lijf verbeurt, zyn goed en al zyn haef. 
+Die zaeck is van gewicht, dus hechtze in uw gedachten. 
+
+
+
+
+Tere. 
+De Prinçe twyffel niet wy hopen't te betrachten. 
+
+
+
+
+Titvs. 
+Uyt myn gevangens ick heb duydelijck verstaen 
+Dat Simon, die ons zoo veel hoons heeft aengedaen, 
+Die schelm, dien afgerecht op zoo veel boeverijen 
+Het oorloogh spaerde, om zyn verschulde straf te lijen, 
+Zich onder 't muyrwerck houd, 't welck noch van d'aerde roockt, 
+Met and're die hy nae zyn lust heeft opgestoockt: 
+Neemt acht hier op, en dees steenhoopen wilt bezetten 
+Met wachters voor een wyl, die op dien booswicht letten, 
+Op dat hy 't niet ontslip: indien noch 't recht in zwangh 
+By d'Hemellieden is, dat elck zyn straf ontfangh, 
+En penen geld, en boet zyn grouwelycke stucken, 
+Hy zal u niet ontgaen. 
+
+
+
+
+Ter. 
+En of dit wou gelucken, 
+Wat eyscht het recht van hem? te sneuv'len door de byl? 
+
+
+
+
+Titvs. 
+Die deughd gebeurt hem niet. dat ghy hem inder yl 
+My toestiert wel bewaert te Roome, daer wy wenschen 
+Dat hy in ons triumph zy 't schouwspel veler menschen, 
+En pynelijck uytbraeck zyn Goddelooze ziel, 
+Die stadigh van het eene in't ander quaed verviel. 
+
+
+
+
+Tere. 
+Schept die verrader slechts in onderaerdsche kuylen 
+De locht, al gingh hy zich zoo diep uyt ancxst verschuylen 
+Dat hy den Tartarus, daer geenen Phebus schijnt 
+Mocht hooren loijen, als de boosheyd word gepijnt: 
+
+{==55==} {>>pagina-aanduiding<<}
+
+Die schelm, doorluchtig Held, myn hand niet zal ontvliedẽ. 
+Belieft u yets wat meer ghy hebt maer te gebieden. 
+Ick volge uw Majesteyt, en doe u uytgeley. 
+
+
+
+
+Titvs. 
+De tyd verloopt, het is hooghnoodigh dat ick schey, 
+En vorder onzen tocht. ick zie nu wy vertrecken 
+De Keyzerlijcke Stad haer zeven halzen recken, 
+En uytzien nae het heyr, dat waerwaerts het oock vecht 
+Alom het veld behoud, en prijs en eer inleght. 
+Ick zie de staçi van de Roomsche burgerijen 
+In volle rustingh ons ontmoeten met verblijen: 
+Den Tyber zwert van volck. ick zie Vespasiaen, 
+Mijn Broeder, en den Raed by Iovis Tempel staen: 
+De Priesteren 't Outaer vo'en, en al de Goden vieren, 
+En 't onverwelck'lijck groen 't hoofd des Verwinners çieren. 
+
+
+Rey van Ioodsche Vrouwen. Fronto. Rey van Staetjonffren. De Dochter Sion.
+
+
+Rey van Ioodsche Vrouwen. 
+Nu wacker stapelt steen. de Nood breyt duyzend listen. 
+Deze aenslagh blijft ons borgh, of d'eerste treken misten. 
+O krancke toevlucht! zoo de Koningen van ouwds 
+Bedrupt van Balsem, en verladen met veel gouds, 
+Behangen met de glans van Purper en Kleynoden, 
+Opbraecken 't marmor, en opkeken vanden dooden, 
+Hoe zoud haer quetzen. ach! maer als 't aldus moet zijn, 
+Dit is de waerheyd naest, en geeft het veynzen schijn 
+Voor 't ander. wackert u. metst van beroockte steenen 
+Een graf voor d'Ydelheyd, en wilt haer lijck beweenen. 
+
+
+
+
+Fron. 
+Mars heeft hier uytgeraest. hy scheyd om elders we'er 
+Een wederspannigh Rijck met zijn gevelde speer, 
+Met 't weerlicht van zijn schild, en met getogen zweerde 
+Te slechten tot den grond, en bodem toe met d'eerde. 
+
+{==56==} {>>pagina-aanduiding<<}
+
+Ick kome in 's Keyzers naem, gelast om zoo terstond 
+Dees Tempelhoeren, die geen uytstel word gejond 
+Te volgen doen het heyr dat langer niet magh dralen. 
+
+
+
+
+R.v.I. 
+Help God hy komt om ons, het is om ons te halen. 
+
+
+
+
+R.v.S. 
+Steenrotzen berst van een, valt bergen op ons neer. 
+Troost God waer vluchten wy. hier is geen vluchten meer. 
+
+
+
+
+Fron. 
+Wegh wegh met dit geraes. 't is langer hier met stenen 
+Noch kermen niet te doẽ. 
+
+
+
+
+R.v.S. 
+Waer wildy met ons henẽ? 
+
+
+
+
+R.v.I. 
+Wat hebdy met ons voor? 
+
+
+
+
+Fro. 
+Voort voort Iodinnẽ voort. 
+Ick doe u geen verslagh, neen, niet een enckel woord, 
+Ghy werd het zelf gewaer. wel waer is uw Vorstinne? 
+Waer is 't hertneckigh wijf? 
+
+
+
+
+R.v.S. 
+Wy bidden u uyt minne 
+Och wijstze ons waerze dwaelt. 
+
+
+
+
+Fro. 
+'tIs u niet onbewust. 
+
+
+
+
+R.v.I. 
+Wy zijn om harent wil bekommert en ontrust. 
+
+
+
+
+R.v.S. 
+Zy droop van onze Rey vol zuchtens, en vol klagen, 
+Beroyt van hoofd en zin, versust en heel verslagen, 
+En eermen toezagh (want onze oogen waren dick, 
+En rood van schreijen) zy in eenen oogenblick 
+Was ons gezicht ontgaen, en waerwaerts dat wy zonden 
+Haer stem wierd niet gehoort, haer voetspoor niet gevonden. 
+
+
+
+
+R.v.I. 
+Verlatene Vorstin, zo ghy de locht noch schept, 
+Meld d'oorzaeck waerom datge ons dus begeven hebt: 
+Want zo oder hoop was om uw zelven te versteken 
+Wy hadden t'zamen wel dit ongeval ontweken: 
+Geen klip zo yslijck steyl, geen afgrond is zoo naer, 
+Vol slangen, vol gedierte, of't uyterste gevaer, 
+Hadde ons doen klimmen, en opklaveren en dalen: 
+Of hebdy voor den tijd uw doodschuld gaen betalen, 
+En zydy van een rotz gesneuvelt op een steen, 
+Die gants verplettert heeft 't albaster van uw le'en, 
+Zoo wilt door eenigh spoock of teken doch gehengen 
+Dat wy u vinden, en met rouw ter aerden brengen. 
+
+
+
+
+Fron. 
+Hoe luyde het jongst beklag? hoe droegze haer alsze schied? 
+
+
+
+
+R.v.S. 
+Van droefheyd uytgeput, verwonnen van verdriet, 
+
+{==57==} {>>pagina-aanduiding<<}
+
+Zal ick dan, sprackze, die gevallen ben in handen 
+Van d'onbesneden, zijn haer schouwspel t'mynder schanden? 
+Zal ick die een Vorstin der volcken ben geweest 
+Verstrecken een slavin van die ons heeft gevreest? 
+Zal ick verschoven gaen in ballinghschap vol smerten 
+Mijn ramp ineten? en al steeds met droever herten 
+Ophalen mynen val? en den voorleden staet 
+Gaen vergelijcken met ons tegenwoordigh quaed? 
+Noch zoo niet. naulijcx wras het kermen vande lippen 
+Of wy verloren haer ontrent die scherpe klippen. 
+
+
+
+
+R.v.I. 
+Hy gaetze zoecken. 
+
+
+
+
+R.v.S. 
+Och of dit gelucken wou, 
+Dat wy 't lijfberghden van ons welgeboren Vrouw 
+In 't uyterste gevaer voor 't woeden der Tyrannen: 
+Wie weet wat uytheemsch bloed eens met haer aen moght spannen, 
+En geven zich te velde, om 't overschot der Ioon 
+Te stellen in haer stoel, en Koninghlijcken Troon: 
+Wie weet van waer ons God mocht een Verlosser wecken, 
+Die eenen Cyrus zoude, of and'ren Moses strecken, 
+Of braven Gedeon, of trotzen Iosua, 
+Of stouten David tot verzettingh van ons scha. 
+
+
+
+
+R.v.I. 
+Staetjonffren zwijght, hy keert met overwinners treden, 
+Gezwollen om zijn hoofd van toorne, en gants t'onvreden, 
+Met dreygende oogen spoed hy t'onswaert zynen gangh. 
+Iehova staet ons by. wat word my 't herte bangh. 
+Moord! moord! hy treckt 't geweer. ick tril, ick beef, ic zidder. 
+
+
+
+
+R.v.S. 
+Genade, o ouwd Romeyn! 
+
+
+
+
+R.v.I. 
+Genade, o edel Ridder! 
+Wat is 't dat u ontsteld? wat is 't dat ghy begaet? 
+Wat eer is 't dat ghy dees verdruckte Vrouwen slaet? 
+Een troosteloozen hoop. tert liever uws gelijcken. 
+Gaet uwen vyand toe zoo zal uw vroomheyd blijcken: 
+Hier haeldy enckel schand. laet zincken uwen moed. 
+Wat is 't dat u ontzet, en heftigh woeden doet? 
+Wat eyschty zoo verstoort? ach wilt doch wat bedaren. 
+
+
+
+
+Fron. 
+Dat ghyze daedlijck meld. 
+
+
+
+
+R.v.I. 
+Men zal 't u openbaren. 
+
+{==58==} {>>pagina-aanduiding<<}
+
+Als 't ymmers zoo moet zijn. aenhoort slechts met geduld. 
+Aen haer rampzaligh eynde, en dood heeft niemand schuld 
+Als zy, die alsze droef haer handen had gewrongen, 
+En 't aenzicht opgekrabt is van een rotz gesprongen 
+Met schrickelijck gehuyl, 't welck drymael heeft geverght 
+Den galm die woont in dit omliggende geberght: 
+Wy volghden haren sprongh met uytgekreten oogen, 
+Maer wie had onbezwijmt van 't hooge aenschouwen mogen 
+Een lichaem, welcx gestalt was vanden zwaren val 
+Gants uytgewischt. o Vrouwe! o rotze! o bergh! o dal! 
+
+
+
+
+Fron. 
+Dat rieckt nae schelmery. denckt nimmermeer met liegen 
+Een afgerecht Romeyn als ick ben te bedriegen. 
+Ziet voor u wat ghy doet. 
+
+
+
+
+R.v.S. 
+Wy bidden u gelooft. 
+
+
+
+
+Fron. 
+Waer is het lichaem? flucx. 
+
+
+
+
+R.v.I. 
+Wat lichaem? dat berooft 
+Van zijn gedaente is gants verplet in al zijn deelen? 
+
+
+
+
+Fron. 
+Wijst my 't verplette, voort, en past op mijn bevelen? 
+
+
+
+
+R.v.S. 
+Wy quamen als zy lagh gevallen nae bene'en, 
+En hieven 't zielloos lijf op vande koude steen, 
+En groeven't inder yl daer zelden ymand wandelt, 
+Van vreeze datze niet wierd nae haer dood mishandelt: 
+Die eer gebeurde haer noch, dat wy de grafsté wat 
+Verheerlijckten met puyn van ons verbrande Stad, 
+Met heele en halve steen, op datter eenigh teecken 
+Mocht blyven alsmen van haer eynde quam te spreken. 
+
+
+
+
+Fron. 
+Waer is de plaetse flucx? 
+
+
+
+
+R.v.S. 
+Wy bidden u betoont 
+Eerbiedigheyd den doon, haer sterflijckheyd verschoont, 
+Noch 't lichaem niet onteert van deze, die eylaçy 
+Ghesneuvelt deerlijck, wierd begraven zonder staçy. 
+
+
+
+
+Fron. 
+Het lichaem zal ick zien, staet op uw hoede noch, 
+Want vinde ick dit als 't eerste onwaerheyd en bedroch, 
+Het zal u rouwen. 
+
+
+
+
+R.v.S. 
+Och besnoeyt die booze lusten, 
+En die zoo lieflijck slaept laet inden grave rusten. 
+Wat zydy voor een volck, die na ghenomen straf 
+Een doode romp vervolght, en wreeckt u aen een graf? 
+
+{==59==} {>>pagina-aanduiding<<}
+
+Wat komt u aen? ghy valt aen 't schenden, en aen 't breken 
+Van onzen timmer, ach! den Hemel zal het wreken, 
+Dat als een dullen hond ghy schuymbeckt, schend, en bijt 
+'t Geen heyligh is, en tot een eerlijck lijck gewijd. 
+Wee ons hy luystert niet. zyn wreedheyd heeft geen ooren. 
+Best doen wy rechte biechte, en melden 't van te voren 
+Eer dat hy 't al verwoeste, en in zyn dolligheyd, 
+Tot wraecke van 't bedrogh ons dobb'le straf bereyd. 
+Vroom Krijghsman, staet wat stil, en willet ons vergeven. 
+Wy zijn uyt hooge nood, en ancxst hier toe gedreven. 
+De zinnen lyden last, komt volghtme, want hier by 
+De dochter Sion met een Ionffer twee of dry 
+Schuylt in het hol des berghs. Komt uyt 't is al verloren. 
+Uw volck heeft u verra'en, Princesse welgeboren, 
+Den aenslagh is ontdeckt. komt wederom in 't licht. 
+Verheught uw vyand met een treurigh aengezicht. 
+Hy lacht in ons verderf. komt uyt, en wilt niet schromen: 
+Zulx is voor dezen oock een Koningh overkomen, 
+Die Salems scepter droegh, en met benauwder ziel 
+Ontvliende in handen noch van Nimrots naezaet viel: 
+Die voor hem sneuv'len zagh de vruchten van zyn lenden, 
+En most van 't licht berooft, zyn leven pijn'lijck enden 
+In eenen duyst'ren nacht, in een ongastvry land. 
+Dit is de gene die ons over zee en zand 
+Vervoeren zal. indien ghy meer vermooghd met kermen 
+Als wylie, valt hem aen, en brenght hem tot ontfermen. 
+
+
+
+
+Doch. 
+Ervaren oorlooghsman, nae't woeden des soldaets 
+Had vaeck beleeftheyd by den Overwinner plaets, 
+Die vroom was, en geen roem zocht met een afgestreden 
+Onweerbaer hoopken volcx styf op den neck te treden: 
+Omhelst doch deze deughd, en leent een lydzaem oor 
+Aen uw gevangens. zeght, wat hebdy met ons voor? 
+Wat lyden gaen wy aen? 
+
+
+
+
+Fro. 
+Ghy moet terstond na Romẽ 
+Ons zegefeest ten dienst, het is zoo voorgenomen: 
+
+{==60==} {>>pagina-aanduiding<<}
+
+Men zal u, om wiens wil geplenght is zoo veel bloeds, 
+Gevleugelt volgen doen de Keyzerlijcke koets, 
+Met uwen ganschen Rey, met duyzend Iongelingen, 
+Dan mooghdy zoo 't u lust uw Tempeldeuntjens zingen: 
+Als ghy de vaten, en al 't goud, en zilverwerck, 
+En 't Priesterlijck Tapijt, de glori van uw Kerck, 
+De goude kandelaer, en tafel op een wagen 
+Ziet zegenrijck ten toon voor yder ommedragen. 
+
+
+
+
+Doch. 
+Veel eer als zulcx gebeurt zal God op mijn geschreeuw 
+Doen komen op den wegh een Tyger, of een Leeuw, 
+Die ons verslinden zal, en tot het been toe knagen, 
+En met zijn ingewand in zynen schuylhoeck dragen: 
+Veel eer als dat gebeurt, zal 't God zich trecken aen, 
+En ons, of u gezwind met zynen blixem slaen: 
+Veel eer als dat geschied, eer dat ghy vreughd zult rapen 
+In onzen ondergangh, eer werden wy verschapen, 
+En trecken aen 't gestalt van een onreed'lijck beest, 
+Eer scheuren wy ons kleed, en schenden uwe Feest. 
+
+
+
+
+Fron. 
+Ghy queld u te vergeefs. wy schricken voor geen dreygẽ. 
+Uw roepen geld hier niet. ghy hebt uw lijf niet eygen. 
+Ghy moet mede over Zee: dus maeckt uw hert geen pijn, 
+En zult ons dienstmaeghd 'sdaeghs, des nachts ons boelschap zijn. 
+
+
+
+
+R.v.S. 
+Ach moeder Sion, helpt, wy zygen ne'er ter aerden, 
+Waer toe of wy de bloem van onse jeughd bewaerden 
+Op een goed huwelijck? om naemaels tot gerief 
+Te dienen een schavuyt een eerloos hangedief? 
+Om zijn slavin te zijn? om hem te laten dryven 
+Zijn booze moetwil met ons noyt gerepte lyven? 
+Ons kuyscheyd noyt bevleckt? ons witte zuyverheyd? 
+Wat bruyloft hebben wy ons zelfs niet toegeleyd: 
+Zal nu een Roffiaen van 't lijf de gordels rucken, 
+En d'onverwelckte roos van onze Maeghdom plucken? 
+God moetet zijn geklaeght. 
+
+
+
+
+R.v.I. 
+En zullen wy althans 
+Den moordenaers, en beuls van ons getrouwe mans 
+
+{==61==} {>>pagina-aanduiding<<}
+
+Verstrecken tot een proye, en zulcke schelms verwermen, 
+En hun believen en omhelzen met onze ermen, 
+En dulden datze met haer lippen ongezond 
+Ons kaecken drucken, en 't korael van onze mond. 
+Geensins, wy zullen voor 't opdagen vande morgen 
+Haer 't hoofd omwringen, en in d'eerste slaep verworgen. 
+
+
+
+
+Fron. 
+'t Is langh genoegh gedraelt. volght daer ick u geley. 
+Ons heyrkracht ghy verlet. men acht hier geen geschrey. 
+
+
+
+
+Doch. 
+Wy volgen. gaet slechts voor. vergunt ons noch die zegen 
+Dat wy ons klachte doen, en zeggen onderwegen 
+Het Vaderland adieu. bedruckte vanght dan aen, 
+En neemt uw afscheyd, want de tijd eyscht dat wy gaen. 
+
+
+    
+
+Rey van Iodinnen. 
+Ghy onlanghs heerlijck, 
+Maer nu o deerlijck 
+Ierusalem hoord ons geklach. 
+Wy nemen oorlof. ach ach ach ach! 
+Gezangh en Cyther, 
+Staf, Kroon en Myter, 
+Gestoelt' dat noyt zijn weergae zagh: 
+Wy nemen oorlof. ach ach ach ach! 
+Ghy prachtige hoven, 
+Die trotz nae boven 
+Reest, daer de Stad op 't hooghste lagh: 
+Wy nemen oorlof. ach ach ach ach! 
+Volckrijcke straten, 
+Die nu verlaten 
+Zijt op het schoonste vande dagh: 
+Wy nemen oorlof. ach ach ach ach! 
+Verheven daecken, 
+Vernielt door 't blaecken 
+Van 's vyands tortzen oon verdragh: 
+Wy nemen oorlof. ach ach ach ach! 
+
+{==62==} {>>pagina-aanduiding<<}
+
+Ghy hooge poorten 
+Waer in verhoort, en 
+Gevonnist elck te worden plagh: 
+Wy nemen oorlof. ach ach ach ach! 
+Gewyde graven 
+Van die de staven, 
+En Scepters droegen met ontzagh: 
+Wy nemen oorlof. ach ach ach ach! 
+Bespiende toornen, 
+Waer uyt met hoornen 
+Men maeckte vande strijd gewach: 
+Wy nemen oorlof. ach ach ach ach! 
+Ghy trotze muren, 
+Die niet verduren 
+En mocht der Heyd'nen stormbock doch: 
+Wy nemen oorlof. och och och och! 
+O Kerck der Kercken, 
+Waer aen men mercken 
+Mocht Iacobs yver oon bedrogh: 
+Wy nemen oorlof. och och och oth! 
+Daer God zijn zegen 
+Uytbreyde in 't plegen 
+Van d'heyl'ge dienst die hier geschach: 
+Wy nemen oorlof. ach ach ach ach! 
+Daer bly van zinnen 
+De Cherubinnen 
+Elck min'lijck groeten met een lach: 
+Wy nemen oorlof. ach ach ach ach! 
+Daer Levijs stamme 
+Met zuyv're vlamme 
+Op 't Outer 't offer smoocken de': 
+Wy nemen oorlof. wee onzer wee! 
+
+{==63==} {>>pagina-aanduiding<<}
+
+O vloer bevolen 
+'s Hooghpriesters zolen, 
+Daer eenen Phenix nam zijn ste: 
+Wy nemen oorlof. wee onzer wee! 
+Daer d'Arck behoede 
+Aarons roede, 
+Het Man', en Moses Tafel me': 
+Wy nemen oorlof. wee onzer wee! 
+Verslagen Helden, 
+Die most ontgelden 
+'s Krijghs toorne, en boeten het gelach: 
+Wy nemen oorlof. ach ach ach ach! 
+Verloste Moeders, 
+Die niet bedroevers 
+Zaeght als uw tepels droogh van zoch. 
+Wy nemen oorlof. och och och och! 
+Die in uwe ermen 
+'t Kind hoorde kermen, 
+En geven zynen doodsnack noch: 
+Wy nemen oorlof. och och och och! 
+Verwoeste steenen, 
+Verstroyde beenen 
+Vleesch dat verstreckt der dieren aes: 
+Wy nemen oorlof. helaes helaes! 
+Verleyde zielen, 
+Die hielpt vernielen 
+Uw ouwde stad, en streed zoo dwaes: 
+Wy nemen oorlof. helaes helaes! 
+Kelders en kuylen, 
+Daer voortaen d'Uylen 
+Haer laten hooren met geraes: 
+Wy nemen oorlof. helaes helaes! 
+
+
+
+
+
+{==64==} {>>pagina-aanduiding<<}
+
+De vyfde en leste handel.
+
+Terentivs. Simeon. Rey van Christenen. Gabriel.
+
+
+Terentivs. 
+WIE maeckt u stout zoo vroegh dees velden te bespieden? 
+
+
+
+
+Simeo. 
+Verspieders zijn wy niet, och neen, maer vrome lieden, 
+Genadigh Landvooght, wy zijn Christenen gedoopt 
+Een vreedzaem volck, dat steeds op Iesus Christus hoopt 
+Der zielen Heyland: dien de Goddeloze Ioden 
+Zoo schelms betichten, en zoo schandelijcken dooden: 
+Wy gangers in zijn spoor, om zynen naem versmaed, 
+Te strengh van haer vervolght, en tot in 't graf gehaet, 
+Voor 't iongste Paeschfeest hier noch aen ons heerdste zaten: 
+Maer door het spoocken van d'Ausonische Soldaten, 
+Die 't al afliepen, als vast d'een aen d'ander stad 
+Van haer beklommen de bebloede ne'erlaegh had, 
+En 't eyslijck moordgeschrey dat herwaerts inde toppen 
+Der hooge bergen klonck van Ascalon, van Ioppen, 
+Van Ptolemaïde, Iotapa, Taricheen, 
+Aphaca, Garizim, 't plat land der Idumeen, 
+En and're plecken: wy beducht voor Salems plagen, 
+Die Davids zoon voorzey, die vele komen zagen, 
+En druppen onverziens op dit halstarrigh zaed, 
+Dees muren vloden nae de Goddelijcke raed 
+Die ons Messias gaf, en bleven zoo verholen 
+Te Pella. nu de Stad light gants vergaen tot kolen 
+
+{==65==} {>>pagina-aanduiding<<}
+
+En assche komen wy, een ongewapent volck, 
+'t Verwoest Ierusalem bezien: of noch de kolck, 
+Of eenigh teecken van ons heerdsté was te vinden, 
+Of koud gebeente van ons onbegraven vrinden: 
+Vermids wy hoorden 't heyr op zijn vertrecken stond. 
+Dit weynige Edel Heer ons arme Pelgrims iond. 
+
+
+
+
+Ter. 
+Uw antwoord my vernoeght. gaet henen zonder vragen 
+Uw dorpels zoeckt, begraeft uwe onbegraven magen, 
+En zoo de Nood u druckt, keert van 't geberghte we'er, 
+En slaet u metter woon hier veylighlijcken ne'er, 
+Bezaeyt dit ackerland, plant wijngaerd, bouwter hutten, 
+En uwen Christus dient wy zullen u beschutten, 
+En al die 't Ioods geslacht niet godloos hangen aen 
+Ons zullen wilkom zijn, 't land zal haer open staen. 
+
+
+
+
+Rey. 
+Helaes! wat mercken wy hier al veranderingen. 
+Helaes! Ierusalem, ons schynen alle dingen 
+Vergaen met uwen val. wat Scyth, wat wreede Parth 
+Die hier voorby gaet, moet met een medogend hart 
+Niet aenzien dat geweld vernielt met stael en vuyrwerck, 
+En geven een gehuyl op 't omgestorte muyrwerck, 
+Op 't puyn en d'assche, die d'uytheemschen houd bedeest, 
+En tuyght hoedanigh is haer heerlijckheyd geweest. 
+O God! wat ziedy niet al aen met alziende oogen. 
+Wie zal hier over recht uw oordeel vaten mogen. 
+
+
+
+
+Gabr. 
+Ghy Christen Pelgrims, die hier dut en vreest geen leet 
+Van d'Engel Gabriel die 's Hemels vloer betreed: 
+Die d'heyl'ge Moedermaeghd boodschapte van te voren 
+Hoe zy van God was tot een Moeder Gods verkoren: 
+Ick zal 't ontvouwen, en voor u ontsluyten al 
+'t Geen aen te mercken staet in Isr'els droeven val, 
+Met aendacht daer op let, en u geensins verwondert 
+Dat ghy hier ziet vertre'en, verbrand, geblaeckt, geplondert 
+Den Priesterlijcken stoel korts vol van Majesteyt, 
+Den Koninghlijcken Throon, de pracht en heerlijckheyd 
+
+{==66==} {>>pagina-aanduiding<<}
+
+Des grooten Salomons: dat ghy met stael, met vlammen, 
+En honger ziet verdelght de welgeboren Stammen: 
+Die alle volck te spijt, en d'Engelen te trots, 
+Uyt bloncken in 't geberght gelijck een glori Gods: 
+Want daer in is vervult, 't geen voormaels u in Persen 
+Heeft Daniel voorzeyd met zijn droomkondige herssen, 
+Te weten: dat het volck eens Vorsts ghewapent sterck 
+Wtroeyen zou de Stad, het volck, en d'heyl'ghe Kerck, 
+En schorssen 't off'ren, en zijn valsche Godsdienst stichten 
+Daer boven d'Arcke 't goud des Cherubs plach te lichten: 
+Ghelijck Messias oock gespelt heeft zoo perfect, 
+Als hy de stralen van zijn Godheyd hield bedeckt, 
+En van d'Olijfbergh zagh het heyr de Stad verrassen, 
+Den Tempel branden, en 't verwoede Roome plassen, 
+En met d'hoefysers van haer henghsten staen in't bloed. 
+Wie niet halstarrigh blijft kan hier door in 't ghemoed 
+Zich oock verzek'ren, dat nae aller Heyl'gen wenschen 
+Verschenen is den Held en Heyland aller menschen, 
+De groote Siloa: vermits men ziet ontruckt 
+Den Ioden haren staf, en haren Staet verdruckt, 
+Iae tot den grond vernielt: ghelijck zulcx elck gegeven 
+Is tot een teecken van d'Oudvader zat van leven, 
+Die God zoo langh aen zijn beloften hield verschuld 
+Tot dat hy Iuda zagh ontsceptert, en onthult 
+Van zynen hoofdband, en ontkleed van zijn gewaden, 
+En 't volck Gods d'aerdsche weelde, en heerlijckheyd versmaden, 
+Zoo haest als het vernam, hoe Davids Godes zoon 
+Om leegh af breken liet den weereldlijcken throon, 
+Een ongeachte prael, indienze wierd gheleken 
+By 's Hemels glori, daer hy zit om uyt te steken 
+Verr'boven al de pracht der Koningen, die oyt 
+Hier lagen overhoop, en vochten haer beroyt. 
+Wat Christen isser, die nu vo'en zal zijn gedachten 
+Met zulcke verckens draf, en op een Heyland wachten 
+
+{==67==} {>>pagina-aanduiding<<}
+
+Die aerdsche kroonen stroyt? die throonen bout in 't slijck: 
+Die nauw bepaelt is met een engh verganghlijck rijck: 
+Die pronckt met staven die inwendigh vast verrotten: 
+Die purper draeght dat opgheknaeght word vande motten, 
+Dat zynen glans vergeet, en haest zijn luyster derft? 
+Ghy huysgenoten Gods, die hier beneden zwerft, 
+Gewisselijck, al waer uw erf het Rijck van Meden, 
+Schoon Persen waer u leen, en Nimrots groote steden 
+Uw loth, schoon of al 't oost voor u op 't aenzicht viel: 
+'T waer noch een krancke troost verworven voor de ziel: 
+Al blonck uw lichaem als een Zon, die zat van stralen 
+Op haren middagh bralt, eer zy gaet nederdalen: 
+Wat mochtet baten, als een langh gevreesde dood 
+Op't onverzienst' voor u deze aerdsche glori sloot. 
+Laet dan de dwazen gaen brageren en hoogh roemen 
+In dingen, die slechts zyn verwelckelijcke bloemen: 
+Vlieght ghy uyt d'ydelheyd nae boven van bene'en: 
+Klimt op daer Iesus word van d'Eng'len aengebe'en: 
+Daer 't heyrschaer nimmer moe, met juychen, en met springen 
+Droomt nergens anders af als van hem lof te zingen: 
+Daer d'Ouderlingen op haer herpen kunstigh slaen: 
+Daer alle tortzen, daer de sterren, Zon, en Maen, 
+Zijn enckel duysternis, ten opzien van den genen 
+Die 't end'loos Rond vervuld, en niets laet onbeschenen: 
+Daer 't nieuw Ierusalem heeft gants een ander schijn: 
+Daer al de straten goud, de poorten peerlen zijn: 
+Daer 's Dryheyds Majesteyt verstreckt aen alle kanten 
+Der Hemel-lieden Kerck: daer alle diamanten 
+Verliezen haren glans: daer God zich maeckt gemeen, 
+En duyzend jaren zyn als onzer dagen een. 
+Wie zal nu twijff'len dat de wet met al haer feesten, 
+'Twieroocken, 't slachten, en 't opofferen der beesten, 
+De reynigingen, en wat dienst daer meer aen kleeft: 
+Is donckerheyd, by 't geen dat schoonder luyster heeft? 
+
+{==68==} {>>pagina-aanduiding<<}
+
+Wie zal de schaduwen omhelzen voor de waerheyd? 
+Of kiezen Moses glans voor Christus gulde klaerheyd? 
+Die blonck op Thabor van zijn voorhoofd als een zon: 
+Wie Levi aenzien voor den tweeden Aäron? 
+Die in een schoonder Koor gaet storten zijn gebeden 
+Als oyt Hooghpriester, die hier wieroockte beneden 
+In 't heylighdom, dat nu gebroken en geschend 
+Elck raed dat hy 't gemoed nae 's Hemels kercken wend: 
+Van derwaerts Iesus 't mann' laet regenen by vlagen, 
+Veel zoeter als de broon die op de tafel lagen 
+Voor 't Priesterlijck geslacht: van derwaerts elck bereyt 
+Is spyze die de ziel toebrenght onsterflijckheyd. 
+O Bruyt van mynen Vorst, verkorene Gemeente, 
+Keert vry uw aengezicht van 't vlammigh borstgesteente, 
+Daer uwen Phenix me' gingh brallen eens om 't jaer, 
+Als of hy niet meer mensch, maer gants vergodet waer: 
+Die glanssen zijn gebluscht waerom ghy stond verwondert, 
+Die diensten hebben uyt: ziet Levi eens geplondert 
+Zoo naeckt staen zonder kleed, en treuren om den schat, 
+En 't goud, dat Israël zijn Kerck geheylight had. 
+Zoo ghy een Priester zoeckt versmaed dit driftigh Eyland, 
+Gaet nae de sterren toe, daer vindy uwen Heyland, 
+Niet opgesmuckt met zijde, of wormgespinsel, neen, 
+Zijn kleed is enckel licht van boven tot bene'en. 
+Ziet wat een ronde kringh van louter vlam, en stralen 
+Omzweeft zijn Majesteyt. ey ziet eens neder dalen 
+Die zoete Cherubijns, en Seraphynen om 
+'t Schoon aenschijn door te zien van 's Hemels Bruydegom: 
+Zy loncken lodderlijck, en blyven op hem staren: 
+Volght haren voorgangh: laet de doode Priesters varen, 
+En rusten in het graf: leent niet meer Moses mond 
+Maer Christus lippen 't oor: omhelst het nieuw Verbond. 
+Vermengt geen goud met lood. waerdeert het beeld geringer 
+Als 't leven daer 't op heeft gewezen met de vinger. 
+
+{==69==} {>>pagina-aanduiding<<}
+
+Dit treurspel dat hier is gespeelt zoo bloedigh langh, 
+En nu besloten met der Ioden ondergang, 
+U Gods rechtveerdigheyd en strengheyd uyt gaet drucken, 
+Die wraecke neemt van 't quaed, en alle booze stucken, 
+En tot waerschouwingh van een ygelijck persoon 
+Stelt als een baecken dit verdelght geslacht ten toon: 
+Gelijck de Rechters op het galgeveld de boeven, 
+Die overgeven vaeck haer Ouwderen bedroeven, 
+Iae een geheele Stad: brandstichters, en verra'ers, 
+Straetschenders, dieven, en vervloeckte moordenaers, 
+Met knodze, vuyr, en stael, met koorden en met stroppen, 
+Raey braecken, worgen, slaen, ophangen, branden, koppen, 
+En wegen op de straf nae elcx begangen feyt: 
+De plaetze van 't gerecht geeft een afgryslijckheyd 
+Den reyzigers, wanneer zy palen, raden, galgen, 
+En kruyssen zien van verr', die haer het hert doen walgen 
+Van d'eysselijcke stanck, en 't aenzicht al verschrickt 
+Afwenden van 't geboeft', dat d'oogen uytgepickt 
+En halfgegeten, spijst den Kraeijen en den Raven, 
+En d'Arenden, die in haeringewand begraven 
+'t Verschroockte menschenvleesch, verdort en zwert gebrae, 
+Een vette buyt waer op dees Dieren ledigh gaen. 
+De loon van misdaed in haer knagende geweten 
+Vaeck wierden overtuyght, wanneer zy Gods Propheten 
+Verpletterden met steen, en blixemden haer 't hoofd. 
+Maer och! hoe was dat volck van 't Hemels licht berooft, 
+Als zy ophoopten noch d'afgrijsselijcke zonden, 
+En 't onbesmette Lam zoo bits nae 't leven stonden: 
+Hoe was al 't helsche Spoock ontketent op die dagh, 
+Als God zijn liefste Zoon zoo bloedigh sterven zagh: 
+Die strengh ghebonden, en geslagen, en bespogen, 
+Geruckt wierd, en gepluckt, gesleept, en voortgetogen: 
+Die naeckt ten toon gestelt eens yeders gaepspel was: 
+Doen 't al, kruyst kruyst hem, riep, en lost ons Barrabas, 
+
+{==70==} {>>pagina-aanduiding<<}
+
+Zyn bloed zy op ons breyn: doen hy van schreyen moede 
+Zyn borst gemarmert, en gestreept zagh van de roede: 
+Doen hy in 't Richthuys droegh het purper tot zyn hoon: 
+Gesceptert met een riet, gemytert met een kroon 
+Van scherpe doornen, die het Kryghsvolck om zyn herssen 
+Gingh vlechten, en verwoed om zyn hoofdslapen perssen, 
+Dat een slaghregen van roo druppelen al meer 
+Droop langs zyn voorhoofd, en zyn heyligh aenschijn ne'er: 
+Aldus mismaeckt, most hy met pynelijcke gangen 
+'Thout dragen daermen hem gespalckt korts aen zou hangen: 
+O wreedheyd ongehoord! zoo wierd hy als een guyt 
+Gedoemt ten galgenbergh, en most ter poorten uyt. 
+Hem volgde een droeve Rey van Vrouwen, en van Maegden, 
+Die gaende sloegen voor haer borsten, en beklaeghden 
+Den heyligen Propheet, die door de gansche Stad 
+Veel krancken oon artzny van 't bed geholpen had. 
+Indien noch 't loos gebroed zijn straf had willen keeren, 
+Zy wierd hun klaer gespeld zelf van de mond des Heeren, 
+Die zich omwende, en riep: helaes! bedruckte Rey, 
+Wat weendy over my, maeckt eer een veldgeschrey, 
+En uwen val beklaeght: want ziet ick zie genaecken 
+De fackel die uw Stad verbranden zal en blaecken: 
+Dan zalmen roepen: o geluckigh is die geen, 
+Die noyt onnoozel vrucht zagh hangen aen haer speen: 
+O drymael zaligh die noyt blyde moeder waren, 
+Diens buycken nimmer zyn geslonckcn nae het baren. 
+Zoo sprekende, genaeckte hy 't Heydensche Gericht, 
+'T vervloeckte Golgotha dat wit van schedels licht. 
+Hier most hy naeckt aen 't hout gehecht, te schendigh lyden 
+Twee Moorders, die hy zagh gekruyst op beyde zyden: 
+Hier wierp de Krijghs-Knecht om zijn kleederen het loth: 
+Hier bad hy voor zijn beuls, en wierd van nieuws bespot: 
+Met galle en eeck gelaest. hier zagh hy 't handenwringen 
+Zijns Moeders, en een zweerd haer droeve ziel doordringen: 
+
+{==71==} {>>pagina-aanduiding<<}
+
+Hier schreyde hy! God waerom verlaet ghy uwen Zoon! 
+Dat zynen moordschreeuw klonck in 's Hemels hooghsten throon; 
+VVy zagen hem terstond den lesten doodsnack geven, 
+En droegen flucx zijn ziel in 't vrolijck eeuwigh leven, 
+In 't lieflijck Paradijs: van derwaerts zaghze ne'er, 
+En zagh 't verlaten vleesch doorsteken met een speer: 
+De Zonne gaen te rugh: de çierlijcke tapyten 
+Des Tempels scheuren, en van zelf aen stucken ryten: 
+Het aerdrijck zidd'ren, en de Dood haer ys'ren staf 
+Verworpen, als de doon opkeken uyt het graf. 
+O Christen Schare laet zijn droevigh lyden breken 
+Uw steenen hert, en denckt of God om zich te wreken 
+Van 't goddeloos geslacht niet dobbel oorzaeck heeft, 
+VVanneer 't zijn goedheyd zoo ondanckbaer wederstreeft: 
+Dus spiegelt u, en vreest, eer ghy me' word verstooten: 
+VVant heeft hy niet verschoont naturelijcke loten, 
+Veel minder ongequetst die van zijn blixems blijft, 
+Die tegen de natuyr den boom is ingelijft: 
+Of zydy Iacobs zaed, zoeckt geenen roem te halen 
+Voor God, om dat uw stam van Abram komt te dalen: 
+Om dat ghy zijt besne'en: noch steunt niet op de VVet: 
+Maer door 't geloove uw hope op Iesus Christus zet. 
+In dees verstooringe, en beschreijelijcke ellende, 
+Als in een tafereel, oock aller dingen ende 
+VVord levende afgemaelt, en naeckt gestelt ten toon, 
+Dat niets blinckt hier bene'en zoo heerlijck, noch zoo schoon, 
+Zoo sterck, zoo groot, zoo trotz, zoo prachtig, noch zoo heyligh, 
+Dat voor een snel verderf zich kan beschutten veyligh. 
+Ziet vry Ierusalem eens met opmercken aen: 
+Ghy ziet de weereld met haer vesten ondergaen, 
+En niets geschapen dat in eeuwigheyd zal duren. 
+Laet alle Steden prat, en stout zijn op haer muren, 
+VVachttoornen, poorten, en bolwercken Hemelhoogh, 
+Valbruggen, yzerwerck, en grachten nimmer droogh: 
+
+{==72==} {>>pagina-aanduiding<<}
+
+Wat magh het baten, als de ionghste dagh der dagen 
+Komt steuren 's weerelds Feest met alderhande plagen? 
+Als God zich rust ten strijd, en datmen 't Christendom 
+Als in slaghoorde vind tweespaltigh staen alom, 
+Rijck tegen Rijck gekant, en dat d'hoofdstoffen stuyten 
+Nature in haren loop, en gaen haer ampt te buyten? 
+Wanneer d'onzuyv're locht een snelle pest verweckt, 
+Het Kerckhof mest, en 't land alsins met dooden deckt? 
+Wanneer de Zee verlaet haer palen niet om temmen, 
+Te lande berst, en briescht, en op de baren zwemmen 
+De menschen doet, en 't vee? wanneer het aerdrijck beeft, 
+En uyt den afrond loyt, en een gehuyl opgeeft, 
+En hooge Klippen scheurt, en overstulpt met Rotzen 
+De Ste'en, die hangende aen 't gebergte elck wilden trotzen? 
+Wanneer den Hemel derft zijn blinckende gestalt, 
+Zijn Sterren stroyt, de Maen haer zilv're pruyck ontvalt, 
+De Zon zijn gouden huyve, en dat met groot vergrammen 
+Den AEther uytberst, en de weereld steld in vlammen? 
+Dan zal de Reye der Aertz Eng'len dalen af, 
+En met bazuyngeklangh verwecken uyt het graf, 
+En dagen voor 't gericht de dooden lange ontslapen, 
+En zamelen 't gebeent': de baren zullen gapen, 
+En braecken lyven uyt die schuurden haren grond, 
+En die verzwolgen zijn van visschen groot van mond. 
+Het aerdrijck zal zijn doon, de Zee haer lijcken geven, 
+En Adam al zijn zaed zien voor hem staen, en leven. 
+De Caesars zullen uyt haer tomben hemelwaert 
+Een grooter Caesar zien, en vluchten al vervaert 
+Voor zijn strengh aengezicht: de Vorsten eys lijck huylen: 
+Ach bergen valt op ons! versteeckt ons helsche kuylen! 
+Ons scepters hebben uyt, ons glori heeft gedaen: 
+Wat vyerschaer spantmen hier: wie kan voor hem bestaen. 
+'t Geslacht der Ioden met verwonderingh zal spreken: 
+Dit 's hy wiens zy de met een yzer wierd doorsteken: 
+
+{==73==} {>>pagina-aanduiding<<}
+
+Dit is hy die betrad de dorpels van ons huys, 
+En hingh op Golgotha gedoemt, en storf aen 't Kruys: 
+Waer bergen wy ons ziele! het dun getal der vromen, 
+Dat Christus door 't geloove heeft vrolijck aengenomen, 
+En 's weerelds pracht versmaed, en had om zynen Naem 
+Noch schat, noch borgerschap, noch staet, noch lof, noch faẽ, 
+Maer ramp, en tegenspoed: ia wierd vaeck vander eerden 
+Verdelght van felle beuls met koorden, vuyr, en zweerden: 
+Dat Christen hoopken zal ter rechterhand vooraen 
+Geplaetst zijn lichten blyde op zynen Heyland slaen, 
+En vliegen Hemelwaert nae boven, als 't zal hooren 
+Die vreughdenrijcke Stem: Komt hier mijn uytverkoren: 
+En met een Feestgewaed omgord van enckel Zon 
+Verzellen gaen om hoogh den tweeden Salomon: 
+Die om elck nae verdienst zijn vonnis uyt te meten, 
+Is op geen Stoel van goud, en elpenbeen gezeten, 
+Maer inde wolcken bralt, met grooter Majesteyt 
+Als Esaias zagh voorheen Gods heerlijckheyd: 
+Bralt zegge ick op een Throon, die vande Seraphynen 
+Gedragen, niet en doet als blixemen en schynen, 
+En werpen strael op strael. ziet hoe verbaest voor hem 
+De Goddelooze vli'en dees donderende Stem: 
+Vervloeckte gaet van my! 't berouw komt hier te spade: 
+Geen aflaet geeftmen hier: hier schenckt God geen genade: 
+Ziet hoe al 't Helsche Spoock met zeldzaem gekrioel 
+Met zynen peckstock stouwt de Zielen inden Poel. 
+Ziet hoe Beëlsebub zijn kerckers en zijn holen 
+Met zwavel propt, en met onlesschelijcke kolen, 
+En pijnt de naeckten met een endelooze dood: 
+Terwijl de Christen Rey in Abrams zachte schoot 
+Gewenschte rust geniet, en inden Paradyze 
+'t Verborgen Manna smaeckt, en nut der Eng'len spyze. 
+Ghy Bondgenooten Gods gaet in door d'enge poort 
+Nae deze Bruylofts Feest, en blyschap noyt gehoort, 
+
+{==74==} {>>pagina-aanduiding<<}
+
+En met uw voorbeeld, en oprechtigheyd wilt nooden 
+Tot uw gemeenschap steeds het overschot der Ioden: 
+Dat nae veel zwarighe'en, nae veel geleden smaed 
+Den Zoon zal kussen, en de Goddelijcke raed 
+Gehoorzaem zijn, nae dat 't getal vervult zal wezen 
+Der Heydenen, die God en 's weerelds Heyland vreezen. 
+
+
+
+
+Simeo. 
+Lof zy Iehova die ons wormkens vrund'lijck is, 
+En toont den rijcken schat van zijn geheymenis: 
+Die zynen Engel zend uyt 's Hemels hooge kercken, 
+Om ons t'ontsluyten wat wy hebben aen te mercken 
+In Iacobs droeven val, en iammerlijcke ellend. 
+Mijn Christenen, dit in uws herten tafel prent: 
+Aenmerckt Gods strengheyd aen de geen die hem verachten, 
+Zijn groote goedigheyd aen al die op hem wachten. 
+Door een is 't nu voldaen, 
+
+
+EYNDE.
+
+
+
+{==75==} {>>pagina-aanduiding<<}
+
+Davids Lofzangh van Hiervsalem: Die heerlycke en Heylige Stad Gods.
+
+
+Of een Poëtische uytbreydinge over den 122. Psalm/ Ick verheuge my dies dat my gezeyd is, &c.
+
+
+	1.
+WANNEER ick over 't hoofd Ierusalems zie hangen 
+Het uytgetogen zweerd dat harenschedel dreyght: 
+Wanneer ick Sion zie met ketenen gevangen, 
+En dat zoo schoonen Zon haer p'ruyck ter aerden neyght: 
+
+
+
+	2.
+Als ick ons daecken zie en muren omgevallen, 
+Ge-effent met het gras dat 't leeghste dal besloegh, 
+En 't pratte Babilon met dees' Tropheen gaen brallen 
+Die David zegenrijck den Philistijn ontjoegh: 
+
+
+
+{==76==} {>>pagina-aanduiding<<}
+
+
+	3.
+Dan sterft myn hert van rouw, dan gaet het op een schreijen, 
+Dan ben ick als de sneeuw die voor den Zomer smelt: 
+Dan gaet myn droeve ziel in 't dal van droefheyd weijen, 
+Daer stadigh eenen stroom van vochte peerlen zwelt. 
+
+
+
+	4.
+Maer als ick, wederom gekomen tot my zelven, 
+De spitsen ryzen zie van 't heerlyck nieuw gebouw, 
+Den Tempel en 't Paleys, die prachtige gewelven, 
+Dan schep ick zo veel vreugds als voormaels was de rouw. 
+
+
+
+	5.
+Dan spreeck ick by my zelf: o Salem uytverkoren! 
+Van blyschap iuyght myn hert, van vreugd ontspringt myn ziel, 
+Om dat, ick weet niet wie, my luyst'ren komt in d'ooren: 
+De Stad is we'er gebouwt die voormaels neder viel: 
+
+
+
+	6.
+God God heeft aengezien 't boetveerdige verned'ren 
+Van zyn twaelfstammigh volck gevangen aen d'Euphraet, 
+De Tempel wederom met Marmorsteen en Ced'ren 
+Den Sterren 't voorhoofd bied, en nae de Wolcken gaet. 
+
+
+
+	7.
+Het Heylighdom dat praelt met goude en zilv're vaten: 
+De Priest'ren op een nieuw 't hoog Altaer smoocken doẽ: 
+Men hoort de Rund'ren we'er en vette Koeijen blaten, 
+Welcx smeer geheylight is om 't offervuyr te vo'en. 
+
+
+
+	8.
+Klimt op in 's Heeren huys, klimt op in 't huys des Heeren, 
+Van onzer Vad'ren Stad de poorten open staen. 
+Laet 's Priesters lippen u Gods Wet en zeden leeren, 
+En aen zijn voetschabel roept uwen Koningh aen. 
+
+
+
+{==77==} {>>pagina-aanduiding<<}
+
+
+	9.
+O uytverkoren Stad! o Moeder aller Steden! 
+Door 's Hemels schickingh zelf niet by geval gesticht, 
+Tot een byzonder eynd, door 's Oppersten beleden; 
+Ghy zult myn doelwit zyn, en stof van myn gedicht. 
+
+
+
+	10.
+O eere van Iudeen! o Zetel van de Stammen 
+Die met den heyl'gen glans eens Godheyds zyn bekleed! 
+Ghy blinckt met 's Koninghs kroon, en 's Tempels heyl'ge vlammen 
+Dat elck een die u siet van u te spreken weet. 
+
+
+
+	11.
+Den yver my verslind, en krenckt by nae myn zinnen 
+Wanneer ick vieren help op t' statighst 't hooge Feest: 
+Dan ben ick naulycx mensch, maer een der Cherubinnen: 
+Myn Lichaem is wel hier maer elders mynen Geest. 
+
+
+
+	12.
+Men ziet een weereld hier van menschen t' zamen dringen, 
+Van wyd en zyd te hoop vergadert op een ste': 
+Gelijck de vloeden die van hier en daer ontspringen, 
+En geven zich op 't lest uyt d'enghten in een Zee. 
+
+
+
+	13.
+De Priesterlycke Rey, welrieckende van 't smeeren, 
+Uytmuntende in çieragie, elcx aenzicht tot zich haelt. 
+In rocken, gordels, hoen, en geschakeerde kleeren 
+In goud en klaer gesteente het oogh bynae verdwaelt. 
+
+
+
+	14.
+'t Slachtoffer eerst gehecht geknoopt aen 's Altaers hoornen, 
+Met zyn warm ingewand het heyligh plat beslaet. 
+Den Hemel, die zich om 's volcx zonden gingh vertoornen, 
+Op d'Offerhanden ziet, en zich verzoenen laet. 
+
+
+
+{==78==} {>>pagina-aanduiding<<}
+
+
+	15.
+Daer vanght dan 't loven aen, daer zingtmen Gode Psalmen: 
+De wind het snarenspel en 't Goddelijck Musyck 
+In 't hangende gewelf doen d'Echo wedergalmen. 
+Dan juychense als om strijd met d'Eng'len algelijck. 
+
+
+
+	16.
+God Iacobs, roepen zy, van kalveren noch stieren 
+Kan 'tuytgestorte rood afwasschen onze smet, 
+Maer een veel eed'ler bloed van 't slachtschaep goedertieren, 
+Ons allen tot een zoen en offer voorgezet. 
+
+
+
+	17.
+Wy zien alleen op Hem, op Hem alleen wy oogen. 
+Hy word door deze dienst ons levende afgebeeld. 
+O komt MESSIAS! komt, en helpt ons onvermogen, 
+Op dat de schaduw vlie die ons voor d'oogen speelt. 
+
+
+
+	18.
+Lof lof zy Gode en 't Lam dat eer de sterren bloncken 
+Ons met zijn dier baer bloed hem zelven heeft gekocht. 
+Heft als gevleugelt op uwe herten leegh gezoncken, 
+En draeght des hoochsten roem ten wolcken inde locht. 
+
+
+
+	19.
+O peerle van het rijck! o hoofdstad uytgelezen! 
+Noch zwyge ick dat in u van elpenbeen en goud 
+Staet vol van majesteyt de rechterstoel gerezen, 
+Daer elck zijn vonnis haelt als Iuda vierschaer houd. 
+
+
+
+	20.
+Hier dringtmen voor 't paleys. d'een moet den Koning spreken, 
+En d'ander hem te zien is al zyns herten wensch: 
+Zoo flucx hy zich vertoont is elcx gemoed bezweken, 
+Als hy meer God gelijckt dan eenigh sterflijck mensch. 
+
+
+
+{==79==} {>>pagina-aanduiding<<}
+
+
+	21.
+Dat Memphis 't hoofd in hael, en vry den moed laet dalen 
+Voor 't glinst'rende Kasteel dat inde bergen light. 
+Dat Sidon niet eens droom dees' spitsen t'achterhalen, 
+En Tyrus elders wende haer schaemrood aengezicht. 
+
+
+
+	22.
+Zy pronckt gelijck de Bruyt eens Koninghs hooghverheven. 
+Kleynoodgie is haer çieragie, en purper hare dracht. 
+Den Hemel scheen verlieft zijn trouwe aen haer te geven, 
+En heeft om dees' Godin alle and're ste'en veracht. 
+
+
+
+	23.
+Zy schijnt een Paradijs omhelst van zilv're beken, 
+Een Eden daer het Mann' aen 't hout des levens groeyt, 
+Een rieckende prieel dat nergens by geleken 
+Geen wintervlagen voelt, maer altijd jeughdigh bloeyt. 
+
+
+
+	24.
+Zy treed gelijck een Paeuw, wiens schemerende schachten 
+De schoonste Vogl'en zelf ontluyst'ren heel beschaemt. 
+Maer zacht, mijn Zangeres! daer schiet in mijn gedachten 
+Dat zy geen roem ontbeert die alsins is befaemt. 
+
+
+
+	25.
+'t Zy dat ick dan aenzie dat binnen uwe wallen 
+'t Hoofd Levi vet gezalft, en Iuda word gekroont: 
+Datze elck nae haren staet op 't alderheerlijcxt brallen, 
+En dat d'een 't heylighdom, en d'ander 't hofbewoont: 
+
+
+
+	26.
+Het zy dat ick aenzie, dat ghy begrijpt de Kooren 
+Van 't blinckende gewelf't welck Gode is toegewijd, 
+Daer d'Hemel de gebe'en der Heyl'gen wil verhooren, 
+En als wy zijn vervloeckt ons we'er gebenedijd: 
+
+
+
+{==80==} {>>pagina-aanduiding<<}
+
+
+	27.
+Het zy ick u aenschouwe als 't beeld, dat ons nae 't leven 
+Een Stad voor oogen bootst, waer van dat yder een, 
+Elck een die van de Geest des Heeren word gedreven 
+In 't lest der dagen word een levendige steen: 
+
+
+
+	28.
+Het zy ghy 't munster my wilt van die Stad toeschynen 
+Daer onzer Vad'ren God van is de Timmerman, 
+Wiens poorten Peerlen zyn, wiens muren zyn Robynen, 
+Een Stad die eeuwigh blyft, noch zich bewegen kan: 
+
+
+
+	29.
+Ghy zyt Ierusalem en blijft myns herten weelde. 
+Dat Iacob als hy is ontlast van Babels juck 
+Van verre u heyl toewenschte, en zynen zegen deelde! 
+Dat op uw minnaers daelde een regen van geluck! 
+
+
+
+	30.
+Vermids de brand des twists ne'erblixemt hooge muren, 
+En voorspoed in de schoot van vrede en eendracht rust, 
+Moet vrede in u altyd en eeuwiglycken duren, 
+En 't vuyr des dullen kryghs steeds blyven uytgebluscht. 
+
+
+
+	31.
+Om onzer broed'ren wil, ter liefde van de vrunden, 
+Die ghy een herbergh streckt en aengename woonst, 
+Wy hertelycker noch u vrede en welvaert gunden, 
+En wenschen dat ghy groeyt en bloeyt op 't alderschoonst'. 
+
+
+
+	32.
+Om d'heyl'ge dorpels oock, die binnen uwe vesten 
+Geplaetst zyn, en betre'en van Aärons geslacht, 
+Ick steeds betrachten wil al 't geen u dient ten besten, 
+Gelyck een die uw heyl zyn heyl te wezen acht. 
+
+
+EYNDE.
+Door een is 't nu voldaen,
+
+
+
+

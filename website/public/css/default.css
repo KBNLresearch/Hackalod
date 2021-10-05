@@ -1,0 +1,286 @@
+body {
+    margin: 0;
+    font-family: helvetica, arial;
+    font-size: 14px;
+    background-color: #F0F2F5;
+}
+
+.menu {
+    position: relative;
+    background-color: white;
+    margin: 0;
+    height: 56px;
+    line-height: 56px;
+    display: flex; 
+}
+
+.menu .logo_div {
+    height: 56px;
+    width: 56px;
+    display: flex;
+    float:left;
+  
+}
+.menu .logo {
+    margin: auto;
+    height: 40px;
+    width: 40px;
+}
+
+.menu .search-container{
+    position: relative;
+    float: left;
+    height: 56px;
+    display: flex;
+}
+
+.menu .search {
+    background-color: #F0F2F5;
+    color: #A5A7AB;
+    margin: auto;
+    height: 40px;
+    width: 220px;
+    border-style: none;
+    border-radius: 25px;
+    outline: none;
+    padding-left: 36px;
+}
+
+.menu .mag{
+    height: 18px;
+    width: 18px;
+    position: absolute;
+    left:10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.menu .buttons{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 56px;
+    display: flex;
+}
+
+.menu .buttons_img{
+    width: 112px;
+    height: 56px;
+    display: flex;
+}
+
+.menu .icon_menu{
+    margin: auto;
+    height: 28px;
+    width: 28px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+}
+.page_header {
+    height: 100%;
+    background-color: #FFFFFF; /* For browsers that do not support gradients */
+    background-image: linear-gradient( #978362 0%, #FFFFFF 250px);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header_img{
+    position:relative;
+    background-color:white;
+    /*width: 944px; */
+    height: 362px; 
+	width: 60%;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    
+}
+
+.background_img{
+    width:100%;
+    height: 348px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.profile_div{
+    position: absolute;
+    background-color: white;
+    width: 154px;
+    height: 154px;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+    border: 4px solid white;
+    border-radius: 50%;
+}
+
+.profile_img{
+    width:100%;
+    height:100%;
+    border-radius: 50%;
+}
+
+.header_bio{
+    position:relative;
+    background-color: white;
+    width: 57%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line_div{
+    width: 57%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+hr.line {
+    border: 1px solid #CCCED2;
+    width: 100%;
+ 
+  }
+
+.submenu {
+    position:relative;
+    background-color:white;
+    width: 57%;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+}
+
+.subbutton{
+    background-color: white;
+    width: 76px;
+    height: 58px;;
+    border: none;
+    cursor: pointer;
+}
+
+.page_body {
+    background-color: #F0F2F5;
+    display: flex;
+}
+
+.body_container{
+    position:relative;
+    background-color:#F0F2F5;
+    width: 57%;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.body_left{
+    background-color: #F0F2F5;
+    width: 45%;
+    display: flex;
+    float:left;
+    flex-direction: column;
+
+}
+
+.body_right{
+    background-color: #F0F2F5;
+    width: 55%;
+    display: flex;
+    float:left;
+    flex-direction: column;
+}
+
+.body_content{
+    background-color: white;
+    width: 90%;
+    /*padding-top: 20px; */
+    /*padding-left: 15px; */
+    margin-top: 14px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px #CCCED2;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left:15px;
+}
+
+.p_intro {
+    padding-left: 50px;
+}
+
+.intro_img{
+    width: 20px;
+    height: 20px;
+    padding-left: 15px;
+    float: left;
+}
+
+.photos{
+    padding-left: 15px;
+}
+
+.photo_img{
+    margin: 3px;
+}
+
+.friend{
+    float: left;
+    padding-top: 5px;
+    max-width: 107px;
+    max-height: 150px;
+    min-width: 107px;
+    min-height: 150px;
+    margin: 1px;
+}
+
+.friends{
+    padding-left: 15px;
+}
+
+
+.post_prof{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.post_img{
+    width: 100%;
+   
+}
+
+.p_title{
+    padding-left: 55px; 
+}
+
+.p_text{
+    padding-left: 10px; 
+}
+
+.likes{
+    padding-top:5px;
+    float: left;
+}
+
+.p_likes{
+    padding-top: 0px;
+}
+
