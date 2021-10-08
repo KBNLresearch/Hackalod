@@ -17,7 +17,7 @@
 * [Occupation, year of birth/death, Commons cats](https://w.wiki/498z)
 
 ### Contributors and their contributions
-* [SPARQL query]() that for every AAJH contributor, lists their contributions to the AAJH
+* [SPARQL query](https://w.wiki/4ByM) that for every AAJH contributor, lists their contributions to the AAJH
 * See the reverse query below: [Contributions and their creators](#contributions-and-their-creators)
 
 ### All properties of contributors
