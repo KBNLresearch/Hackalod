@@ -18,7 +18,7 @@
 
 ### Contributors and their contributions
 * [SPARQL query]() that for every AAJH contributor, lists their contributions to the AAJH
-* See the reverse query below: Contributions and their creators
+* See the reverse query below: [Contributions and their creators](#contributions-and-their-creators)
 
 ### All properties of contributors
 * [Overview of all properties of contributors](https://w.wiki/F7u)
