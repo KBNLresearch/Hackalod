@@ -17,6 +17,15 @@
 * [Occupation, year of birth/death, Commons cats](https://w.wiki/498z)
 
 ### Contributors and their contributions to the AAJH
+SPARQL query die per bijdrager zijn/haar bijdrage (de afbeelding) van het album weergeeft
+
+Dat lukt op dit moment maar zeer spaarzaam, omdat de items over de bijdragen nog niet allemaal voorzien zijn van de bijdrager (zie bv het ontbreken van creator/author (oid) in dit item https://www.wikidata.org/wiki/Q105528355
+
+Wel voor deze paar:
+https://w.wiki/4Aw7 (via P50)
+https://w.wiki/4Aw9 (via P170)
+
+
 
 ### All properties of contributors
 * [Overview of all properties of contributors](https://w.wiki/F7u)
