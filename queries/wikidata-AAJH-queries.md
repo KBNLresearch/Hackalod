@@ -88,7 +88,7 @@
 ```
 * [Image gallery](https://w.wiki/49Ba) from SPARQL query in Wikidata - and [as JSON](https://query.wikidata.org/sparql?query=%23defaultView%3AImageGrid%0ASELECT%20DISTINCT%20%3Fcontribution%20%3FcontributionLabel%20%3Fimage%20WHERE%20{%0A%20%20wd%3AQ72752496%20wdt%3AP527%20%3Fcontribution.%0A%20%20OPTIONAL%20{%20%3Fcontribution%20wdt%3AP18%20%3Fimage.%20}%0A%20%20SERVICE%20wikibase%3Alabel%20{%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cnl%22.%20}%0A}%0AORDER%20BY%20(%3Fimage)&format=json)
 * Finding things depicted in (images of) AAJH: _[50 cool new things you can now do with KB’s collection highlights - Part 5, Reuse](https://kbnlwikimedia.github.io/KBCollectionHighlights/stories/Cool%20new%20things%20you%20can%20now%20do%20with%20the%20KB's%20collection%20highlights/Part%205%2C%20Reuse.html)_ --> item 47
-
+* Adding P180-Depicts tags to the structured data of images of AAJH contributors on Wikimedia Commons --> https://github.com/KBNLresearch/Hackalod/issues/2
 
 
 
