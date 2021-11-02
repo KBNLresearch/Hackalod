@@ -84,3 +84,5 @@ There are two sets of KB alba available on Europeana
 
 ## Obtaining album contributions from Europeana RoL set
 * As the Europeana RoL set is identical to http://data.bibliotheken.nl/doc/dataset/rise-alba, this is further explained in [databibliotheken-queries.md](databibliotheken-queries.md)
+
+## Obtaining album contributions from EuropeanaTravel for individual AAJH contributors, via federeated sparql from wikidata
